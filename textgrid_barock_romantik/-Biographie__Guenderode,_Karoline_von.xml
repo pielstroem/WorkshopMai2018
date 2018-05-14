@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Günderode, Karoline von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Günderode, Karoline von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-2085-C</idno><idno type="TextGridUri">textgrid:pb4g.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:pb67.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Karoline von Günderode (Lithographie von Schertle)</ab>
+                  </figure>
+ 
+
+                  <head type="h1" xml:id="tg1.2.3">Karoline von Günderode</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1780–1806)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1780</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">11. Februar:</hi> Karoline Friederike Louise Maximiliane von Günderode (Günderrode) wird in Karlsruhe als Tochter des badischen Hof- und Regierungsrats Hector von Günderode geboren, der historische Werke und Idyllen publiziert hatte.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1786</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Tod des Vaters.</p>
+                     <p xml:id="tg2.4.9">Karoline von Günderode siedelt mit der Mutter und sechs Geschwistern (drei sterben als Kinder) nach Hanau über.</p>
+                     <p xml:id="tg2.4.10">Die Mutter wird Hofdame beim Landgrafen Wilhelm von Hessen. Sie lebt über ihre Verhältnisse und braucht das Erbe auf.</p>
+                     <p xml:id="tg2.4.11">Da die Mutter ihren Töchtern das ihnen zustehende Erbteil verweigert, kommt es zu gerichtlichen Auseinandersetzungen.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1797</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Aus wirtschaftlichen Gründen tritt die Günderode in das »von Cronstetten-Hynspergische adelige evangelische Damenstift« in Frankfurt am Main ein, eine standesgemäße Versorgungsanstalt für unvermögende Töchter aus guter Familie, wo sie finanziell eingeschränkt, sonst aber kaum reglementiert lebt.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1799</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">Begegnung mit Carl von Savigny, zu dem sie eine nicht erwiderte Liebe entwickelt.</p>
+                     <p xml:id="tg2.4.18">Sie verkehrt mehrfach auf dessen Gut Trages bei Hanau.</p>
+                     <lb xml:id="tg2.4.19"/>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="bold" xml:id="tg2.4.20.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.21">Die Günderode lernt Bettina, Gunda und Clemens Brentano kennen. Sie wird in das gesellige Leben des frühromantischen Freundeskreises einbezogen und erhält vielfältige geistige Anregungen.</p>
+                     <lb xml:id="tg2.4.22"/>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="bold" xml:id="tg2.4.23.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.24">Aufenthalte in Hanau und Frankfurt.</p>
+                     <p xml:id="tg2.4.25">Briefwechsel mit Gunda und Clemens Brentano.</p>
+                     <lb xml:id="tg2.4.26"/>
+                     <p xml:id="tg2.4.27">
+                        <hi rend="bold" xml:id="tg2.4.27.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.28">Briefwechsel mit Savigny.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1804</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">»Gedichte und Phantasien« werden unter dem Pseudonym Tian veröffentlicht.</p>
+                     <p xml:id="tg2.4.32">Lebhafter Briefwechsel mit Lisette Nees.</p>
+                     <p xml:id="tg2.4.33">Savigny heiratet die Freundin Gunda Brentano.</p>
+                     <p xml:id="tg2.4.34">Begegnung und Liebesbeziehung mit dem Philologen Friedrich Creuzer in Heidelberg, der seit 1799 mit einer älteren, kränkelnden Witwe verheiratet ist. Heimliche Treffen, Fluchtpläne, vor allem aber die zögerliche Haltung Creuzers charakterisieren die Beziehung.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">Der Band »Poetische Fragmente« enthält u. a. die dramatischen Texte »Hildegund« und »Mahomed, der Prophet von Mekka«.</p>
+                     <p xml:id="tg2.4.38">Creuzer gibt ihr Drama »Udolah« sowie »Magie und Schicksal« heraus.</p>
+                     <p xml:id="tg2.4.39">Reisen nach Heidelberg und Darmstadt.</p>
+                     <p xml:id="tg2.4.40">Wiederholte Krankheitsphasen.</p>
+                     <lb xml:id="tg2.4.41"/>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="bold" xml:id="tg2.4.42.1">1806</hi>
+                     </p>
+                     <p xml:id="tg2.4.43">Die Günderode wird von einem Augenleiden und von Depressionen geplagt.</p>
+                     <p xml:id="tg2.4.44">Wenn ihr Zustand es erlaubt, arbeitet sie an dem Band »Melete«.</p>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="italic" xml:id="tg2.4.45.1">März:</hi> Creuzer spricht Karoline von Günderode frei für andere Beziehungen. Sie zerbricht seelisch.</p>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="italic" xml:id="tg2.4.46.1">18. Juli:</hi> Creuzer kündigt sein Verhältnis zu ihr gänzlich auf. Die Nachricht lässt er durch einen Dritten überbringen.</p>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="italic" xml:id="tg2.4.47.1">26. Juli:</hi> Karoline von Günderode ersticht sich mit einem Dolch in Winkel am Rhein.</p>
+                     <p xml:id="tg2.4.48">Creuzer vernichtet nach ihrem Tod Handschriften ihrer Werke sowie die Druckfahnen der bereits fertig gesetzten Sammlung »Melete« (mit einer Ausnahme, die zur Grundlage des Erstdrucks 1906 wird).</p>
+                     <lb xml:id="tg2.4.49"/>
+                  </div>
+               </body>
+         </text>
+      </TEI>

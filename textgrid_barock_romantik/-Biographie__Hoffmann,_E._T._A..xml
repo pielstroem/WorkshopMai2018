@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Hoffmann, E. T. A./Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Hoffmann, E. T. A.</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-6AD0-B</idno><idno type="TextGridUri">textgrid:q5vm.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:q5x6.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Ernst Theodor Wilhelm Hoffmann (Deckfarbengemälde eines unbekannten Künstlers, um 1795)</ab>
+                  </figure>
+ 
+
+                  <head type="h1" xml:id="tg1.2.3">Hoffmann, E(rnst) T(heodor) A(madeus)</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1776–1822)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1776</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">24. <hi rend="italic" xml:id="tg2.4.5.1">Januar:</hi> Ernst Theodor Wilhelm Hoffmann wird in Königsberg als Sohn des Hofgerichtsadvokaten Christoph-Ludwig Hoffmann und seiner Frau Louise Albertine, geb. Doerffer, geboren.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1778</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Nach der Scheidung seiner Eltern lebt Hoffmann mit seiner Mutter bei der Großmutter.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1782</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Hoffmann tritt in die reformierte Burgschule in Königsberg ein (bis 1792).</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1786</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Beginn der lebenslangen Freundschaft mit Theodor Gottlieb von Hippel.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1790</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">Bei dem Domorganisten Podbielski erhält Hoffmann Musikunterricht und bei dem Maler Saemann Zeichenunterricht.</p>
+                     <lb xml:id="tg2.4.18"/>
+                     <p xml:id="tg2.4.19">
+                        <hi rend="bold" xml:id="tg2.4.19.1">1792</hi>
+                     </p>
+                     <p xml:id="tg2.4.20">Hoffmann imatrikuliert sich an der Universität Königsberg zum Jurastudium.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">Liebe zu der neun Jahre älteren, verheirateten Dora Hatt.</p>
+                     <p xml:id="tg2.4.24">Der dreibändige Roman »Cornaro« entsteht (verschollen).</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1795</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">
+                        <hi rend="italic" xml:id="tg2.4.27.1">Juli:</hi> Hoffmann legt das erste juristische Examen ab.</p>
+                     <p xml:id="tg2.4.28">Er beginn in Königsberg seine Amtstätigkeit als Auskultator und Gerichtsreferendar.</p>
+                     <p xml:id="tg2.4.29">Besuch der Oper »Don Giovanni« von Mozart, Lektüre von Lawrence Sterne, Jean Paul, William Shakespeare und Jean-Jacques Rousseau.</p>
+                     <lb xml:id="tg2.4.30"/>
+                     <p xml:id="tg2.4.31">
+                        <hi rend="bold" xml:id="tg2.4.31.1">1796</hi>
+                     </p>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="italic" xml:id="tg2.4.32.1">März:</hi> Tod der Mutter.</p>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="italic" xml:id="tg2.4.33.1">Juni:</hi> Hoffmann siedelt nach Glogau über, wo er bei seinem Patenonkel lebt.</p>
+                     <p xml:id="tg2.4.34">Bekanntschaft mit dem Maler Aloys Molinary und dem Schriftsteller Julius von Voß.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1797</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">Freundschaft mit dem Komponisten Johannes Hampe.</p>
+                     <p xml:id="tg2.4.38">
+                        <hi rend="italic" xml:id="tg2.4.38.1">April:</hi> Tod des Vaters.</p>
+                     <p xml:id="tg2.4.39">
+                        <hi rend="italic" xml:id="tg2.4.39.1">Mai:</hi> Reise nach Königsberg.</p>
+                     <p xml:id="tg2.4.40">In Königsberg trifft er zum letzten Mal Dora Hatt.</p>
+                     <lb xml:id="tg2.4.41"/>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="bold" xml:id="tg2.4.42.1">1798</hi>
+                     </p>
+                     <p xml:id="tg2.4.43">Verlobung mit der Cousine Minna Doerffer.</p>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="italic" xml:id="tg2.4.44.1">Juni:</hi> Hoffmann legt sein zweites juristisches Examen ab (»Überall ausnehmend gut«).</p>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="italic" xml:id="tg2.4.45.1">August:</hi> Er wird als Referendar an das Kammergericht Berlin versetzt.</p>
+                     <p xml:id="tg2.4.46">Erste Berührung mit dem Glücksspiel.</p>
+                     <p xml:id="tg2.4.47">Reise nach Dresden.</p>
+                     <p xml:id="tg2.4.48">Hoffmann nimmt Kompositionsunterricht bei dem Komponisten und Musikschriftsteller Johann Friedrich Reichardt.</p>
+                     <p xml:id="tg2.4.49">Beginn der Freundschaft mit dem Schauspieler und Gitarristen Franz von Holbein.</p>
+                     <lb xml:id="tg2.4.50"/>
+                     <p xml:id="tg2.4.51">
+                        <hi rend="bold" xml:id="tg2.4.51.1">1800</hi>
+                     </p>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="italic" xml:id="tg2.4.52.1">Frühjahr:</hi> Hoffmann besteht sein drittes juristisches Examen und wird zum Assessor in Posen ernannt.</p>
+                     <p xml:id="tg2.4.53">
+                        <hi rend="italic" xml:id="tg2.4.53.1">Dezember:</hi> Bekanntschaft mit Jean Paul.</p>
+                     <lb xml:id="tg2.4.54"/>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="bold" xml:id="tg2.4.55.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.56">Hoffmann komponiert das Singspiel »Scherz, List und Rache« (nach Goethe), das im gleichen Jahr in Posen aufgeführt wird.</p>
+                     <p xml:id="tg2.4.57">Jean Paul sendet die Partitur an Goethe.</p>
+                     <lb xml:id="tg2.4.58"/>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="bold" xml:id="tg2.4.59.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.60">
+                        <hi rend="italic" xml:id="tg2.4.60.1">März:</hi> Lösung der Verlobung mit Minna Doerffer.</p>
+                     <p xml:id="tg2.4.61">
+                        <hi rend="italic" xml:id="tg2.4.61.1">Juli:</hi> Heirat mit Maria Thekla Michalina Rorer-Trzcinska (Mischa).</p>
+                     <p xml:id="tg2.4.62">Hoffman siedelt in das polnische Plock an der Weichsel über, wohin er wegen Karikaturen auf preußische Offiziere strafversetzt wurde.</p>
+                     <lb xml:id="tg2.4.63"/>
+                     <p xml:id="tg2.4.64">
+                        <hi rend="bold" xml:id="tg2.4.64.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.65">Mit dem Essay »Schreiben eines Klostergeistlichen an seinen Freund in der Hauptstadt« wird in »Der Freimüthige oder Berlinische Zeitung für gebildete, unbefangene Leser« zum ersten Mal eine Schrift Hoffmanns veröffentlicht.</p>
+                     <lb xml:id="tg2.4.66"/>
+                     <p xml:id="tg2.4.67">
+                        <hi rend="bold" xml:id="tg2.4.67.1">1804</hi>
+                     </p>
+                     <p xml:id="tg2.4.68">Reise nach Königsberg und Leistenau.</p>
+                     <p xml:id="tg2.4.69">
+                        <hi rend="italic" xml:id="tg2.4.69.1">März:</hi> Hoffmann wird als Regierungsrat nach Warschau versetzt.</p>
+                     <p xml:id="tg2.4.70">Freundschaft mit Julius Eduard Hitzig, der Hoffmann mit den Schriften der Romantiker bekannt macht.</p>
+                     <p xml:id="tg2.4.71">Hoffmann nennt sich auf dem Titelblatt der Partitur zu »Die lustigen Musikanten« (nach Clemens Brentano) aus Verehrung für Mozart zum ersten Mal Ernst Theodor Amadeus Hoffmann.</p>
+                     <lb xml:id="tg2.4.72"/>
+                     <p xml:id="tg2.4.73">
+                        <hi rend="bold" xml:id="tg2.4.73.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.74">Nähere Bekanntschaft mit Zacharias Werner.</p>
+                     <p xml:id="tg2.4.75">
+                        <hi rend="italic" xml:id="tg2.4.75.1">Mai:</hi> Hoffmann wird Vizepräsident und Sekretär der von ihm mitgegründeten »Musikalischen Gesellschaft«.</p>
+                     <p xml:id="tg2.4.76">
+                        <hi rend="italic" xml:id="tg2.4.76.1">Juli:</hi> Geburt der Tochter Cäzilia.</p>
+                     <lb xml:id="tg2.4.77"/>
+                     <p xml:id="tg2.4.78">
+                        <hi rend="bold" xml:id="tg2.4.78.1">1806</hi>
+                     </p>
+                     <p xml:id="tg2.4.79">Hoffmann tritt bei einem von der »Musikalischen Gesellschaft« organisierten Konzert zum ersten Mal als Dirigent auf.</p>
+                     <p xml:id="tg2.4.80">
+                        <hi rend="italic" xml:id="tg2.4.80.1">November:</hi> Die französische Armee besetzt Warschau.</p>
+                     <p xml:id="tg2.4.81">Die preußische Verwaltung wird aufgelöst und damit Hoffmann aus dem Dienst entlassen.</p>
+                     <lb xml:id="tg2.4.82"/>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="bold" xml:id="tg2.4.83.1">1807</hi>
+                     </p>
+                     <p xml:id="tg2.4.84">
+                        <hi rend="italic" xml:id="tg2.4.84.1">Juni:</hi> Hoffmann zieht nach Berlin, während Mischa sich mit Cäzilia bei ihrer Mutter in Posen aufhält.</p>
+                     <p xml:id="tg2.4.85">
+                        <hi rend="italic" xml:id="tg2.4.85.1">August:</hi> Tod der Tochter Cäzilia.</p>
+                     <lb xml:id="tg2.4.86"/>
+                     <p xml:id="tg2.4.87">
+                        <hi rend="bold" xml:id="tg2.4.87.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="italic" xml:id="tg2.4.88.1">August:</hi> Hoffmann zieht mit seiner Frau nach Bamberg, wo er eine Stelle als Kapellmeister und Theaterkomponist am Theater erhält.</p>
+                     <p xml:id="tg2.4.89">Reise nach Glogau und Posen.</p>
+                     <lb xml:id="tg2.4.90"/>
+                     <p xml:id="tg2.4.91">
+                        <hi rend="bold" xml:id="tg2.4.91.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.92">Das Bamberger Theater muß wegen Mißwirtschaft des Direktors geschlossen werden.</p>
+                     <p xml:id="tg2.4.93">Bekanntschaft mit dem Arzt Adalbert Friedrich Marcus.</p>
+                     <p xml:id="tg2.4.94">
+                        <hi rend="italic" xml:id="tg2.4.94.1">März:</hi> Hoffmann lernt Carl Friedrich Kunz, seinen späteren Verleger, kennen.</p>
+                     <lb xml:id="tg2.4.95"/>
+                     <p xml:id="tg2.4.96">
+                        <hi rend="bold" xml:id="tg2.4.96.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.97">Franz von Holbein übernimmt die Direktion des Bamberger Theaters.</p>
+                     <p xml:id="tg2.4.98">Er stellt Hoffmann als »Direktionsgehilfe« und Hauskomponist, Bühnenarchitekt und Kulissenmaler an.</p>
+                     <p xml:id="tg2.4.99">Hoffmann beginnt mit der Niederschrift seiner dreizehn »Kreisleriana«, kurzen Skizzen, Essays und Erzählungen, in deren Mittelpunkt die Figur des Komponisten Johannes Kreisler steht.</p>
+                     <lb xml:id="tg2.4.100"/>
+                     <p xml:id="tg2.4.101">
+                        <hi rend="bold" xml:id="tg2.4.101.1">1811</hi>
+                     </p>
+                     <p xml:id="tg2.4.102">Hoffmann gibt die Tätigkeit als »Direktionsgehilfe« am Bamberger Theater auf.</p>
+                     <p xml:id="tg2.4.103">Unglückliche Liebe zu der sechzehnjährigen Julia Mark (Julie Marc), die seine Gesangsschülerin ist.</p>
+                     <p xml:id="tg2.4.104">Bekanntschaft mit Carl Maria von Weber.</p>
+                     <lb xml:id="tg2.4.105"/>
+                     <p xml:id="tg2.4.106">
+                        <hi rend="bold" xml:id="tg2.4.106.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.107">Reise nach Würzburg.</p>
+                     <p xml:id="tg2.4.108">
+                        <hi rend="italic" xml:id="tg2.4.108.1">November:</hi> Hoffmann befindet sich in höchster Geldnot.</p>
+                     <p xml:id="tg2.4.109">
+                        <hi rend="italic" xml:id="tg2.4.109.1">Dezember:</hi> Hochzeit Julia Marks mit dem Kaufmann Graepel.</p>
+                     <p xml:id="tg2.4.110">Hoffmann konzentriert sich zunehmend auf schriftstellerische Tätigkeiten.</p>
+                     <p xml:id="tg2.4.111">Er beschäftigt sich mit Naturphilosophie und »tierischem Magnetismus«.</p>
+                     <p xml:id="tg2.4.112">Die Theatergruppe Joseph Secondas in Leipzig und Dresden engagiert Hoffmann als Musikdirektor.</p>
+                     <p xml:id="tg2.4.113">Aufenthalt Hoffmanns in Leipzig.</p>
+                     <p xml:id="tg2.4.114">Die Truppe Secondas gastiert in Dresden.</p>
+                     <lb xml:id="tg2.4.115"/>
+                     <p xml:id="tg2.4.116">
+                        <hi rend="bold" xml:id="tg2.4.116.1">1813</hi>
+                     </p>
+                     <p xml:id="tg2.4.117">»Don Juan. Eine fabelhafte Begebenheit, die sich mit einem reisenden Enthusiasten zugetragen« wird in der »Allgemeinen Musikalischen Zeitung« gedruckt.</p>
+                     <p xml:id="tg2.4.118">In der »Zeitung für die elegante Welt« erscheint Hoffmanns Essay »Beethovens Instrumental-Musik«.</p>
+                     <lb xml:id="tg2.4.119"/>
+                     <p xml:id="tg2.4.120">
+                        <hi rend="bold" xml:id="tg2.4.120.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.121">Nach einem Zerwürfnis mit Seconda wird Hoffmann aus dem Theater entlassen.</p>
+                     <p xml:id="tg2.4.122">
+                        <hi rend="italic" xml:id="tg2.4.122.1">März:</hi> Beginn der Arbeit an dem Roman »Die Elexiere des Teufels. Nachgelassene Papiere des Bruders Medardus, eines Kapuziners«.</p>
+                     <p xml:id="tg2.4.123">Die ersten beiden Bände der »Fantasiestücke in Callots Manier«erscheinen. Darin enthalten sind u.a. »Der goldene Topf«, die Dialogerzählung »Nachricht von den neuesten Schicksalen des Hundes Berganza« und »Ritter Gluck«.</p>
+                     <p xml:id="tg2.4.124">
+                        <hi rend="italic" xml:id="tg2.4.124.1">August:</hi> Hoffmann beendet die Oper »Undine« nach Fouqués Märchen, der auch das Libretto schreibt.</p>
+                     <p xml:id="tg2.4.125">
+                        <hi rend="italic" xml:id="tg2.4.125.1">September:</hi> Umzug nach Berlin, wo Hoffmann eine Anstellung als Staatsbeamter ohne Gehalt annimmt.</p>
+                     <p xml:id="tg2.4.126">Verbindung mit Hitzig, Fouqué, Chamisso, Tieck und Bernhardi.</p>
+                     <lb xml:id="tg2.4.127"/>
+                     <p xml:id="tg2.4.128">
+                        <hi rend="bold" xml:id="tg2.4.128.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.129">Hoffmann arbeitet als Expedient im Justizministerium.</p>
+                     <p xml:id="tg2.4.130">Bekanntschaft mit Brentano und Eichendorff.</p>
+                     <p xml:id="tg2.4.131">Der dritte und vierte Band der »Fantasiestücke in Callots Manier« erscheinen, sie enthalten u.a. »Die Abenteuer der Silvesternacht«.</p>
+                     <p xml:id="tg2.4.132">Freundschaft mit dem Schauspieler Ludwig Devrient, dem intimsten Freund der letzten Lebensjahre.</p>
+                     <p xml:id="tg2.4.133">»Die Elexiere des Teufels« (Roman, 2 Bände, 1815–16).</p>
+                     <lb xml:id="tg2.4.134"/>
+                     <p xml:id="tg2.4.135">
+                        <hi rend="bold" xml:id="tg2.4.135.1">1816</hi>
+                     </p>
+                     <p xml:id="tg2.4.136">
+                        <hi rend="italic" xml:id="tg2.4.136.1">April:</hi> Hoffmann wird zum Rat am Kammergericht ernannt.</p>
+                     <p xml:id="tg2.4.137">Freundschaft mit Carl Maria von Weber.</p>
+                     <p xml:id="tg2.4.138">Die Oper »Undine« wird uraufgeführt.</p>
+                     <p xml:id="tg2.4.139">Unter dem Titel »Nachtstücke« erscheint eine zweibändige Sammlung von Prosatexten, die u.a. die Novelle »Das Majorat« und die Erzählung »Der Sandmann« enthält.</p>
+                     <lb xml:id="tg2.4.140"/>
+                     <p xml:id="tg2.4.141">
+                        <hi rend="bold" xml:id="tg2.4.141.1">1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.142">
+                        <hi rend="italic" xml:id="tg2.4.142.1">Juli:</hi> Brand des Schauspielhauses.</p>
+                     <p xml:id="tg2.4.143">Hoffmann wird zusammen mit Devrient Stammgast im Weinhaus Lutter und Wegner.</p>
+                     <lb xml:id="tg2.4.144"/>
+                     <p xml:id="tg2.4.145">
+                        <hi rend="bold" xml:id="tg2.4.145.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.146">Neugründung des »Serapinenordens«, dem außer Hoffmann u.a. Hitzig, Contessa und Koreff angehören. Die »Serapionsbrüder« treffen sich in Hoffmanns Wohnung.</p>
+                     <p xml:id="tg2.4.147">Im »Taschenbuch für das Jahr 1819 der Liebe und Freundschaft gewidmet« erscheint Hoffmanns Erzählung »Doge und Dogaresse«.</p>
+                     <lb xml:id="tg2.4.148"/>
+                     <p xml:id="tg2.4.149">
+                        <hi rend="bold" xml:id="tg2.4.149.1">1819</hi>
+                     </p>
+                     <p xml:id="tg2.4.150">Der ersten Band der Erzählungssammlung »Die Serapionsbrüder« erscheint. Er enthält u.a. »Die Bergwerke zu Falun«.</p>
+                     <p xml:id="tg2.4.151">
+                        <hi rend="italic" xml:id="tg2.4.151.1">Mai:</hi> Beginn der Arbeit an dem Roman »Lebensansichten des Katers Murr nebst fragmentarischer Biographie des Kapelleisters Johannes Kreisler in zufälligen Makulaturblättern« (2 Bände, 1819–21).</p>
+                     <p xml:id="tg2.4.152">Schwere Erkrankung Hoffmanns.</p>
+                     <p xml:id="tg2.4.153">Genesungsreise nach Schlesien und Prag.</p>
+                     <p xml:id="tg2.4.154">Das Märchen »Klein Zaches genannt Zinnober« erscheint in der Zeitschrift »Flora« in Berlin.</p>
+                     <p xml:id="tg2.4.155">
+                        <hi rend="italic" xml:id="tg2.4.155.1">Oktober:</hi> Hoffmann wird zum Mitglied der "Immediat-Commission zur Ermittlung hochverräterischer Verbindungen und anderer gefährlicher Umtriebe" ernannt.</p>
+                     <p xml:id="tg2.4.156">»Das Fräulein von Scuderi. Erzählung aus dem Zeitalter Ludwigs des Vierzehnten« wird im »Taschenbuch für das Jahr 1820 der Liebe und Freundschaft gewidmet« publiziert.</p>
+                     <lb xml:id="tg2.4.157"/>
+                     <p xml:id="tg2.4.158">
+                        <hi rend="bold" xml:id="tg2.4.158.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.159">
+                        <hi rend="italic" xml:id="tg2.4.159.1">Februar:</hi> Hoffmann protestiert gegen die Verhaftung des »Turnvaters« Friedrich Ludwig Jahn.</p>
+                     <p xml:id="tg2.4.160">
+                        <hi rend="italic" xml:id="tg2.4.160.1">März:</hi> Ludwig van Beethoven sendet Hoffmann einen anerkennenden Brief.</p>
+                     <p xml:id="tg2.4.161">Das Märchen »Prinzessin Brambilla« erscheint im »Morgenblatt für gebildete Stände«.</p>
+                     <p xml:id="tg2.4.162">»Die Serapionsbrüder« (2. und 3. Band).</p>
+                     <lb xml:id="tg2.4.163"/>
+                     <p xml:id="tg2.4.164">
+                        <hi rend="bold" xml:id="tg2.4.164.1">1821</hi>
+                     </p>
+                     <p xml:id="tg2.4.165">Hoffmann erwirkt seine Entlassung aus der »Immediat-Commission zur Ermittlung hochverräterischer Verbindungen und anderer gefährlicher Umtriebe«.</p>
+                     <p xml:id="tg2.4.166">Der vierte Band der Sammlung »Serapionsbrüder«, der die Novelle »Signor Formica« enthält, erscheint.</p>
+                     <p xml:id="tg2.4.167">
+                        <hi rend="italic" xml:id="tg2.4.167.1">Oktober:</hi> Hoffmann wird zum Mitglied des Oberappellationssenates am Kammergericht ernannt.</p>
+                     <lb xml:id="tg2.4.168"/>
+                     <p xml:id="tg2.4.169">
+                        <hi rend="bold" xml:id="tg2.4.169.1">1822</hi>
+                     </p>
+                     <p xml:id="tg2.4.170">
+                        <hi rend="italic" xml:id="tg2.4.170.1">Januar:</hi> Beginn der schweren Krankheit.</p>
+                     <p xml:id="tg2.4.171">Das Manuskript der Erzählung »Meister Floh« wird beschlagnahmt, weil der preußische Polizeidirektor in der Figur des Knarrpanti eine Satire auf seine Person sieht.</p>
+                     <p xml:id="tg2.4.172">
+                        <hi rend="italic" xml:id="tg2.4.172.1">März:</hi> Völlige Lähmung Hoffmanns.</p>
+                     <p xml:id="tg2.4.173">
+                        <hi rend="italic" xml:id="tg2.4.173.1">April:</hi> Hoffmann diktiert die Erzählung »Des Vetters Eckfenster«, die im gleichen Jahr in der Zeitschrift »Der Zuschauer« erscheint.</p>
+                     <p xml:id="tg2.4.174">25. <hi rend="italic" xml:id="tg2.4.174.1">Juni:</hi> Tod Hoffmanns. Er wird drei Tage später auf dem Jerusalemer Kirchhof in Berlin beigesetzt.</p>
+                     <lb xml:id="tg2.4.175"/>
+                     <p rend="zenoPR" xml:id="tg2.4.176">
+                        <hi rend="italic" xml:id="tg2.4.176.1">Sylvia Zirden</hi>
+                     </p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

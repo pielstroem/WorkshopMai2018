@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Greiffenberg, Catharina Regina von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Greiffenberg, Catharina Regina von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-E943-9</idno><idno type="TextGridUri">textgrid:nnc9.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:nnds.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Catharina Regina von Greiffenberg (anonymer Kupferstich aus der Leichenpredigt von G. A. Hagendorn, Nürnberg 1694)</ab>
+                  </figure>
+ 
+
+                  <head type="h1" xml:id="tg1.2.3">Catharina Regina von Greiffenberg</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1633–1694)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1633</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">7. September:</hi> Catharina Regina von Greiffenberg wird auf Schloß Seisenegg bei Amstetten an der Ybbs in Niederösterreich geboren. Sie ist die älteste Tochter des Johann Gottfried Freiherrn von Greiffenberg und der Eva Maria, geb. Freiin von Pranckh zu Reinthal und Frondsberg. Wie viele Standesgenossen des niederösterreichischen Landadels ist die Familie protestantisch.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1641</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Tod des Vaters. Sein dreißig Jahre jüngerer Stiefbruder Hans Rudolph von Greiffenberg tritt die Erbschaft an, übernimmt die Güter und die Aufsicht über die Erziehung seiner Nichte Catharina Regina. Er vermittelt ihr solide humanistische Kenntnisse und Sprachfertigkeiten.</p>
+                     <p xml:id="tg2.4.9">Später wird sie unter dem Namen »Ister-Clio« Mitglied des statutenlosen adligen Freundschaftsbundes, der »Ister-Gesellschaft«, der u. a. auch Wolf Helmhard von Hohberg und Johann Wilhelm von Stubenberg angehören.</p>
+                     <lb xml:id="tg2.4.10"/>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="bold" xml:id="tg2.4.11.1">1651</hi>
+                     </p>
+                     <p xml:id="tg2.4.12">Nach dem Tod ihrer Schwester hat Catharina Regina von Greiffenberg bei einem Gottesdienst in Preßburg eine Art Erweckungserlebnis.</p>
+                     <p xml:id="tg2.4.13">In den folgenden Jahren studiert sie theologische, philosophische, historische und wissenschaftliche Werke.</p>
+                     <p xml:id="tg2.4.14">Erste dichterische Versuche, gefördert von ihrem Nachbarn Johann Wilhelm von Stubenberg.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1658</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">Beginn einer lebenslänglichen Augenkrankheit.</p>
+                     <p xml:id="tg2.4.18">Neben poetischen Übersetzungen entstehen neue Gedichte, meist Sonette und Lieder.</p>
+                     <lb xml:id="tg2.4.19"/>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="bold" xml:id="tg2.4.20.1">1660</hi>
+                     </p>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="italic" xml:id="tg2.4.21.1">April:</hi> Beginn der Bekanntschaft mit Sigmund von Birken. Catharina Regina von Greiffenberg übersetzt die vier Gesänge des »Triomfe de la Foy« von Guillaume Salluste Du Bartas (gedruckt 1675).</p>
+                     <lb xml:id="tg2.4.22"/>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="bold" xml:id="tg2.4.23.1">1661</hi>
+                     </p>
+                     <p xml:id="tg2.4.24">Hans Rudolph von Greiffenberg macht seiner Nichte einen Heiratsantrag, den sie jedoch wegen der engen Verwandtschaft zunächst zurückweist.</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1662</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">
+                        <hi rend="italic" xml:id="tg2.4.27.1">Frühjahr:</hi> Die von Hans Rudolph von Greiffenberg zusammengestellten »Geistlichen Sonnette, Lieder und Gedichte« erscheinen in Nürnberg. Die Drucklegung besorgt Sigmund von Birken.</p>
+                     <lb xml:id="tg2.4.28"/>
+                     <p xml:id="tg2.4.29">
+                        <hi rend="bold" xml:id="tg2.4.29.1">1663</hi>
+                     </p>
+                     <p xml:id="tg2.4.30">Beginn der Arbeit an der »Sieges-Seule«.</p>
+                     <p xml:id="tg2.4.31">
+                        <hi rend="italic" xml:id="tg2.4.31.1">Sommer:</hi> Die Türkengefahr veranlaßt Catharina Regina von Greiffenberg, mit ihrer Mutter nach Nürnberg überzusiedeln.</p>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="italic" xml:id="tg2.4.32.1">Herbst:</hi> Erste persönliche Begegnung mit Birken, der im Auftrag von Hans Rudolph von Greiffenberg mit Markgraf Christian Ernst von Brandenburg-Bayreuth über die Möglichkeit einer Eheschließung zwischen Onkel und Nichte verhandelt.</p>
+                     <lb xml:id="tg2.4.33"/>
+                     <p xml:id="tg2.4.34">
+                        <hi rend="bold" xml:id="tg2.4.34.1">1664</hi>
+                     </p>
+                     <p xml:id="tg2.4.35">
+                        <hi rend="italic" xml:id="tg2.4.35.1">12. Oktober:</hi> Heirat mit Hans Rudolph von Greiffenberg in Frauenaurach bei Nürnberg.</p>
+                     <lb xml:id="tg2.4.36"/>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="bold" xml:id="tg2.4.37.1">1665</hi>
+                     </p>
+                     <p xml:id="tg2.4.38">Nach der Rückkehr von Hans Rudolph von Greiffenberg nach Seisenegg wird er wegen »Konkubinats« verhaftet und ins Gefängnis gesperrt. Catharina Regina von Greiffenberg bleibt in Nürnberg.</p>
+                     <lb xml:id="tg2.4.39"/>
+                     <p xml:id="tg2.4.40">
+                        <hi rend="bold" xml:id="tg2.4.40.1">1666</hi>
+                     </p>
+                     <p xml:id="tg2.4.41">
+                        <hi rend="italic" xml:id="tg2.4.41.1">April:</hi> Freilassung von Hans Rudolph von Greiffenberg aufgrund einer kursächsischen Interzession und einer Supplik von Catharina Regina von Greiffenberg.</p>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="italic" xml:id="tg2.4.42.1">September:</hi> Gemeinsame Reise nach Wien. Catharina Regina von Greiffenberg verfolgt zehn Jahre lang den Plan, Kaiser Leopold I. zum Luthertum zu bekehren. Bekanntschaft mit Pater Philipp Müller, dem Beichtvater des Kaisers.</p>
+                     <lb xml:id="tg2.4.43"/>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="bold" xml:id="tg2.4.44.1">1667</hi>
+                     </p>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="italic" xml:id="tg2.4.45.1">Januar–Februar:</hi> Zweite Reise nach Wien.</p>
+                     <lb xml:id="tg2.4.46"/>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="bold" xml:id="tg2.4.47.1">1671</hi>
+                     </p>
+                     <p xml:id="tg2.4.48">
+                        <hi rend="italic" xml:id="tg2.4.48.1">Juni:</hi> »Andacht-Reise« nach Regensburg.</p>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="italic" xml:id="tg2.4.49.1">Juli:</hi> Dritte Reise nach Wien.</p>
+                     <p xml:id="tg2.4.50">Auf Bitten von Herzog Anton Ulrich von Braunschweig verfaßt sie ein Lobgedicht für den dritten Teil seiner »Durchleuchtigsten Syrerinn Aramena«.</p>
+                     <lb xml:id="tg2.4.51"/>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="bold" xml:id="tg2.4.52.1">1672</hi>
+                     </p>
+                     <p xml:id="tg2.4.53">
+                        <hi rend="italic" xml:id="tg2.4.53.1">Oktober:</hi> »Des Allerheiligst- und Allerheilsamsten Leidens und Sterbens Jesu Christi / Zwölf andächtige Betrachtungen« (»Passions-Betrachtungen«) erscheinen (2. Auflage 1683).</p>
+                     <lb xml:id="tg2.4.54"/>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="bold" xml:id="tg2.4.55.1">1673</hi>
+                     </p>
+                     <p xml:id="tg2.4.56">
+                        <hi rend="italic" xml:id="tg2.4.56.1">Mai:</hi> Aufenthalt in Nürnberg.</p>
+                     <lb xml:id="tg2.4.57"/>
+                     <p xml:id="tg2.4.58">
+                        <hi rend="bold" xml:id="tg2.4.58.1">1674</hi>
+                     </p>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="italic" xml:id="tg2.4.59.1">Januar:</hi> Vierte Reise nach Wien.</p>
+                     <p xml:id="tg2.4.60">
+                        <hi rend="italic" xml:id="tg2.4.60.1">Mai:</hi> Aufenthalt in Nürnberg.</p>
+                     <lb xml:id="tg2.4.61"/>
+                     <p xml:id="tg2.4.62">
+                        <hi rend="bold" xml:id="tg2.4.62.1">1675</hi>
+                     </p>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="italic" xml:id="tg2.4.63.1">März–April:</hi> Aufenthalt in Nürnberg.</p>
+                     <p xml:id="tg2.4.64">
+                        <hi rend="italic" xml:id="tg2.4.64.1">Juni–Juli:</hi> Fünfte Reise nach Wien.</p>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="italic" xml:id="tg2.4.65.1">Juli:</hi> Die bereits 1663/64 entstandene »Sieges-Seule der Buße und des Glaubens / wider den Erbfeind Christlichen Namens« erscheint zusammen mit »des Herrn von Bartas geteutschtem Glaubens-Triumf« und dem Anhang »Tugendübung, Sieben Lustwehlender Schäferinnen«.</p>
+                     <p xml:id="tg2.4.66">
+                        <hi rend="italic" xml:id="tg2.4.66.1">Oktober:</hi> Tod der Mutter.</p>
+                     <lb xml:id="tg2.4.67"/>
+                     <p xml:id="tg2.4.68">
+                        <hi rend="bold" xml:id="tg2.4.68.1">1676</hi>
+                     </p>
+                     <p xml:id="tg2.4.69">
+                        <hi rend="italic" xml:id="tg2.4.69.1">Mai:</hi> Aufenthalt in Nürnberg.</p>
+                     <p xml:id="tg2.4.70">
+                        <hi rend="italic" xml:id="tg2.4.70.1">September:</hi> Sechste Reise nach Wien.</p>
+                     <lb xml:id="tg2.4.71"/>
+                     <p xml:id="tg2.4.72">
+                        <hi rend="bold" xml:id="tg2.4.72.1">1677</hi>
+                     </p>
+                     <p xml:id="tg2.4.73">
+                        <hi rend="italic" xml:id="tg2.4.73.1">Mai:</hi> Tod von Hans Rudolph von Greiffenberg. Es folgen jahrelange gerichtliche Auseinandersetzungen um dessen Güter. Catharina Regina von Greiffenberg gerät in wirtschaftliche Not.</p>
+                     <p xml:id="tg2.4.74">
+                        <hi rend="italic" xml:id="tg2.4.74.1">August:</hi> Aufenthalt in Nürnberg.</p>
+                     <p xml:id="tg2.4.75">
+                        <hi rend="italic" xml:id="tg2.4.75.1">November–Dezember:</hi> Aufenthalt in Regensburg.</p>
+                     <lb xml:id="tg2.4.76"/>
+                     <p xml:id="tg2.4.77">
+                        <hi rend="bold" xml:id="tg2.4.77.1">1678</hi>
+                     </p>
+                     <p xml:id="tg2.4.78">»Der Allerheiligsten Menschwerdung / Geburt und Jugend JESU Christi / Zwölf Andächtige Betrachtungen« (2. Auflage 1693).</p>
+                     <p xml:id="tg2.4.79">
+                        <hi rend="italic" xml:id="tg2.4.79.1">Juni–Juli:</hi> Aufenthalt in Nürnberg.</p>
+                     <p xml:id="tg2.4.80">
+                        <hi rend="italic" xml:id="tg2.4.80.1">August:</hi> Aufenthalt in Regensburg. Anschließend siebenter und letzter Aufenthalt in Wien (bis April 1679).</p>
+                     <lb xml:id="tg2.4.81"/>
+                     <p xml:id="tg2.4.82">
+                        <hi rend="bold" xml:id="tg2.4.82.1">1679</hi>
+                     </p>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="italic" xml:id="tg2.4.83.1">Mai:</hi> Aufenthalt in Regensburg, dann in Nürnberg, dann erneut in Regensburg (bis Dezember). Der Ausbruch der Pest in Wien verhindert eine nochmalige Reise dorthin.</p>
+                     <lb xml:id="tg2.4.84"/>
+                     <p xml:id="tg2.4.85">
+                        <hi rend="bold" xml:id="tg2.4.85.1">1680</hi>
+                     </p>
+                     <p xml:id="tg2.4.86">Catharina Regina von Greiffenberg verliert den Prozeß um die Güter ihres verstorbenen Mannes und kann lediglich das mütterliche Erbe retten. Sie läßt sich endgültig in Nürnberg nieder, wo sie in der Stille des St. Egidienhofs lebt und arbeitet.</p>
+                     <lb xml:id="tg2.4.87"/>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="bold" xml:id="tg2.4.88.1">1681</hi>
+                     </p>
+                     <p xml:id="tg2.4.89">
+                        <hi rend="italic" xml:id="tg2.4.89.1">12. Juli:</hi> Tod Sigmunds von Birken.</p>
+                     <lb xml:id="tg2.4.90"/>
+                     <p xml:id="tg2.4.91">
+                        <hi rend="bold" xml:id="tg2.4.91.1">1692</hi>
+                     </p>
+                     <p xml:id="tg2.4.92">»Des Allerheiligsten Lebens JESU Christi Sechs Andächtige Betrachtungen Von Dessen Lehren und Wunderwerken« und »Des Allerheiligsten Lebens JESU Christi Ubrige Sechs Andächtige Betrachtungen Von Dessen Heiligem Wandel / Wundern und Weissagungen« erscheinen.</p>
+                     <lb xml:id="tg2.4.93"/>
+                     <p xml:id="tg2.4.94">
+                        <hi rend="bold" xml:id="tg2.4.94.1">1694</hi>
+                     </p>
+                     <p xml:id="tg2.4.95">
+                        <hi rend="italic" xml:id="tg2.4.95.1">8. April:</hi> Catharina Regina von Greiffenberg stirbt im Alter von 60 Jahren in Nürnberg.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

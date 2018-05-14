@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Angelus Silesius/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Angelus Silesius</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0001-F19D-8</idno><idno type="TextGridUri">textgrid:jt86.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:jtkz.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Johannes Scheffler (Strichzeichnung)</ab>
+                  </figure>
+ 
+
+                  <head type="h1" xml:id="tg1.2.3">Angelus Silesius</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1624–1677)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     <p xml:id="tg2.4.3">
+                        <hi rend="bold" xml:id="tg2.4.3.1">1624</hi>
+                     </p>
+                     <p xml:id="tg2.4.4">
+                        <hi rend="italic" xml:id="tg2.4.4.1">Dezember:</hi> Angelus Silesius wird in Breslau geboren.</p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">25. Dezember:</hi> Taufe.</p>
+                     <p xml:id="tg2.4.6">Sein Vater ist Stanislaus Scheffler, Herr zu Borowicze, ein polnischer Adliger, der von Krakau/Polen wegen seines evangelischen Glaubens nach Breslau übersiedeln muß.</p>
+                     <lb xml:id="tg2.4.7"/>
+                     <p xml:id="tg2.4.8">
+                        <hi rend="bold" xml:id="tg2.4.8.1">1636–1643</hi>
+                     </p>
+                     <p xml:id="tg2.4.9">Besuch des Elisabeth-Gymnasiums, an dem Christoph Köler, Freund und Biograph von Martin Opitz, Rhetorik und Poetik unterrichtet. Als Schüler schreibt Angelus Silesius erste Gedichte. Sein Schulfreund ist der bald konvertierte Andreas Scultetus, mit dem er lateinische Gelegenheitsgedichte drucken läßt.</p>
+                     <lb xml:id="tg2.4.10"/>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="bold" xml:id="tg2.4.11.1">1642</hi>
+                     </p>
+                     <p xml:id="tg2.4.12">»Bonus Consiliarus«, (erschienen in Breslau, 352 deutsche Alexandriner).</p>
+                     <lb xml:id="tg2.4.13"/>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="bold" xml:id="tg2.4.14.1">1643</hi>
+                     </p>
+                     <p xml:id="tg2.4.15">
+                        <hi rend="italic" xml:id="tg2.4.15.1">4. Mai:</hi> Angelus Silesius geht nach Straßburg, um Medizin und Staatsrecht zu studieren.</p>
+                     <lb xml:id="tg2.4.16"/>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="italic" xml:id="tg2.4.17.1">6. September</hi> 1644 – <hi rend="italic" xml:id="tg2.4.17.2">Herbst</hi> 1647</p>
+                     <p xml:id="tg2.4.18">Er setzt in Leiden sein Studium fort; Lektüre der Schriften Böhmes und der Mystiker.</p>
+                     <lb xml:id="tg2.4.19"/>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="bold" xml:id="tg2.4.20.1">1647</hi>
+                     </p>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="italic" xml:id="tg2.4.21.1">25. September:</hi> Angelus Silesius besucht die Universität Padua.</p>
+                     <lb xml:id="tg2.4.22"/>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="bold" xml:id="tg2.4.23.1">1648</hi>
+                     </p>
+                     <p xml:id="tg2.4.24">
+                        <hi rend="italic" xml:id="tg2.4.24.1">9. Juli:</hi> Silesius erhält den Doktorgrad der Philosophie und Medizin der Universität Padua.</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1649</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">
+                        <hi rend="italic" xml:id="tg2.4.27.1">3. November:</hi> Angelus Silesius tritt als Hof- und Leibarzt in den Dienst des lutherisch-orthodoxen Herzogs Sylvius Nimrod von Württemberg in Oels bei Breslau. Einen nachhaltigen Einfluß übt Abraham von Franckenberg, der Freund und Biograph Jacob Böhmes, auf ihn aus.</p>
+                     <p xml:id="tg2.4.28">Der Verkehr mit Franckenberg und die Benutzung seiner Bibliothek erlauben Angelus Silesius eine intensive Beschäftigung mit den Werken der Mystiker. Nach Franckenbergs Tod und wegen eines Streits mit dem Oelser Hofprediger Rückkehr nach Breslau.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1652</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">»Christliches Ehrengedächtniß des Herrn Abraham von Franckenberg. Oels«.</p>
+                     <p xml:id="tg2.4.32">»Gründtliche Ursachen und Motiven, warumb Er Von dem Lutherthumb abgetretten, und sich zu der Catholischen Kyrchen bekennet hat« (Erschienen in Ingolstadt).</p>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="italic" xml:id="tg2.4.33.1">12. Juni:</hi> Angelius läßt sich als Arzt im St. Matthias-Stift in Breslau nieder und tritt zum Katholizismus über, vermutlich in der Hoffnung, beim Katholizismus Stoff für seine mystischen Ideen zu finden. Bei der Firmung nimmt er den Namen Angelus an, nach dem spanischen Mystiker Johannes de Angelis.</p>
+                     <p xml:id="tg2.4.34">Nach seiner Konversion setzt sich Angelus Silesius in zahlreichen Streitschriften fanatisch für die Rekatholisierung Schlesiens ein. Er führt in ihnen scharfe Polemiken mit den Protestanten und fordert die Herrscher auf, die Andersgläubigen – auch mit Gewalt – zum Wechsel der Konfession zu zwingen.</p>
+                     <p xml:id="tg2.4.35">Sein väterliches Erbe nutzt er für Almosen und für fromme und wohltätige Tätigkeiten.</p>
+                     <lb xml:id="tg2.4.36"/>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="bold" xml:id="tg2.4.37.1">1654</hi>
+                     </p>
+                     <p xml:id="tg2.4.38">Er erhält von Kaiser Ferdinand III. den Titel des kaiserlich-königlichen Hofmedicus und wird Mitglied der Rosenkranzbruderschaft.</p>
+                     <lb xml:id="tg2.4.39"/>
+                     <p xml:id="tg2.4.40">
+                        <hi rend="bold" xml:id="tg2.4.40.1">1657</hi>
+                     </p>
+                     <p xml:id="tg2.4.41">Er publiziert in Wien seine berühmten Epigramme »Geistreiche Sinn- und Schlussr[e]ime«, die seit der zweiten, um ein sechstes Buch vermehrten Ausgabe den Haupttitel »Cherubinischer Wandersmann« tragen. Berühmt wird Angelus Silesius durch seine »Sinnreime«, eine Sammlung meist zweizeiliger Sprüche in gereimten Alexandrinern. Vorbild sind für ihn die Epigramme von Abraham von Franckenberg, Daniel Sudermann, Daniel Czepko und Johann Theodor von Tschesch. Die »geheime Gottes Weißheit« lehren ihn unter anderem Augustinus, Bernhard von Clairvaux, Eckhart, Mechthild und Gertrud, Johannes vom Kreuz, Jacob Böhme und Valentin Weigel. Im Vorwort nennt Angelius die mystischen Schriften von Ruysbroeck, Tauler, Harphius, Maximilian Sandeus und de la Puente.</p>
+                     <p xml:id="tg2.4.42">In Breslau erscheint auch die »Heilige Seelen-Lust Oder Geistliche Hirten-Lieder« (Zweite, um ein fünftes Buch vermehrte Ausgabe, Breslau 1668). Den Großteil der Melodien zu den Liedern schreibt der Breslauer fürstbischöfliche Musiker Georg Joseph. Etwa 50 der Geistlichen Hirtenlieder gehen in das Hallesche Gesangbuch ein.</p>
+                     <p xml:id="tg2.4.43">Er veröffentlicht eine Sinnliche Beschreibung »Der Vier Letzten Dinge« (Schweidnitz). In diesem letzten – umstrittenen – poetischen Werk (erschienen in Schweidnitz) beabsichtigt Angelus Silesius eine Schilderung des Todes und des Jüngsten Gerichts. Mit 157 achtzeiligen Strophen erweitert er besonders den 4. Teil der Dichtung.</p>
+                     <lb xml:id="tg2.4.44"/>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="bold" xml:id="tg2.4.45.1">1661</hi>
+                     </p>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="italic" xml:id="tg2.4.46.1">21. Mai:</hi> Angelus Silesius empfängt die Priesterweihe in Neiße.</p>
+                     <p xml:id="tg2.4.47">Minorit in Breslau.</p>
+                     <lb xml:id="tg2.4.48"/>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="italic" xml:id="tg2.4.49.1">1. Juni</hi> 1664–1666</p>
+                     <p xml:id="tg2.4.50">Angelus Silesius steht als Rat und Hofmarschall im Dienst des Breslauer Fürstbischofs Sebastian von Rostock. Das letzte Lebensjahrzehnt verbringt er im St. Matthias-Stift, wo er als Arzt und Priester tätig ist.</p>
+                     <lb xml:id="tg2.4.51"/>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="bold" xml:id="tg2.4.52.1">Seit 1667</hi>
+                     </p>
+                     <p xml:id="tg2.4.53">Er führt ein zurückgezogenes Leben im Kreuzherrenstift St. Matthias in Breslau.</p>
+                     <lb xml:id="tg2.4.54"/>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="bold" xml:id="tg2.4.55.1">1675</hi>
+                     </p>
+                     <p xml:id="tg2.4.56">»Cherubinischer Wandersmann oder Geist-Reiche Sinn- und Schluß-Reime mit dem sechsten Buche vermehrt«, erscheint in Glatz unter Einfluß von V. Weigel, Tauler, Eckhart, Seuse, Ruysbroek und der spanischen Mystiker.</p>
+                     <lb xml:id="tg2.4.57"/>
+                     <p xml:id="tg2.4.58">
+                        <hi rend="bold" xml:id="tg2.4.58.1">1676</hi>
+                     </p>
+                     <p xml:id="tg2.4.59">»Köstliche Evangelische Perle«, (erschienen in Glatz, Übersetzung).</p>
+                     <lb xml:id="tg2.4.60"/>
+                     <p xml:id="tg2.4.61">
+                        <hi rend="bold" xml:id="tg2.4.61.1">1677</hi>
+                     </p>
+                     <p xml:id="tg2.4.62">39 seiner Kampfschriften gibt in Neiße als Druck heraus: »Ecciesiologia Oder Kirche-Beschreibung«, 2 Teile, (Neiße, 39 antilutherische Streitschriften, darunter auch bisher unveröffentlichte »Tractätlein«).</p>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="italic" xml:id="tg2.4.63.1">9. Juli:</hi> Angelus Silesius stirbt nach langem Krankheitsleiden im 52. Lebensjahr an seinen »Lungenbeschwerden« in Breslau.</p>
+                     <lb xml:id="tg2.4.64"/>
+                  </div>
+               </body>
+         </text>
+      </TEI>

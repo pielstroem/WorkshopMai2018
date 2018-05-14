@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Opitz, Martin/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Opitz, Martin</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0004-636D-5</idno><idno type="TextGridUri">textgrid:svw6.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:sw2b.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Martin Opitz (Kupferstich von Syfang, nach einem Ölgemälde von Strobel, Danzig)</ab>
+                  </figure>
+
+                  <head type="h1" xml:id="tg1.2.3">Martin Opitz</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1597–1639)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1597</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">Martin Opitz wird in Bunzlau am Bober in Schlesien geboren.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1617–1618</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Opitz tritt ins akademische Gymnasium in Beuthen an der Oder ein und wechselt dann an die Frankfurter Universität Viadrina.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1622</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Er erhält ein Literaturlehramt am Gymnasium zu Weißenburg in Siebenbürgen.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1626</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Opitz tritt in die Dienste des Burggrafen Carl Hannibal I. von Dohna, der dem Protestanten Opitz völlige Glaubensfreiheit gewährleistet.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1627</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="italic" xml:id="tg2.4.17.1">14. September:</hi> Opitz wird durch Kaiser Ferdinand in den Adelsstand erhoben und erhält den Beinamen »von Boberfeld«.</p>
+                     <lb xml:id="tg2.4.18"/>
+                     <p xml:id="tg2.4.19">
+                        <hi rend="bold" xml:id="tg2.4.19.1">1633</hi>
+                     </p>
+                     <p xml:id="tg2.4.20">Opitz wird arbeitslos, weil sein Dienstherr von Dohna stirbt. Er begibt sich in die Dienste der protestantischen Herzöge von Liegnitz und Brieg.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1636</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">Vom polnischen König Wladislaw IV. erhält er das Angebot, ihn als höfischen Geschichtsschreiber nach Danzig zu begleiten, Opitz nimmt an.</p>
+                     <lb xml:id="tg2.4.24"/>
+                     <p xml:id="tg2.4.25">
+                        <hi rend="bold" xml:id="tg2.4.25.1">1639</hi>
+                     </p>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="italic" xml:id="tg2.4.26.1">20. August:</hi> Angesteckt durch einen pestkranken Bettler, dem er ein Almosen gibt, stirbt Martin Opitz von Boberfeld in Danzig.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

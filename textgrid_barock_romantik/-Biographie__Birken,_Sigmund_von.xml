@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Birken, Sigmund von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Birken, Sigmund von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-35C1-A</idno><idno type="TextGridUri">textgrid:kmm9.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:kmmm.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Sigmund von Birken</ab>
+                  </figure>
+ 
+
+                  <head type="h1" xml:id="tg1.2.3">Sigmund von Birken</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1626–1681)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1626</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">5. Mai:</hi> Sigmund von Birken wird in Wildstein bei Eger/Böhmen als Sohn des evangelischen Pfarrers Daniel Betulius (der latinisierte Name von »Birkener« oder auch »Birkner«) geboren. Birken stammt aus einer protestantischen Theologen-Familie.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1629</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Unter dem Druck des katholischen Kaiserhauses auf die Protestanten und als Folge des Restitutionsediktes muß die Familie Böhmen verlassen und siedelt in die Heimat von Birkens Mutter Veronica Khobolt nach Nürnberg über.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1633</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="italic" xml:id="tg2.4.11.1">12. April:</hi> Tod der Mutter.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1642</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="italic" xml:id="tg2.4.14.1">23. Mai:</hi> Tod des Vaters nach einer Diakonuskarriere in Nürnberg.</p>
+                     <p xml:id="tg2.4.15">
+                        <hi rend="italic" xml:id="tg2.4.15.1">Mai:</hi> Eintritt Birkens in die Lateinschule bei der »Kirche zum Heiligen Geist«.</p>
+                     <p xml:id="tg2.4.16">Der früh verwaiste Birken findet in dem Theologen Johann Michael Dilherr einen einflußreichen Mentor.</p>
+                     <lb xml:id="tg2.4.17"/>
+                     <p xml:id="tg2.4.18">
+                        <hi rend="bold" xml:id="tg2.4.18.1">1643–1644</hi>
+                     </p>
+                     <p xml:id="tg2.4.19">
+                        <hi rend="italic" xml:id="tg2.4.19.1">Juli:</hi> Er studiert in Jena Recht, Philosophie, Sprachen und Theologie, muß sein Studium jedoch aus finanziellen Gründen vor dem Abschluß abbrechen.</p>
+                     <lb xml:id="tg2.4.20"/>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="bold" xml:id="tg2.4.21.1">1645</hi>
+                     </p>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="italic" xml:id="tg2.4.22.1">Frühjahr:</hi> Birken kehrt nach Nürnberg zurück.</p>
+                     <p xml:id="tg2.4.23">Birken wird in den von Georg Philipp Harsdörffer und Johann Klaj ins Leben gerufenen »Pegnesischen Hirten- und Blumenorden« aufgenommen; (Gesellschaftsname Floridan). Birken verdient seinen Lebensunterhalt durch Gelegenheitsarbeiten wie Tauf-, Hochzeits- und Grabgedichte.</p>
+                     <p xml:id="tg2.4.24">Philipp von Zesen wirbt ihn für seine »Teutschgesinnete Genossenschaft« in Hamburg (Gesellschaftsname Der Riechende).</p>
+                     <p xml:id="tg2.4.25">Umgang mit Schottel.</p>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="italic" xml:id="tg2.4.26.1">7. Dezember:</hi> Reise nach Wölfenbüttel.</p>
+                     <lb xml:id="tg2.4.27"/>
+                     <p xml:id="tg2.4.28">
+                        <hi rend="bold" xml:id="tg2.4.28.1">1646</hi>
+                     </p>
+                     <p xml:id="tg2.4.29">Dank der Vermittlung Harsdörffers, der sich zeitlebens für den mittellosen Dichter einsetzt, wird Birken neben Schottel die Erziehung der Prinzen Anton Ulrich und Ferdinand Albrecht von Braunschweig-Lüneburg am Wolfenbütteler Hof Augusts des Jüngeren übertragen. Mit dem Dichter Anton Ulrich verbindet Birken eine lange Freundschaft.</p>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="italic" xml:id="tg2.4.30.1">20. April:</hi> Er wird dort von dem herzoglichen Leibarzt und kaiserlichen Hofpfalzgrafen Martin Gosky zum Dichter gekrönt. Er lebt hier als »poeta laureatus« (Birken bekommt den Respekt der »nobilitas literaria« in vertrautem Verkehr mit Justus Georg Schottelius).</p>
+                     <lb xml:id="tg2.4.31"/>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="bold" xml:id="tg2.4.32.1">1647</hi>
+                     </p>
+                     <p xml:id="tg2.4.33">Reise durch Norddeutschland (Niedersachsen und Holstein). Birken besucht Johann Rist in Wedel bei Hamburg, der ihn später in die »Fruchtbringende Gesellschaft« aufnimmt. Auch Philipp von Zesen lernt er kennen und wird Mitglied von dessen »Deutschgesinnter Genossenschaft«. Er fährt durch Braunschweig, Lüneburg und Rostock (dort Bekanntschaft mit Andreas Tscherning).</p>
+                     <p xml:id="tg2.4.34">Eine Zeitlang ist Birken Erzieher/Präzeptor einer mecklenburgischen Prinzessin in Schloß Dannenberg bei Lüneburg in Mecklenburg.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1648</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="italic" xml:id="tg2.4.37.1">20. November:</hi> Er kommmt zurück nach Nürnberg. Seitdem lebt er als Privatgelehrter in Nürnberg und unterrichtet junge Patriziersöhne.</p>
+                     <p xml:id="tg2.4.38">
+                        <hi rend="italic" xml:id="tg2.4.38.1">Herbst:</hi> Er wird zu den Friedensfeierlichkeiten nach Nürnberg zurückgerufen. Mit mehreren festlichen Beiträgen gelingt ihm der Durchbruch auf katholischer Seite. Er lebt von Gelegenheits – und Auftragsdichtung.</p>
+                     <lb xml:id="tg2.4.39"/>
+                     <p xml:id="tg2.4.40">
+                        <hi rend="bold" xml:id="tg2.4.40.1">1649</hi>
+                     </p>
+                     <p xml:id="tg2.4.41">Friedensdichtungen: »Krieges- und Friedensbildung«.</p>
+                     <p xml:id="tg2.4.42">Eine Hauslehrerstelle bei Johann Schroeder in Dannenberg an der Jeetze sichert seine Existenz ab.</p>
+                     <lb xml:id="tg2.4.43"/>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="bold" xml:id="tg2.4.44.1">1650</hi>
+                     </p>
+                     <p xml:id="tg2.4.45">»Teutscher Kriegs und Friedens Einzug« erscheint in Nürnberg.</p>
+                     <p xml:id="tg2.4.46">»Teutschlands Kriegsbeschluß und Friedenskuß«.</p>
+                     <p xml:id="tg2.4.47">Er wird Leiter der Nürnberger Spiele zur Feier des Westfälischen Friedens.</p>
+                     <lb xml:id="tg2.4.48"/>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="bold" xml:id="tg2.4.49.1">1652</hi>
+                     </p>
+                     <p xml:id="tg2.4.50">»Die Friedenserfreute Teutonia« erscheint in Nürnberg.</p>
+                     <p xml:id="tg2.4.51">»Geistliche Lyrik und Erbauungsschrifttum: Geistlicher Weihrauchkörner Oder Andachtslieder«, (Herausgegeben von I. Dutzet, Nürnberg).</p>
+                     <p xml:id="tg2.4.52">»Flamais oder der FriedensHeld«, Teilabdruck aus dem Nachlaß in: Christoph Jobst: Sigmund von Birkens »Amalfis«.</p>
+                     <p xml:id="tg2.4.53">»Geistliche Weihrauchkörner oder Andachtslieder«.</p>
+                     <lb xml:id="tg2.4.54"/>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="bold" xml:id="tg2.4.55.1">1653</hi>
+                     </p>
+                     <p xml:id="tg2.4.56">Manche seiner Gedichte erscheinen in »Weltliche Lyrik: Schäfer Floridans Poetischer Liebesblumen 1. Sträußlein.« in Nürnberg zusammen mit anderen Dichtungen der Ordensmitglieder.</p>
+                     <lb xml:id="tg2.4.57"/>
+                     <p xml:id="tg2.4.58">
+                        <hi rend="bold" xml:id="tg2.4.58.1">1652–1655</hi>
+                     </p>
+                     <p xml:id="tg2.4.59">Bekanntschaft mit dem protestantischen Freiherrn und späteren Grafen Gottlieb von Windischgraetz. Birken bleibt weiter Literat ohne bürgerlichen Beruf.</p>
+                     <p xml:id="tg2.4.60">Neben der eigenen Produktion und der Tätigkeit als Korrektor ist er auf Hauslehrerstellen angewiesen, die er vornehmlich bei der Patrizierfamilie Rieter inne hat.</p>
+                     <lb xml:id="tg2.4.61"/>
+                     <p xml:id="tg2.4.62">
+                        <hi rend="bold" xml:id="tg2.4.62.1">1655</hi>
+                     </p>
+                     <p xml:id="tg2.4.63">Gottlieb von Windischgraetz setzt sich für Birkens Nobilitierung und Erhebung zum Pfalzgrafen »Comes Palatinus Caesarei« durch. Seither wird er »von Birken« genannt. Die Aufnahme in die »Fruchtbringende Gesellschaft« führt Birken auf den Höhepunkt seiner Karriere (Ordensname: Der Erwachsene).</p>
+                     <lb xml:id="tg2.4.64"/>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="bold" xml:id="tg2.4.65.1">1656</hi>
+                     </p>
+                     <p xml:id="tg2.4.66">»Neues Schauspiel. Betitelt Androfilo Oder Die WunderLiebe. Nebenst einem Nachspiel Betitelt Silvia Oder Die Wunderthätige Schönheit«.</p>
+                     <lb xml:id="tg2.4.67"/>
+                     <p xml:id="tg2.4.68">
+                        <hi rend="bold" xml:id="tg2.4.68.1">1657</hi>
+                     </p>
+                     <p xml:id="tg2.4.69">»Ostländisch Lorbeer-Hain von dem Höchstlöblichen Erzhaus Österreich«, »Nidersächsischer Lorbeerhayn«.</p>
+                     <lb xml:id="tg2.4.70"/>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="bold" xml:id="tg2.4.71.1">1658</hi>
+                     </p>
+                     <p xml:id="tg2.4.72">Heirat mit Magdalena Göring (1610–1670). Die Ehe ist von Auseinandersetzungen überschattet und bleibt kinderlos.</p>
+                     <p xml:id="tg2.4.73">Übersetzung von Johann Amos Comenius: »Orbis sensualium pictus«, dt. »Die sichtbare Welt« (Nürnberg 1658).</p>
+                     <p xml:id="tg2.4.74">Übersetzung: »Die Truckene Trunkenheit. Eine aus Jacobi Balde gedeutschte Satyra oder Straff-Rede wider den Mißbrauch des Tabaks«.</p>
+                     <lb xml:id="tg2.4.75"/>
+                     <p xml:id="tg2.4.76">
+                        <hi rend="bold" xml:id="tg2.4.76.1">Ab 1658</hi>
+                     </p>
+                     <p xml:id="tg2.4.77">
+                        <hi rend="italic" xml:id="tg2.4.77.1">Frühling:</hi> Heirat mit der zehn Jahre älteren Witwe Margaretha Magdalena Mülegck.</p>
+                     <p xml:id="tg2.4.78">Von jetzt an wirkt er über zwei Jahrzehnte als Historiograph, Festspieldichter, Diarist und poetischer Mentor für die großen Höfe in Wien, Wolfenbüttel, Brandenburg-Bayreuth und Dresden.</p>
+                     <lb xml:id="tg2.4.79"/>
+                     <p xml:id="tg2.4.80">
+                        <hi rend="bold" xml:id="tg2.4.80.1">1661</hi>
+                     </p>
+                     <p xml:id="tg2.4.81">Übersiedlung nach Nürnberg.</p>
+                     <lb xml:id="tg2.4.82"/>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="bold" xml:id="tg2.4.83.1">1662</hi>
+                     </p>
+                     <p xml:id="tg2.4.84">»Sophia« (Singspiel).</p>
+                     <p xml:id="tg2.4.85">»Ballet der Natur«.</p>
+                     <p xml:id="tg2.4.86">Er nimmt als Präsident/Oberhirt des Pegnesischen Blumenordens in der Nachfolge Harsdörffers am literarischen Leben Nürnbergs teil.</p>
+                     <lb xml:id="tg2.4.87"/>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="bold" xml:id="tg2.4.88.1">1668</hi>
+                     </p>
+                     <p xml:id="tg2.4.89">»Spiegel der Ehren des Höchstlöblichsten Erzhauses Österreich«.</p>
+                     <p xml:id="tg2.4.90">»Der Hochfürstliche Brandenburgische Ulysses«.</p>
+                     <lb xml:id="tg2.4.91"/>
+                     <p xml:id="tg2.4.92">
+                        <hi rend="bold" xml:id="tg2.4.92.1">1669</hi>
+                     </p>
+                     <p xml:id="tg2.4.93">»Guelfis oder Nidersächsischer Lorbeerhayn«.</p>
+                     <p xml:id="tg2.4.94">Er erreicht die Verschmelzung von pastoralem und heroischem Genre im höfisch-heroischen Roman zusammen mit Anton Ulrich in der »Aramena« (1669–1673).</p>
+                     <lb xml:id="tg2.4.95"/>
+                     <p xml:id="tg2.4.96">
+                        <hi rend="bold" xml:id="tg2.4.96.1">1670</hi>
+                     </p>
+                     <p xml:id="tg2.4.97">»Todes-Gedancken und Todten-Andenken«.</p>
+                     <p xml:id="tg2.4.98">Tod seiner ersten Frau Margaretha.</p>
+                     <lb xml:id="tg2.4.99"/>
+                     <p xml:id="tg2.4.100">
+                        <hi rend="bold" xml:id="tg2.4.100.1">1670–1672</hi>
+                     </p>
+                     <p xml:id="tg2.4.101">Reise durch Holland und England.</p>
+                     <lb xml:id="tg2.4.102"/>
+                     <p xml:id="tg2.4.103">
+                        <hi rend="bold" xml:id="tg2.4.103.1">1673</hi>
+                     </p>
+                     <p xml:id="tg2.4.104">Heirat mit Clara Catharina Bosch (1614–1679), die als »Florinda« in die Blumengesellschaft aufgenommen wird. Freundschaft mit der österreichischen Dichterin Catharina Regina von Greiffenberg.</p>
+                     <p xml:id="tg2.4.105">»Teutsche Rede-bind- und Dichtkunst«.</p>
+                     <lb xml:id="tg2.4.106"/>
+                     <p xml:id="tg2.4.107">
+                        <hi rend="bold" xml:id="tg2.4.107.1">1673–1679</hi>
+                     </p>
+                     <p xml:id="tg2.4.108">»Pegnesis« Teil I-II (Sammlung und Überarbeitung zahlreicher weltlicher und geistlicher Schäferdichtungen).</p>
+                     <lb xml:id="tg2.4.109"/>
+                     <p xml:id="tg2.4.110">
+                        <hi rend="bold" xml:id="tg2.4.110.1">1677</hi>
+                     </p>
+                     <p xml:id="tg2.4.111">»Der Norische Parnaß«.</p>
+                     <p xml:id="tg2.4.112">»Chur- und Fürstlicher Sächsischer Heldensaal«.</p>
+                     <lb xml:id="tg2.4.113"/>
+                     <p xml:id="tg2.4.114">
+                        <hi rend="bold" xml:id="tg2.4.114.1">1679</hi>
+                     </p>
+                     <p xml:id="tg2.4.115">»Margenis« (= Germanis, Drama).</p>
+                     <p xml:id="tg2.4.116">»Psyche«, in: Sigmund von Birken: »Teutsche Redebind und Dichtkunst«.</p>
+                     <p xml:id="tg2.4.117">Früher Tod seiner Frau Clara Catharina.</p>
+                     <p xml:id="tg2.4.118">Seine geistlichen Lieder, in denen er bis heute fortlebt, sammelt er im »Psalterium Betulianum«, seine geistliche Kasuallyrik in Gestalt von Sterbegedichten in seinen Todten-Andenken und Himmelsgedanken oder Gottes- und Todes-Gedanken.</p>
+                     <lb xml:id="tg2.4.119"/>
+                     <p xml:id="tg2.4.120">
+                        <hi rend="bold" xml:id="tg2.4.120.1">1681</hi>
+                     </p>
+                     <p xml:id="tg2.4.121">»Heiliger Sonntags-Handel und Kirchen-Wandel«.</p>
+                     <p xml:id="tg2.4.122">
+                        <hi rend="italic" xml:id="tg2.4.122.1">12. Juni:</hi> Birken erleidet 55jährig, inmitten zahlreicher schriftstellerischer Pläne, in Nürnberg einen Schlaganfall. Seine Grabstätte befindet sich in Nürnberg auf dem Johannis-Friedhof.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

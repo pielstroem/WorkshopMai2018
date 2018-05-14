@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Brentano, Clemens/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Brentano, Clemens</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-4111-A</idno><idno type="TextGridUri">textgrid:kr24.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:kr3k.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Clemens Brentano (Gemälde von Emilie Linder, um 1835)</ab>
+                  </figure>
+ 
+
+                  <head type="h1" xml:id="tg1.2.3">Clemens Brentano</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1778–1842)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1778</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">9. September:</hi> Clemens Maria Wenzeslaus Brentano wird in Ehrenbreitstein bei Koblenz als Sohn des italienischen Kaufmanns Pietro Antonio Brentano und Maximiliane von La Roche, der Tochter von Sophie von La Roche, geboren.</p>
+                     <p xml:id="tg2.4.6">Die Kindheit und Jugend verbringt er in Frankfurt am Main und Koblenz.</p>
+                     <lb xml:id="tg2.4.7"/>
+                     <p xml:id="tg2.4.8">
+                        <hi rend="bold" xml:id="tg2.4.8.1">1787</hi>
+                     </p>
+                     <p xml:id="tg2.4.9">
+                        <hi rend="italic" xml:id="tg2.4.9.1">Frühjahr und Sommer:</hi> Erziehung im Heidelberger Pensionat eines ehemaligen Jesuiten.</p>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="italic" xml:id="tg2.4.10.1">Herbst:</hi> Rückkehr nach Koblenz, wo er mit Joseph Görres das Jesuitengymnasium besucht (bis Ende 1790).</p>
+                     <lb xml:id="tg2.4.11"/>
+                     <p xml:id="tg2.4.12">
+                        <hi rend="bold" xml:id="tg2.4.12.1">1791</hi>
+                     </p>
+                     <p xml:id="tg2.4.13">Eintritt in das Mannheimer Philanthropin, ein christliches »Erziehungsinstitut« (bis 1793).</p>
+                     <lb xml:id="tg2.4.14"/>
+                     <p xml:id="tg2.4.15">
+                        <hi rend="bold" xml:id="tg2.4.15.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="italic" xml:id="tg2.4.16.1">19. November:</hi> Tod der Mutter.</p>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="italic" xml:id="tg2.4.17.1">Dezember:</hi> Beginn eines bergwissenschaftlichen Studiums in Bonn (bis Anfang 1794).</p>
+                     <lb xml:id="tg2.4.18"/>
+                     <p xml:id="tg2.4.19">
+                        <hi rend="bold" xml:id="tg2.4.19.1">1794</hi>
+                     </p>
+                     <p xml:id="tg2.4.20">Brentano tritt in das Geschäft des Vaters ein, wo er gegen seinen Willen zum Kaufmann ausgebildet werden soll.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1796</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="italic" xml:id="tg2.4.23.1">Juni bis August:</hi> Kaufmännische Ausbildung in Langensalza (Thüringen).</p>
+                     <p xml:id="tg2.4.24">Anschließend wieder im Kontor des Vaters tätig.</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1797</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">
+                        <hi rend="italic" xml:id="tg2.4.27.1">9. März:</hi> Tod des Vaters.</p>
+                     <p xml:id="tg2.4.28">
+                        <hi rend="italic" xml:id="tg2.4.28.1">Mai:</hi> Brentano geht als Student der Berg- und Kameralwissenschaft nach Halle.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1798</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">Brentano siedelt nach Jena über.</p>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="italic" xml:id="tg2.4.32.1">Juni:</hi> Er schreibt sich an der Universität für das Studium der Medizin ein.</p>
+                     <p xml:id="tg2.4.33">Kontakte zu Christoph Martin Wieland, Johann Gottfried Herder, Johann Wolfgang Goethe, August Wilhelm und Friedrich Schlegel, Johann Gottlieb Fichte, Ludwig Tieck und Sophie Mereau.</p>
+                     <p xml:id="tg2.4.34">Brentano beginnt mit der Arbeit am »Godwi«.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1799</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="italic" xml:id="tg2.4.37.1">Mai:</hi> Brentano lernt Minna Reichenbach kennen.</p>
+                     <p xml:id="tg2.4.38">
+                        <hi rend="italic" xml:id="tg2.4.38.1">Juli:</hi> Mit Sophie Mereau Besuch bei der Großmutter Sophie von La Roche und der Schwester Sophie.</p>
+                     <p xml:id="tg2.4.39">
+                        <hi rend="italic" xml:id="tg2.4.39.1">August:</hi> Beginn der Freundschaft mit Friedrich Karl von Savigny.</p>
+                     <p xml:id="tg2.4.40">
+                        <hi rend="italic" xml:id="tg2.4.40.1">Dezember:</hi> Wieder in Jena, verkehrt Brentano im Schlegel-Tieck-Kreis.</p>
+                     <lb xml:id="tg2.4.41"/>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="bold" xml:id="tg2.4.42.1">1800</hi>
+                     </p>
+                     <p xml:id="tg2.4.43">»Satiren und poetische Spiele von Maria«, eine im Sinne der Romantiker gegen August von Kotzebue gerichtete Satire, erscheint als erste selbstständige Buchpublikation Brentanos unter Pseudonym.</p>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="italic" xml:id="tg2.4.44.1">Juni:</hi> Reise nach Leipzig und Altenburg.</p>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="italic" xml:id="tg2.4.45.1">August:</hi> Zerwürfnis mit Sophie Mereau.</p>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="italic" xml:id="tg2.4.46.1">19. September:</hi> Tod der Schwester Sophie.</p>
+                     <lb xml:id="tg2.4.47"/>
+                     <p xml:id="tg2.4.48">
+                        <hi rend="bold" xml:id="tg2.4.48.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.49">Der »verwilderte Roman« »Godwi oder Das steinerne Bild der Mutter« (1801–02) erscheint.</p>
+                     <p xml:id="tg2.4.50">
+                        <hi rend="italic" xml:id="tg2.4.50.1">Januar:</hi> Übersiedlung nach Marburg zu Savigny.</p>
+                     <p xml:id="tg2.4.51">Der Briefwechsel mit der Schwester Bettina beginnt.</p>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="italic" xml:id="tg2.4.52.1">Mai:</hi> Übersiedlung nach Göttingen zum Studium der Philosophie.</p>
+                     <p xml:id="tg2.4.53">
+                        <hi rend="italic" xml:id="tg2.4.53.1">Juni:</hi> Bekanntschaft mit Achim von Arnim.</p>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="italic" xml:id="tg2.4.54.1">Juli:</hi> Scheidung Sophie Mereaus.</p>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="italic" xml:id="tg2.4.55.1">Oktober:</hi> Rheinreise mit Savigny.</p>
+                     <lb xml:id="tg2.4.56"/>
+                     <p xml:id="tg2.4.57">
+                        <hi rend="bold" xml:id="tg2.4.57.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.58">Januar: Brentano besucht Savigny in Marburg.</p>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="italic" xml:id="tg2.4.59.1">Juni:</hi> Rheinreise zusammen mit Achim von Arnim.</p>
+                     <p xml:id="tg2.4.60">
+                        <hi rend="italic" xml:id="tg2.4.60.1">Juli:</hi> Rückkehr nach Frankfurt am Main.</p>
+                     <p xml:id="tg2.4.61">Reisen nach Marburg, Frankfurt, Koblenz und Düsseldorf.</p>
+                     <p xml:id="tg2.4.62">
+                        <hi rend="italic" xml:id="tg2.4.62.1">Dezember:</hi> Brief an Sophie Mereau, mit dem die Beziehung wieder aufgenommen wird.</p>
+                     <lb xml:id="tg2.4.63"/>
+                     <p xml:id="tg2.4.64">
+                        <hi rend="bold" xml:id="tg2.4.64.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="italic" xml:id="tg2.4.65.1">April:</hi> Das im November 1802 in nur vier Tagen verfasste Singspiel »Die lustigen Musikanten« wird in Düsseldorf aufgeführt und erscheint wenig später als Buch.</p>
+                     <p xml:id="tg2.4.66">
+                        <hi rend="italic" xml:id="tg2.4.66.1">Mai:</hi> Versöhnung mit Sophie Mereau in Weimar.</p>
+                     <p xml:id="tg2.4.67">Das 1801 für Goethes und Schillers »Dramatische Preisaufgabe« geschriebene Intrigenstück »Ponce de Leon« erscheint.</p>
+                     <p xml:id="tg2.4.68">
+                        <hi rend="italic" xml:id="tg2.4.68.1">29. November:</hi> Heirat mit Sophie Mereau in Marburg.</p>
+                     <p xml:id="tg2.4.69">Umgang mit Savigny und den Brüdern Jakob und Wilhelm Grimm.</p>
+                     <lb xml:id="tg2.4.70"/>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="bold" xml:id="tg2.4.71.1">1804</hi>
+                     </p>
+                     <p xml:id="tg2.4.72">
+                        <hi rend="italic" xml:id="tg2.4.72.1">11. Mai:</hi> Der Sohn Achim Ariel Tyll wird geboren; er stirbt bereits am 19. Juni des gleichen Jahres.</p>
+                     <p xml:id="tg2.4.73">
+                        <hi rend="italic" xml:id="tg2.4.73.1">August:</hi> Umzug nach Heidelberg.</p>
+                     <p xml:id="tg2.4.74">
+                        <hi rend="italic" xml:id="tg2.4.74.1">Oktober:</hi> Besuch bei Arnim in Berlin (bis Dezember). Zusammen besuchen sie Tieck in Ziebingen nahe Frankfurt an der Oder. Erste Pläne zur Herausgabe des »Wunderhorns«.</p>
+                     <lb xml:id="tg2.4.75"/>
+                     <p xml:id="tg2.4.76">
+                        <hi rend="bold" xml:id="tg2.4.76.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.77">
+                        <hi rend="italic" xml:id="tg2.4.77.1">April:</hi> Aufenthalt in Frankfurt am Main.</p>
+                     <p xml:id="tg2.4.78">
+                        <hi rend="italic" xml:id="tg2.4.78.1">Mai:</hi> Arnim kommt nach Heidelberg.</p>
+                     <p xml:id="tg2.4.79">
+                        <hi rend="italic" xml:id="tg2.4.79.1">13. Mai:</hi> Geburt der Tochter Joachime Elisabeth, die wenig später, am 17. Juni, stirbt.</p>
+                     <p xml:id="tg2.4.80">
+                        <hi rend="italic" xml:id="tg2.4.80.1">Herbst:</hi> Der erste Band der Sammlung deutscher lyrischer Volksdichtung »Des Knaben Wunderhorn« erscheint (vordatiert auf 1806).</p>
+                     <lb xml:id="tg2.4.81"/>
+                     <p xml:id="tg2.4.82">
+                        <hi rend="bold" xml:id="tg2.4.82.1">1806</hi>
+                     </p>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="italic" xml:id="tg2.4.83.1">September:</hi> Aufenthalt in Frankfurt am Main.</p>
+                     <p xml:id="tg2.4.84">Joseph Görres kommt als Philosophiedozent nach Heidelberg.</p>
+                     <p xml:id="tg2.4.85">
+                        <hi rend="italic" xml:id="tg2.4.85.1">31. Oktober:</hi> Sophie Brentano stirbt bei einer Totgeburt in Heidelberg.</p>
+                     <lb xml:id="tg2.4.86"/>
+                     <p xml:id="tg2.4.87">
+                        <hi rend="bold" xml:id="tg2.4.87.1">1807</hi>
+                     </p>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="italic" xml:id="tg2.4.88.1">April:</hi> »Wunderbare Geschichte von BOGS dem Uhrmacher«, eine zusammen mit Görres verfasste Satire, erscheint.</p>
+                     <p xml:id="tg2.4.89">
+                        <hi rend="italic" xml:id="tg2.4.89.1">Mai/Juni:</hi> Reise nach Holland.</p>
+                     <p xml:id="tg2.4.90">
+                        <hi rend="italic" xml:id="tg2.4.90.1">Juli:</hi> Liaison mit Auguste Bußmann.</p>
+                     <p xml:id="tg2.4.91">
+                        <hi rend="italic" xml:id="tg2.4.91.1">21. August:</hi> Ehe mit der sechzehnjährigen Auguste Bußmann.</p>
+                     <p xml:id="tg2.4.92">
+                        <hi rend="italic" xml:id="tg2.4.92.1">Oktober:</hi> Reise nach Giebichenstein, dort Treffen mit Arnim.</p>
+                     <p xml:id="tg2.4.93">
+                        <hi rend="italic" xml:id="tg2.4.93.1">November:</hi> Mit Arnim Reise nach Weimar und Begegnung mit Goethe. Anschließend mit Arnim Aufenthalt in Kassel und gemeinsame Arbeit am »Wunderhorn«.</p>
+                     <lb xml:id="tg2.4.94"/>
+                     <p xml:id="tg2.4.95">
+                        <hi rend="bold" xml:id="tg2.4.95.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.96">
+                        <hi rend="italic" xml:id="tg2.4.96.1">April:</hi> Brentano fährt nach Heidelberg, gemeinsame Wohnung mit Arnim.</p>
+                     <p xml:id="tg2.4.97">Die zusammen mit Arnim gegründete »Zeitung für Einsiedler« beginnt zu erscheinen (bis August).</p>
+                     <p xml:id="tg2.4.98">
+                        <hi rend="italic" xml:id="tg2.4.98.1">August:</hi> Reise zu Savigny nach Landshut.</p>
+                     <p xml:id="tg2.4.99">
+                        <hi rend="italic" xml:id="tg2.4.99.1">September:</hi> Der zweite und dritte Band von »Des Knaben Wunderhorn« werden veröffentlicht.</p>
+                     <lb xml:id="tg2.4.100"/>
+                     <p xml:id="tg2.4.101">
+                        <hi rend="bold" xml:id="tg2.4.101.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.102">
+                        <hi rend="italic" xml:id="tg2.4.102.1">Februar:</hi> Nach Auseinandersetzungen mit seiner Frau reist Brentano nach München.</p>
+                     <p xml:id="tg2.4.103">
+                        <hi rend="italic" xml:id="tg2.4.103.1">März:</hi> Nachdem Auguste die Wohnung in Landshut verlassen hat, kehrt Brentano dorthin zurück.</p>
+                     <p xml:id="tg2.4.104">
+                        <hi rend="italic" xml:id="tg2.4.104.1">Frühjahr:</hi> »Der Goldfaden eine schöne alte Geschichte wieder herausgegeben«.</p>
+                     <p xml:id="tg2.4.105">
+                        <hi rend="italic" xml:id="tg2.4.105.1">Juli-September:</hi> Reise nach Berlin über Nürnberg, wo er Georg Wilhelm Friedrich Hegel trifft, Jena, Weimar (Zusammentreffen mit Goethe) und Giebichenstein.</p>
+                     <p xml:id="tg2.4.106">In Berlin Kontakte zu Adelbert Chamisso, Joseph von Eichendorff, Wilhelm von Humboldt, Adam Müller, Heinrich von Kleist und Friedrich de la Motte Fouqué.</p>
+                     <lb xml:id="tg2.4.107"/>
+                     <p xml:id="tg2.4.108">
+                        <hi rend="bold" xml:id="tg2.4.108.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.109">
+                        <hi rend="italic" xml:id="tg2.4.109.1">Januar:</hi> Beginn des Briefwechsels mit Philipp Otto Runge (bis zu Runges Tod Ende des Jahres).</p>
+                     <p xml:id="tg2.4.110">
+                        <hi rend="italic" xml:id="tg2.4.110.1">Oktober-Dezember:</hi> Mitarbeit an Heinrich von Kleists »Berliner Abendblättern«.</p>
+                     <lb xml:id="tg2.4.111"/>
+                     <p xml:id="tg2.4.112">
+                        <hi rend="bold" xml:id="tg2.4.112.1">1811</hi>
+                     </p>
+                     <p xml:id="tg2.4.113">
+                        <hi rend="italic" xml:id="tg2.4.113.1">Januar:</hi> Gründung der Christlich deutschen Tischgesellschaft mit Arnim, Kleist, A. Müller, Chamisso, Fouqué.</p>
+                     <p xml:id="tg2.4.114">
+                        <hi rend="italic" xml:id="tg2.4.114.1">11. März:</hi> Arnim heiratet Brentanos Schwester Bettina.</p>
+                     <p xml:id="tg2.4.115">»Der Philister vor, in und nach der Geschichte« (Satire).</p>
+                     <p xml:id="tg2.4.116">
+                        <hi rend="italic" xml:id="tg2.4.116.1">Juli:</hi> Aufenthalt auf dem Familiengut Bukowan (Böhmen) und in Prag (bis Juli 1813).</p>
+                     <p xml:id="tg2.4.117">
+                        <hi rend="italic" xml:id="tg2.4.117.1">Oktober:</hi> Freundschaft mit Karl August Varnhagen.</p>
+                     <lb xml:id="tg2.4.118"/>
+                     <p xml:id="tg2.4.119">
+                        <hi rend="bold" xml:id="tg2.4.119.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.120">Scheidung von Auguste Bußmann.</p>
+                     <p xml:id="tg2.4.121">April: Bruch mit Varnhagen.</p>
+                     <p xml:id="tg2.4.122">
+                        <hi rend="italic" xml:id="tg2.4.122.1">August:</hi> Brentano fährt nach Teplitz, wo er Arnim und Bettine sowie die Schwester Gunda und Savigny, mit dem sie seit 1804 verheiratet ist, trifft.</p>
+                     <lb xml:id="tg2.4.123"/>
+                     <p xml:id="tg2.4.124">
+                        <hi rend="bold" xml:id="tg2.4.124.1">1813</hi>
+                     </p>
+                     <p xml:id="tg2.4.125">
+                        <hi rend="italic" xml:id="tg2.4.125.1">Juli:</hi> Aufenthalt in Wien (bis 1814).</p>
+                     <p xml:id="tg2.4.126">Die Aufführung seines patriotischen Festspiels »Viktoria und ihre Geschwister mit fliegenden Fahnen und brennender Lunte« wird von der Zensur verboten (Buchausgabe 1817).</p>
+                     <lb xml:id="tg2.4.127"/>
+                     <p xml:id="tg2.4.128">
+                        <hi rend="bold" xml:id="tg2.4.128.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.129">»Die Gründung Prags«, ein historisch-romantisches Drama, erscheint (vordatiert auf 1815).</p>
+                     <p xml:id="tg2.4.130">
+                        <hi rend="italic" xml:id="tg2.4.130.1">September:</hi> Besuch bei Arnim in Wiepersdorf.</p>
+                     <p xml:id="tg2.4.131">
+                        <hi rend="italic" xml:id="tg2.4.131.1">November:</hi> Gemeinsame Reise nach Berlin.</p>
+                     <lb xml:id="tg2.4.132"/>
+                     <p xml:id="tg2.4.133">
+                        <hi rend="bold" xml:id="tg2.4.133.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.134">
+                        <hi rend="italic" xml:id="tg2.4.134.1">Januar:</hi> In der Zeitschrift »Friedensblätter« erscheint die Erzählung »Die Schachtel mit der Friedenspuppe«.</p>
+                     <p xml:id="tg2.4.135">In Berlin verkehrt Brentano in den verschiedenen Salons und pflegt die Bekanntschaften mit Fouqué, Müller, Chamisso und E. T. A. Hoffmann.</p>
+                     <p xml:id="tg2.4.136">
+                        <hi rend="italic" xml:id="tg2.4.136.1">Februar-März:</hi> Lebens- und Schaffenskrise.</p>
+                     <p xml:id="tg2.4.137">
+                        <hi rend="italic" xml:id="tg2.4.137.1">Oktober-November:</hi> Mitarbeit bei den »Berliner Nachrichten von Staats- und gelehrten Sachen«.</p>
+                     <lb xml:id="tg2.4.138"/>
+                     <p xml:id="tg2.4.139">
+                        <hi rend="bold" xml:id="tg2.4.139.1">1816</hi>
+                     </p>
+                     <p xml:id="tg2.4.140">
+                        <hi rend="italic" xml:id="tg2.4.140.1">Januar:</hi> Brentano gründet mit Freunden die »Maikäferei«, eine politisch-literarische Abendgesellschaft.</p>
+                     <p xml:id="tg2.4.141">
+                        <hi rend="italic" xml:id="tg2.4.141.1">Mai-Juni:</hi> Zusammen mit Wilhelm Grimm Besuch bei Arnim in Wiepersdorf.</p>
+                     <p xml:id="tg2.4.142">
+                        <hi rend="italic" xml:id="tg2.4.142.1">Juni-Juli:</hi> Brentano erhält Berichte über die Erweckungsbewegung in Bayern.</p>
+                     <p xml:id="tg2.4.143">
+                        <hi rend="italic" xml:id="tg2.4.143.1">Oktober:</hi> Bekanntschaft mit Luise Hensel, der er im Dezember einen Heiratsantrag macht. Gedichte an Luise Hensel.</p>
+                     <lb xml:id="tg2.4.144"/>
+                     <p xml:id="tg2.4.145">
+                        <hi rend="bold" xml:id="tg2.4.145.1">1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.146">
+                        <hi rend="italic" xml:id="tg2.4.146.1">Februar:</hi> Generalbeichte Brentanos und Rückkehr zum katholischen Glauben.</p>
+                     <p xml:id="tg2.4.147">In den von Friedrich Wilhelm Gubitz herausgegebenen »Gaben der Milde« erscheint Brentanos »Geschichte vom braven Kasperl und dem schönen Annerl«.</p>
+                     <p xml:id="tg2.4.148">
+                        <hi rend="italic" xml:id="tg2.4.148.1">Juli:</hi> Erzählungen und andere Beiträge Brentanos erscheinen in der Berliner Zeitschrift »Der Gesellschafter oder Blätter für Geist und Herz« (bis August 1818).</p>
+                     <p xml:id="tg2.4.149">
+                        <hi rend="italic" xml:id="tg2.4.149.1">Dezember:</hi> Der Bruder Christian berichtet von seinem Aufenthalt bei der stigmatisierten ehemaligen Nonne Anna Katharina Emmerick in Dülmen.</p>
+                     <p xml:id="tg2.4.150">Gemeinsam mit Luise Hensel veröffentlicht Brentano Friedrich Spees »Trutz Nachtigall ein geistlich poetisches Lustwäldlein. Wörtlich treue Ausgabe vermehrt mit den Liedern aus dem güldenen Tugendbuch desselben Dichters«.</p>
+                     <lb xml:id="tg2.4.151"/>
+                     <p xml:id="tg2.4.152">
+                        <hi rend="bold" xml:id="tg2.4.152.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.153">»Aus der Chronika eines fahrenden Schülers« erscheint als Fragment in dem Almanach »Die Sängerfahrt. Eine Neujahrsgabe für Freunde der Dichtkunst und Malerei«.</p>
+                     <p xml:id="tg2.4.154">
+                        <hi rend="italic" xml:id="tg2.4.154.1">September:</hi> Brentano reist von Berlin nach Dülmen zu A. K. Emmerick, wo er mit der Aufzeichnung der »Visionen« Emmericks beginnt.</p>
+                     <p xml:id="tg2.4.155">
+                        <hi rend="italic" xml:id="tg2.4.155.1">Dezember:</hi> Luise Hensel konvertiert zur katholischen Kirche.</p>
+                     <lb xml:id="tg2.4.156"/>
+                     <p xml:id="tg2.4.157">
+                        <hi rend="bold" xml:id="tg2.4.157.1">1819</hi>
+                     </p>
+                     <p xml:id="tg2.4.158">
+                        <hi rend="italic" xml:id="tg2.4.158.1">Januar:</hi> Reise nach Berlin.</p>
+                     <p xml:id="tg2.4.159">
+                        <hi rend="italic" xml:id="tg2.4.159.1">Mai:</hi> Rückkehr nach Dülmen.</p>
+                     <p xml:id="tg2.4.160">
+                        <hi rend="italic" xml:id="tg2.4.160.1">August:</hi> Die Stigmata A. K. Emmericks werden gerichtlich-polizeilich untersucht. Inzwischen reist Brentano nach Bocholt, wo er bis September bei der Familie Diepenbrock bleibt.</p>
+                     <p xml:id="tg2.4.161">
+                        <hi rend="italic" xml:id="tg2.4.161.1">Dezember:</hi> Brentano lässt seine Bibliothek in Berlin versteigern.</p>
+                     <p xml:id="tg2.4.162">Der Bruder Christian kommt nach Dülmen (bis August 1821).</p>
+                     <lb xml:id="tg2.4.163"/>
+                     <p xml:id="tg2.4.164">
+                        <hi rend="bold" xml:id="tg2.4.164.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.165">
+                        <hi rend="italic" xml:id="tg2.4.165.1">Juli–August:</hi> Brentano beginnt mit der Arbeit an den Protokollen über die »Reliquien-Erkenntnis« Emmericks.</p>
+                     <p xml:id="tg2.4.166">
+                        <hi rend="italic" xml:id="tg2.4.166.1">November:</hi> Arnim ist zu Besuch in Dülmen.</p>
+                     <lb xml:id="tg2.4.167"/>
+                     <p xml:id="tg2.4.168">
+                        <hi rend="bold" xml:id="tg2.4.168.1">1821</hi>
+                     </p>
+                     <p xml:id="tg2.4.169">
+                        <hi rend="italic" xml:id="tg2.4.169.1">April:</hi> Luise Hensel kommt nach Dülmen.</p>
+                     <p xml:id="tg2.4.170">
+                        <hi rend="italic" xml:id="tg2.4.170.1">Mai:</hi> Gemeinsam reisen sie nach Bocholt.</p>
+                     <lb xml:id="tg2.4.171"/>
+                     <p xml:id="tg2.4.172">
+                        <hi rend="bold" xml:id="tg2.4.172.1">1822</hi>
+                     </p>
+                     <p xml:id="tg2.4.173">
+                        <hi rend="italic" xml:id="tg2.4.173.1">März:</hi> Weiterer Besuch Luise Hensels in Dülmen.</p>
+                     <p xml:id="tg2.4.174">
+                        <hi rend="italic" xml:id="tg2.4.174.1">Mai–Juni:</hi> Reise nach Köln und Bonn.</p>
+                     <lb xml:id="tg2.4.175"/>
+                     <p xml:id="tg2.4.176">
+                        <hi rend="bold" xml:id="tg2.4.176.1">1823</hi>
+                     </p>
+                     <p xml:id="tg2.4.177">
+                        <hi rend="italic" xml:id="tg2.4.177.1">Mai:</hi> Schwere Krankheit Emmericks.</p>
+                     <p xml:id="tg2.4.178">
+                        <hi rend="italic" xml:id="tg2.4.178.1">Juli–September:</hi> Aufenthalt in Frankfurt am Main, wo er sich mit dem Historiker Johann Friedrich Böhmer anfreundet. Zwischendurch Reise nach Regensburg.</p>
+                     <lb xml:id="tg2.4.179"/>
+                     <p xml:id="tg2.4.180">
+                        <hi rend="bold" xml:id="tg2.4.180.1">1824</hi>
+                     </p>
+                     <p xml:id="tg2.4.181">
+                        <hi rend="italic" xml:id="tg2.4.181.1">9. Februar:</hi> Tod A. K. Emmericks.</p>
+                     <p xml:id="tg2.4.182">Brentano beginnt mit der Bearbeitung seiner umfangreichen Notizen.</p>
+                     <p xml:id="tg2.4.183">
+                        <hi rend="italic" xml:id="tg2.4.183.1">März–Juli:</hi> Besuch bei Johann Christian von Bostel in Bocholt.</p>
+                     <p xml:id="tg2.4.184">Weitere Reisen nach Bonn, Wiesbaden und Frankfurt am Main.</p>
+                     <p xml:id="tg2.4.185">
+                        <hi rend="italic" xml:id="tg2.4.185.1">Oktober:</hi> Aufenthalt in Koblenz.</p>
+                     <lb xml:id="tg2.4.186"/>
+                     <p xml:id="tg2.4.187">
+                        <hi rend="bold" xml:id="tg2.4.187.1">1825</hi>
+                     </p>
+                     <p xml:id="tg2.4.188">
+                        <hi rend="italic" xml:id="tg2.4.188.1">Mai:</hi> Übersiedlung nach Koblenz zu Hermann Joseph Dietz, einem Koblenzer Fabrikanten.</p>
+                     <p xml:id="tg2.4.189">
+                        <hi rend="italic" xml:id="tg2.4.189.1">Herbst:</hi> Reisen nach Straßburg und in die Schweiz.</p>
+                     <lb xml:id="tg2.4.190"/>
+                     <p xml:id="tg2.4.191">
+                        <hi rend="bold" xml:id="tg2.4.191.1">1826</hi>
+                     </p>
+                     <p xml:id="tg2.4.192">
+                        <hi rend="italic" xml:id="tg2.4.192.1">Dezember:</hi> Im Almanach »Iris« erscheint anonym und ohne Wissen Brentanos ein Teil seines »Märchens vom Rhein«.</p>
+                     <lb xml:id="tg2.4.193"/>
+                     <p xml:id="tg2.4.194">
+                        <hi rend="bold" xml:id="tg2.4.194.1">1827</hi>
+                     </p>
+                     <p xml:id="tg2.4.195">
+                        <hi rend="italic" xml:id="tg2.4.195.1">Januar:</hi> Weitere Märchen werden in der »Iris« ohne Genehmigung Brentanos veröffentlicht, wogegen Brentano im Februar protestiert.</p>
+                     <p xml:id="tg2.4.196">
+                        <hi rend="italic" xml:id="tg2.4.196.1">März:</hi> Mit Dietz reist Brentano nach Paris und Lothringen, um den Orden der Barmherzigen Schwestern kennen zu lernen.</p>
+                     <p xml:id="tg2.4.197">Beginn der Arbeiten an einer Geschichte des Ordens der Barmherzigen Schwestern.</p>
+                     <p xml:id="tg2.4.198">
+                        <hi rend="italic" xml:id="tg2.4.198.1">August–September:</hi> Reisen nach Mainz, Koblenz, Köln, Bocholt, Düsseldorf und Bonn.</p>
+                     <lb xml:id="tg2.4.199"/>
+                     <p xml:id="tg2.4.200">
+                        <hi rend="bold" xml:id="tg2.4.200.1">1828</hi>
+                     </p>
+                     <p xml:id="tg2.4.201">
+                        <hi rend="italic" xml:id="tg2.4.201.1">August–Dezember:</hi> Reise nach Luzern, wo er sich mit dem Bruder Christian trifft.</p>
+                     <p xml:id="tg2.4.202">Mehrere Beiträge in der Zeitschrift »Der Katholik«.</p>
+                     <lb xml:id="tg2.4.203"/>
+                     <p xml:id="tg2.4.204">
+                        <hi rend="bold" xml:id="tg2.4.204.1">1829</hi>
+                     </p>
+                     <p xml:id="tg2.4.205">
+                        <hi rend="italic" xml:id="tg2.4.205.1">Sommer:</hi> Übersiedlung nach Frankfurt.</p>
+                     <p xml:id="tg2.4.206">Im »Geistlichen Blumenstrauß aus spanischen und deutschen Dichter-Gärten«, einem von Melchior Diepenbrock herausgegebenen Almanach, erscheinen Gedichte von Brentano und Luise Hensel.</p>
+                     <p xml:id="tg2.4.207">»Friedrich Spee's goldenes Tugendbuch« (Bearbeitung zusammen mit Anna von Hertling).</p>
+                     <lb xml:id="tg2.4.208"/>
+                     <p xml:id="tg2.4.209">
+                        <hi rend="bold" xml:id="tg2.4.209.1">1830</hi>
+                     </p>
+                     <p xml:id="tg2.4.210">»Das Mosel-Eisgangs-Lied«.</p>
+                     <lb xml:id="tg2.4.211"/>
+                     <p xml:id="tg2.4.212">
+                        <hi rend="bold" xml:id="tg2.4.212.1">1831</hi>
+                     </p>
+                     <p xml:id="tg2.4.213">
+                        <hi rend="italic" xml:id="tg2.4.213.1">21. Januar:</hi> Der Freund Arnim stirbt in Wiepersdorf.</p>
+                     <p xml:id="tg2.4.214">»Die Barmherzigen Schwestern in Bezug auf Armen-und Krankenpflege«.</p>
+                     <lb xml:id="tg2.4.215"/>
+                     <p xml:id="tg2.4.216">
+                        <hi rend="bold" xml:id="tg2.4.216.1">1832</hi>
+                     </p>
+                     <p xml:id="tg2.4.217">
+                        <hi rend="italic" xml:id="tg2.4.217.1">17.April:</hi> Freitod Auguste Bußmanns.</p>
+                     <p xml:id="tg2.4.218">
+                        <hi rend="italic" xml:id="tg2.4.218.1">Oktober:</hi> Übersiedlung nach Regensburg.</p>
+                     <lb xml:id="tg2.4.219"/>
+                     <p xml:id="tg2.4.220">
+                        <hi rend="bold" xml:id="tg2.4.220.1">1833</hi>
+                     </p>
+                     <p xml:id="tg2.4.221">»Das bitteren Leiden unseres Herrn Jesu Christi. Nach den Betrachtungen der gottseligen Anna Katharina Emmerich, Augustinerin des Klosters Agnetenberg zu Dülmen nebst dem Lebensumriß dieser Begnadigten«.</p>
+                     <p xml:id="tg2.4.222">
+                        <hi rend="italic" xml:id="tg2.4.222.1">September:</hi> Umzug nach München. Freundschaft mit dem Kreis katholischer Spätromantiker um Görres.</p>
+                     <p xml:id="tg2.4.223">Enge Beziehung zu der Malerin Emilie Linder.</p>
+                     <lb xml:id="tg2.4.224"/>
+                     <p xml:id="tg2.4.225">
+                        <hi rend="bold" xml:id="tg2.4.225.1">1834</hi>
+                     </p>
+                     <p xml:id="tg2.4.226">Religiöse Liebesgedichte an Emilie Linder.</p>
+                     <p xml:id="tg2.4.227">Briefwechsel mit der Schwester Bettina.</p>
+                     <lb xml:id="tg2.4.228"/>
+                     <p xml:id="tg2.4.229">
+                        <hi rend="bold" xml:id="tg2.4.229.1">1837</hi>
+                     </p>
+                     <p xml:id="tg2.4.230">»Gockel, Hinkel, Gackeleja« (Märchen, vordatiert auf 1838).</p>
+                     <lb xml:id="tg2.4.231"/>
+                     <p xml:id="tg2.4.232">
+                        <hi rend="bold" xml:id="tg2.4.232.1">1839</hi>
+                     </p>
+                     <p xml:id="tg2.4.233">Reise nach Regensburg zu den Diepenbrocks.</p>
+                     <p xml:id="tg2.4.234">
+                        <hi rend="italic" xml:id="tg2.4.234.1">November:</hi> Beginn der Vorbereitungen für eine Gesamtausgabe der Werke.</p>
+                     <lb xml:id="tg2.4.235"/>
+                     <p xml:id="tg2.4.236">
+                        <hi rend="bold" xml:id="tg2.4.236.1">1840</hi>
+                     </p>
+                     <p xml:id="tg2.4.237">Brentano arbeitet am »Leben der heiligen Jungfrau Maria. Nach den Betrachtungen der gottseligen Anna Katharina Emmerich, Augustinerin des Klosters Agnetenberg zu Dülmen. Aufgeschrieben von Clemens Brentano« (veröffentlicht postum 1852).</p>
+                     <lb xml:id="tg2.4.238"/>
+                     <p xml:id="tg2.4.239">
+                        <hi rend="bold" xml:id="tg2.4.239.1">1841</hi>
+                     </p>
+                     <p xml:id="tg2.4.240">»Legende von der heiligen Marina« (Gedicht).</p>
+                     <p xml:id="tg2.4.241">Umgang mit Justinus Kerner, gemeinsame Fahrt nach Augsburg.</p>
+                     <p xml:id="tg2.4.242">
+                        <hi rend="italic" xml:id="tg2.4.242.1">August–November:</hi> Aufenthalt beim Bruder Christian in Aschaffenburg und in Frankfurt am Main.</p>
+                     <lb xml:id="tg2.4.243"/>
+                     <p xml:id="tg2.4.244">
+                        <hi rend="bold" xml:id="tg2.4.244.1">1842</hi>
+                     </p>
+                     <p xml:id="tg2.4.245">Brentano erkrankt schwer.</p>
+                     <p xml:id="tg2.4.246">
+                        <hi rend="italic" xml:id="tg2.4.246.1">Juli:</hi> Der todkranke Brentano wird vom Bruder nach Aschaffenburg gebracht.</p>
+                     <p xml:id="tg2.4.247">
+                        <hi rend="italic" xml:id="tg2.4.247.1">28. Juli:</hi> Brentano stirbt in Aschaffenburg.</p>
+                     <lb xml:id="tg2.4.248"/>
+                  </div>
+               </body>
+         </text>
+      </TEI>

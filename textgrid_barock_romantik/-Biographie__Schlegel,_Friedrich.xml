@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Schlegel, Friedrich/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Schlegel, Friedrich</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0004-D7C9-E</idno><idno type="TextGridUri">textgrid:v38d.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:v3h4.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Friedrich Schlegel (Gemälde von Franz Gareis, 1801)</ab>
+                  </figure>
+
+                  <head type="h1" xml:id="tg1.2.3">Friedrich Schlegel</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1772–1829)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1772</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">10. März:</hi> Karl Wilhelm Friedrich Schlegel wird als jüngstes von sieben Kindern des Generalsuperintendenten Johann Adolf Schlegel und seiner Frau Johanna Christiane Erdmute, geb. Hübsch, in Hannover geboren.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1788</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Beginn einer Kaufmannslehre im Bankhaus Schlemm in Leipzig.</p>
+                     <p xml:id="tg2.4.9">Unter Anleitung des älteren Bruders August Wilhelm (geb. 1767) bereitet sich Schlegel, der kein Gymnasium besucht hat, auf das Studium vor.</p>
+                     <lb xml:id="tg2.4.10"/>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="bold" xml:id="tg2.4.11.1">1790</hi>
+                     </p>
+                     <p xml:id="tg2.4.12">Immatrikulation zum Studium der Rechtswissenschaft in Göttingen, wo August Wilhelm klassische Philologie studiert.</p>
+                     <lb xml:id="tg2.4.13"/>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="bold" xml:id="tg2.4.14.1">1791</hi>
+                     </p>
+                     <p xml:id="tg2.4.15">Schlegel setzt sein Studium in Leipzig fort (bis 1793). Neben juristischen Vorlesungen interessiert er sich mehr und mehr für Philosophie, Kunsttheorie und Geschichte.</p>
+                     <lb xml:id="tg2.4.16"/>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="bold" xml:id="tg2.4.17.1">1792</hi>
+                     </p>
+                     <p xml:id="tg2.4.18">Beginn der Freundschaft mit Novalis.</p>
+                     <p xml:id="tg2.4.19">Bekanntschaft mit Schiller.</p>
+                     <lb xml:id="tg2.4.20"/>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="bold" xml:id="tg2.4.21.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.22">Bekanntschaft mit Caroline Böhmer, der späteren Frau August Wilhelms.</p>
+                     <lb xml:id="tg2.4.23"/>
+                     <p xml:id="tg2.4.24">
+                        <hi rend="bold" xml:id="tg2.4.24.1">1794</hi>
+                     </p>
+                     <p xml:id="tg2.4.25">
+                        <hi rend="italic" xml:id="tg2.4.25.1">Januar:</hi> Aus finanziellen Gründen muß Schlegel sein Studium abbrechen.</p>
+                     <p xml:id="tg2.4.26">Übersiedlung nach Dresden und privates Studium der antiken Klassiker.</p>
+                     <p xml:id="tg2.4.27">Häufiger Kontakt zu Christian Gottfried Körner, dem Vater des späteren Schriftstellers Karl Theodor Körner (geb. 1791).</p>
+                     <p xml:id="tg2.4.28">In der »Berlinischen Monatsschrift« erscheint als erste wichtigere Publikation Schlegels seine Abhandlung »Von den Schulen der griechischen Poesie«.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1795</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">Schlegel lernt den Musiker und Schriftsteller Johann Friedrich Reichardt kennen.</p>
+                     <lb xml:id="tg2.4.32"/>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="bold" xml:id="tg2.4.33.1">1796</hi>
+                     </p>
+                     <p xml:id="tg2.4.34">Beginn der Mitarbeit an Reichardts Zeitschrift »Deutschland«, in der u.a. Schlegels politischer Aufsatz »Versuch über den Begriff des Republikanismus« erscheint.</p>
+                     <p xml:id="tg2.4.35">Schlegel zieht nach Jena, wo August Wilhelm inzwischen wohnt.</p>
+                     <p xml:id="tg2.4.36">Enger Umgang mit Novalis.</p>
+                     <p xml:id="tg2.4.37">Bekanntschaft mit Goethe, Herder, Wieland und Fichte.</p>
+                     <lb xml:id="tg2.4.38"/>
+                     <p xml:id="tg2.4.39">
+                        <hi rend="bold" xml:id="tg2.4.39.1">1797</hi>
+                     </p>
+                     <p xml:id="tg2.4.40">Wegen eines 1796 erschienenen kritischen Artikels von Schlegel über Schillers »Musenalmanach auf das Jahr 1796« und einer verletzenden Replik Schillers überwirft er sich mit Schiller.</p>
+                     <p xml:id="tg2.4.41">
+                        <hi rend="italic" xml:id="tg2.4.41.1">Juli:</hi> Umzug nach Berlin.</p>
+                     <p xml:id="tg2.4.42">Schlegel verkehrt in den Salons von Rahel Levin, Henriette Herz und Dorothea Veit.</p>
+                     <p xml:id="tg2.4.43">Umgang mit Ludwig Tieck und Friedrich Schleiermacher.</p>
+                     <p xml:id="tg2.4.44">Beginn der Mitarbeit an Reichardts Zeitschrift »Lyceum der schönen Künste«, in der u.a. Schlegels Würdigungen »Georg Forster« und »Über Lessing« sowie die »Kritischen Fragmente« (die sogenannten Lyceums-Fragmente) erscheinen.</p>
+                     <p xml:id="tg2.4.45">Der Band »Die Griechen und Römer, historische und kritische Versuche über das klassische Altertum« erscheint. Er enthält u.a. die kunsttheoretische Schrift »Über das Studium der grichischen Poesie«, die Schlegels Programm einer romantischen Ästhetik vorstellt, sowie den kulturgeschichtlichen Aufsatz »Über die Diotima«, in dem er die Bedeutung des Weiblichen in der griechischen Poesie hervorhebt.</p>
+                     <lb xml:id="tg2.4.46"/>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="bold" xml:id="tg2.4.47.1">1798</hi>
+                     </p>
+                     <p xml:id="tg2.4.48">Zusammen mit August Wilhelm gibt Schlegel in Berlin die Zeitschrift »Athenäum« heraus, die zum wichtigsten Publikationsorgan der frühen Romantik wird (bis 1800).</p>
+                     <p xml:id="tg2.4.49">Sommeraufenthalt in Dresden mit August Wilhelm, dessen Frau Caroline und Novalis.</p>
+                     <p xml:id="tg2.4.50">»Geschichte der Poesie der Griechen und Römer«.</p>
+                     <lb xml:id="tg2.4.51"/>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="bold" xml:id="tg2.4.52.1">1799</hi>
+                     </p>
+                     <p xml:id="tg2.4.53">Schlegels Roman »Lucinde« kommt heraus. Mit ihm versucht Schlegel die Umsetzung seiner Romantheorie, die eine offene Form fordert. »Lucinde« durchbricht alle Konventionen der Romanform, vor allem indem auf eine geschlossene Handlung verzichtet wird.</p>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="italic" xml:id="tg2.4.54.1">Herbst:</hi> Schlegel zieht von Berlin nach Jena um.</p>
+                     <p xml:id="tg2.4.55">Dorothea Veit folgt ihm.</p>
+                     <p xml:id="tg2.4.56">Tieck siedelt ebenfalls über.</p>
+                     <p xml:id="tg2.4.57">Im »Athenäum« erscheint Schlegels »Gespräch über die Poesie«, ein wichtiger Beitrag zur romantischen Kunsttheorie.</p>
+                     <lb xml:id="tg2.4.58"/>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="bold" xml:id="tg2.4.59.1">1800</hi>
+                     </p>
+                     <p xml:id="tg2.4.60">
+                        <hi rend="italic" xml:id="tg2.4.60.1">Sommer:</hi> Habilitation an der Universität Jena.</p>
+                     <p xml:id="tg2.4.61">
+                        <hi rend="italic" xml:id="tg2.4.61.1">Wintersemester:</hi> Schlegel hält eine Vorlesung an der Universität Jena über Transzendentalphilosophie.</p>
+                     <lb xml:id="tg2.4.62"/>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="bold" xml:id="tg2.4.63.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.64">Zusammen mit Dorothea siedelt Schlegel nach Berlin über.</p>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="italic" xml:id="tg2.4.65.1">März:</hi> Schlegel fährt nach Weißenfels zu seinem todkranken Freund Novalis und bleibt dort bis zu dessen Tod am 25. März.</p>
+                     <p xml:id="tg2.4.66">Die Aufsatzsammlung »Charakteristiken und Kritiken« mit Schriften August Wilhelm und Friedrich Schlegels kommt heraus.</p>
+                     <lb xml:id="tg2.4.67"/>
+                     <p xml:id="tg2.4.68">
+                        <hi rend="bold" xml:id="tg2.4.68.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.69">»Alarcos« (Trauerspiel).</p>
+                     <p xml:id="tg2.4.70">
+                        <hi rend="italic" xml:id="tg2.4.70.1">Januar:</hi> Umzug nach Dresden.</p>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="italic" xml:id="tg2.4.71.1">Mai – Juli:</hi> Reise mit Dorothea über Leipzig, Weimar und Frankfurt nach Paris, wo sie sich eine Wohnung nehmen.</p>
+                     <lb xml:id="tg2.4.72"/>
+                     <p xml:id="tg2.4.73">
+                        <hi rend="bold" xml:id="tg2.4.73.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.74">Schlegel gründet in Paris die Zeitschrift »Europa« (bis 1805).</p>
+                     <p xml:id="tg2.4.75">Beginn des Sanskritstudiums.</p>
+                     <p xml:id="tg2.4.76">An der Pariser Universität hält Schlegel Vorlesungen in Philosophie und Literaturgeschichte.</p>
+                     <lb xml:id="tg2.4.77"/>
+                     <p xml:id="tg2.4.78">
+                        <hi rend="bold" xml:id="tg2.4.78.1">1804</hi>
+                     </p>
+                     <p xml:id="tg2.4.79">Heirat mit Dorothea Veit.</p>
+                     <p xml:id="tg2.4.80">Zusammen mit Dorothea begleitet Schlegel die Brüder Boisserée auf einer Reise nach Belgien und Köln.</p>
+                     <p xml:id="tg2.4.81">In Köln hält Schlegel literaturwissenschaftliche und philosophische Vorlesungen (bis 1808).</p>
+                     <p xml:id="tg2.4.82">Besuch bei Madame de Staël und dem Bruder August Wilhelm, der ihr literarischer Berater ist, in Coppet am Genfer See.</p>
+                     <lb xml:id="tg2.4.83"/>
+                     <p xml:id="tg2.4.84">
+                        <hi rend="bold" xml:id="tg2.4.84.1">1806</hi>
+                     </p>
+                     <p xml:id="tg2.4.85">Besuch bei Madame de Staël auf ihrem Schloß Acosta in der Normandie.</p>
+                     <lb xml:id="tg2.4.86"/>
+                     <p xml:id="tg2.4.87">
+                        <hi rend="bold" xml:id="tg2.4.87.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="italic" xml:id="tg2.4.88.1">April:</hi> Schlegel konvertiert gemeinsam mit Dorothea zum Katholizismus.</p>
+                     <p xml:id="tg2.4.89">»Ueber die Sprache und Weisheit der Indier«.</p>
+                     <p xml:id="tg2.4.90">
+                        <hi rend="italic" xml:id="tg2.4.90.1">Juni:</hi> Umzug nach Wien.</p>
+                     <lb xml:id="tg2.4.91"/>
+                     <p xml:id="tg2.4.92">
+                        <hi rend="bold" xml:id="tg2.4.92.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.93">Schlegel wird Sekretär bei der Hof- und Staatskanzlei in Wien.</p>
+                     <p xml:id="tg2.4.94">»An Napoleon«.</p>
+                     <p xml:id="tg2.4.95">Schlegel gibt die »Österreichische Zeitung« heraus.</p>
+                     <p xml:id="tg2.4.96">»Gedichte«.</p>
+                     <lb xml:id="tg2.4.97"/>
+                     <p xml:id="tg2.4.98">
+                        <hi rend="bold" xml:id="tg2.4.98.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.99">Schlegel hält in Wien eine Vorlesung »Ueber die neuere Geschichte« (gedruckt 1811).</p>
+                     <lb xml:id="tg2.4.100"/>
+                     <p xml:id="tg2.4.101">
+                        <hi rend="bold" xml:id="tg2.4.101.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.102">Schlegel hält Vorlesungen über die »Geschichte der alten und neuen Literatur«, in denen er vor allem die antike und mittelalterliche Literatur sowie Einflüsse der persischen, indischen und hebräischen Kultur untersucht (veröffentlicht 1815 in 2 Bänden).</p>
+                     <p xml:id="tg2.4.103">Schlegel gründet die kulturkonservative Zeitschrift »Deutsches Museum« (1812–13).</p>
+                     <lb xml:id="tg2.4.104"/>
+                     <p xml:id="tg2.4.105">
+                        <hi rend="bold" xml:id="tg2.4.105.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.106">Teilnahme Schlegels am Wiener Kongress.</p>
+                     <lb xml:id="tg2.4.107"/>
+                     <p xml:id="tg2.4.108">
+                        <hi rend="bold" xml:id="tg2.4.108.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.109">Schlegel wird von Metternich, für den er Denkschriften verfaßt hatte, zum k. k. Legationsrat ernannt.</p>
+                     <p xml:id="tg2.4.110">Beginn der Mitarbeit als Legationsrat an der österreichischen Gesandtschaft am Frankfurter Bundestag.</p>
+                     <p xml:id="tg2.4.111">Schlegel wird in den Adelsstand erhoben.</p>
+                     <p xml:id="tg2.4.112">Der Papst verleiht Schlegel den Christusorden.</p>
+                     <lb xml:id="tg2.4.113"/>
+                     <p xml:id="tg2.4.114">
+                        <hi rend="bold" xml:id="tg2.4.114.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.115">Rheinreise zusammen mit August Wilhelm.</p>
+                     <p xml:id="tg2.4.116">Aufenthalt in München, wo er die Philosophen Friedrich Wilhelm Joseph von Schelling und Friedrich Heinrich Jacobi trifft.</p>
+                     <lb xml:id="tg2.4.117"/>
+                     <p xml:id="tg2.4.118">
+                        <hi rend="bold" xml:id="tg2.4.118.1">1819</hi>
+                     </p>
+                     <p xml:id="tg2.4.119">Als Kunstsachverständiger begleitet Schlegel Metternich und Kaiser Franz nach Rom.</p>
+                     <p xml:id="tg2.4.120">Rückkehr nach Wien.</p>
+                     <lb xml:id="tg2.4.121"/>
+                     <p xml:id="tg2.4.122">
+                        <hi rend="bold" xml:id="tg2.4.122.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.123">Schlegel gibt die Zeitschrift »Concordia« (bis 1823) heraus, die von seinem Bruder August Wilhelm wegen ihrer radikal konservativen Tendenz abgelehnt wird. Von Schlegel erscheinen in seiner Zeitschrift u.a. die Aufsätze »Von der Seele« und »Signatur des Zeitalters«.</p>
+                     <p xml:id="tg2.4.124">In den »Wiener Jahrbüchern« wird seine Schrift »Über die deutsche Kunstausstellung in Rom« gedruckt.</p>
+                     <p xml:id="tg2.4.125">Aufenthalt auf Schloß Feistritz in der Steiermark.</p>
+                     <lb xml:id="tg2.4.126"/>
+                     <p xml:id="tg2.4.127">
+                        <hi rend="bold" xml:id="tg2.4.127.1">1821</hi>
+                     </p>
+                     <p xml:id="tg2.4.128">Beginn des Briefwechsels mit der stigmatisierten Christine von Stransky.</p>
+                     <lb xml:id="tg2.4.129"/>
+                     <p xml:id="tg2.4.130">
+                        <hi rend="bold" xml:id="tg2.4.130.1">1822</hi>
+                     </p>
+                     <p xml:id="tg2.4.131">»Sämmtliche Werke« (10 Bände, 1822–25).</p>
+                     <p xml:id="tg2.4.132">Reise nach Schloß Feistritz.</p>
+                     <lb xml:id="tg2.4.133"/>
+                     <p xml:id="tg2.4.134">
+                        <hi rend="bold" xml:id="tg2.4.134.1">1824</hi>
+                     </p>
+                     <p xml:id="tg2.4.135">Aufenthalt in Dresden.</p>
+                     <lb xml:id="tg2.4.136"/>
+                     <p xml:id="tg2.4.137">
+                        <hi rend="bold" xml:id="tg2.4.137.1">1825</hi>
+                     </p>
+                     <p xml:id="tg2.4.138">Reisen nach München und Schloß Feistritz.</p>
+                     <lb xml:id="tg2.4.139"/>
+                     <p xml:id="tg2.4.140">
+                        <hi rend="bold" xml:id="tg2.4.140.1">1827</hi>
+                     </p>
+                     <p xml:id="tg2.4.141">Schlegel reist nach Augsburg und München.</p>
+                     <p xml:id="tg2.4.142">Vorlesung über die »Philosophie des Lebens« (gedruckt 1828).</p>
+                     <lb xml:id="tg2.4.143"/>
+                     <p xml:id="tg2.4.144">
+                        <hi rend="bold" xml:id="tg2.4.144.1">1828</hi>
+                     </p>
+                     <p xml:id="tg2.4.145">Schlegel hält eine Vorlesung über die »Philosophie der Geschichte« (gedruckt 1829 in 2 Bänden).</p>
+                     <p xml:id="tg2.4.146">
+                        <hi rend="italic" xml:id="tg2.4.146.1">Dezember:</hi> Aufenthalt Schlegels in Dresden (bis Anfang 1829), wo er »Philosophische Vorlesungen, insbesondere über Philosophie der Sprache und des Wortes« hält (gedruckt 1830).</p>
+                     <lb xml:id="tg2.4.147"/>
+                     <p xml:id="tg2.4.148">
+                        <hi rend="bold" xml:id="tg2.4.148.1">1829</hi>
+                     </p>
+                     <p xml:id="tg2.4.149">
+                        <hi rend="italic" xml:id="tg2.4.149.1">12. Januar:</hi> Schlegel stirbt in Dresden.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Hauff, Wilhelm/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Hauff, Wilhelm</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-389B-A</idno><idno type="TextGridUri">textgrid:pkg0.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+
+                  <figure>
+                     <graphic url="textgrid:pkgd.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Wilhelm Hauff (Kreidezeichnung, um 1825)</ab>
+                  </figure>
+ 
+                  <head type="h1" xml:id="tg1.2.3">Wilhelm Hauff</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1802–1827)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">29. November:</hi> Wilhelm Hauff wird in Stuttgart als Sohn des Regierungssekretärs August Friedrich Hauff und seiner Frau Wilhelmine Hauff, geb. Elsäßer, geboren.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Die Familie siedelt nach Tübingen über.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Tod des Vaters.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Eintritt in die Klosterschule Blaubeuren (bis 1820).</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="italic" xml:id="tg2.4.17.1">Oktober:</hi> Beginn des Studiums der Theologie und Philosophie am Tübinger Stift (bis 1825).</p>
+                     <lb xml:id="tg2.4.18"/>
+                     <p xml:id="tg2.4.19">
+                        <hi rend="bold" xml:id="tg2.4.19.1">1822</hi>
+                     </p>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="italic" xml:id="tg2.4.20.1">Herbst:</hi> Reise an den Rhein.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1824</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="italic" xml:id="tg2.4.23.1">Frühjahr:</hi> Verlobung mit der Kusine Luise Hauff.</p>
+                     <p xml:id="tg2.4.24">
+                        <hi rend="italic" xml:id="tg2.4.24.1">August:</hi> Promotion zum Doktor der Philosophie.</p>
+                     <p xml:id="tg2.4.25">»Kriegs- und Volkslieder« (Sammlung, die auch eigene Gedichte enthält, 10 Bände).</p>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="italic" xml:id="tg2.4.26.1">Herbst:</hi> Hauff wird von der Familie des Freiherrn von Hügel als Erzieher und Hauslehrer angestellt (bis 1826).</p>
+                     <lb xml:id="tg2.4.27"/>
+                     <p xml:id="tg2.4.28">
+                        <hi rend="bold" xml:id="tg2.4.28.1">1825</hi>
+                     </p>
+                     <p xml:id="tg2.4.29">»Mittheilungen aus den Memoiren des Satan« (1. Band, vordatiert auf 1826).</p>
+                     <p xml:id="tg2.4.30">Unter dem Namen H. Clauren, den der Unterhaltungsschriftsteller Karl Gottlieb Samuel Heun als Pseudonym verwendet, veröffentlicht Hauff »Der Mann im Mond oder Der Zug des Herzens ist des Schicksals Stimme« (2 Bände, vordatiert auf 1826) eine Parodie auf Heuns sentimentale Unterhaltungsliteratur.</p>
+                     <p xml:id="tg2.4.31">Hauff publiziert seine erste Märchensammlung »Mährchen-Almanach auf das Jahr 1826 für Söhne und Töchter gebildeter Stände«, der u.a. die im Orient spielenden Märchen »Kalif Storch« und »Geschichte von dem kleinen Muck« enthält.</p>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="italic" xml:id="tg2.4.32.1">Dezember:</hi> Heun/Clauren strengt einen Prozeß gegen Hauff wegen unrechtmäßiger Verwendung des Pseudonyms an.</p>
+                     <lb xml:id="tg2.4.33"/>
+                     <p xml:id="tg2.4.34">
+                        <hi rend="bold" xml:id="tg2.4.34.1">1826</hi>
+                     </p>
+                     <p xml:id="tg2.4.35">Der zweite »Mährchen-Almanach« Hauffs erscheint, er enthält u.a. »Zwerg Nase« und »Der Affe als Mensch« sowie Märchen anderer Autoren, z.B. von Wilhelm Grimm »Schneeweißchen und Rosenrot«. Der Schauplatz der Märchen Hauffs ist nun nicht mehr der Orient, sondern Deutschland.</p>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="italic" xml:id="tg2.4.36.1">Frühjahr:</hi> Hauff beginnt eine Bildungsreise durch Frankreich, Deutschland und die Niederlande.</p>
+                     <p xml:id="tg2.4.37">Aufenthalt in Dresden und Besuch bei Ludwig Tieck.</p>
+                     <p xml:id="tg2.4.38">»Mittheilungen aus den Memoiren des Satan« (2. Band, vordatiert auf 1827).</p>
+                     <p xml:id="tg2.4.39">Der erste deutsche historische Roman erscheint, Hauffs Ritterroman »Lichtenstein, romantische Sage aus der württembergischen Geschichte« (3 Bände).</p>
+                     <p xml:id="tg2.4.40">»Othello« (Novelle, gedruckt in der »Abend-Zeitung«).</p>
+                     <p xml:id="tg2.4.41">»Die Sängerin« (Novelle, im »Frauentaschenbuch auf das Jahr 1827«).</p>
+                     <p xml:id="tg2.4.42">»Die Bettlerin vom Pont des Arts« (Novelle, im »Morgenblatt für gebildete Stände«).</p>
+                     <p xml:id="tg2.4.43">»Controvers-Predigt über H. Clauren und den Mann im Monde« (vordatiert auf 1827).</p>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="italic" xml:id="tg2.4.44.1">Dezember:</hi> Hauff wird von der evangelischen Verwaltungsbehörde für drei Jahre vom Kirchendienst freigestellt.</p>
+                     <lb xml:id="tg2.4.45"/>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="bold" xml:id="tg2.4.46.1">1827</hi>
+                     </p>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="italic" xml:id="tg2.4.47.1">Januar:</hi> Johann Friedrich Cotta beauftragt Hauff mit der Redaktion des »Morgenblatts«, in dem er weiterhin eigene Texte veröffentlicht.</p>
+                     <p xml:id="tg2.4.48">
+                        <hi rend="italic" xml:id="tg2.4.48.1">Februar:</hi> Heirat mit Luise Hauff.</p>
+                     <p xml:id="tg2.4.49">Erste Arbeiten an einer Oper »Das Fischerstechen«.</p>
+                     <p xml:id="tg2.4.50">Arbeit an dem Roman »Andreas Hofer«, der als Gegenstück zum »Lichtenstein« auf dem Hintergrund der Geschichte Tirols spielen soll.</p>
+                     <p xml:id="tg2.4.51">Studienreise nach Tirol zur Vorbereitung des Hofer-Romans.</p>
+                     <p xml:id="tg2.4.52">»Phantasien im Bremer Rathskeller«.</p>
+                     <p xml:id="tg2.4.53">
+                        <hi rend="italic" xml:id="tg2.4.53.1">10. November:</hi> Geburt der Tochter Wilhelmine.</p>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="italic" xml:id="tg2.4.54.1">18. November:</hi> Hauff stirbt in Stuttgart an einer Infektionskrankheit.</p>
+                     <p xml:id="tg2.4.55">Der dritte »Mährchen-Almanach« Hauffs, »Das Wirtshaus im Spessart« erscheint. Er enthält u.a. »Das kalte Herz«.</p>
+                     <p xml:id="tg2.4.56">»Novellen« (3 Bände, datiert auf 1828).</p>
+                     <lb xml:id="tg2.4.57"/>
+                     <p rend="zenoPR" xml:id="tg2.4.58">
+                        <hi rend="italic" xml:id="tg2.4.58.1">Sylvia Zirden</hi>
+                     </p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

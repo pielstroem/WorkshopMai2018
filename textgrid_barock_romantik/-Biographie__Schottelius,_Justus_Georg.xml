@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Schottelius, Justus Georg/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Schottelius, Justus Georg</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0004-FFDA-6</idno><idno type="TextGridUri">textgrid:vhfz.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+
+
+                  <head type="h1" xml:id="tg1.2.2">Justus Georg Schottel(ius)</head>
+
+                  <head type="h4" xml:id="tg1.2.3">(1612–1676)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+
+                     <p xml:id="tg2.4.2">
+                        <hi rend="bold" xml:id="tg2.4.2.1">1612</hi>
+                     </p>
+                     <p xml:id="tg2.4.3">
+                        <hi rend="italic" xml:id="tg2.4.3.1">23. Juni:</hi> Justus Georg Schottelius (Schottel) wird in Einbeck als Sohn eines Pfarrers geboren. Er wird an der Einbecker Ratsschule eingeschult.</p>
+                     <lb xml:id="tg2.4.4"/>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="bold" xml:id="tg2.4.5.1">1626</hi>
+                     </p>
+                     <p xml:id="tg2.4.6">Sein Vater fällt der Pest zum Opfer.</p>
+                     <p xml:id="tg2.4.7">Schottelius wird daraufhin von Verwandten aufgenommen, die ihn für den Beruf eines Handwerkers oder Kaufmannes vorsehen. Er selbst strebt jedoch nach einer höheren Bildung und kann sich schließlich durchsetzen.</p>
+                     <lb xml:id="tg2.4.8"/>
+                     <p xml:id="tg2.4.9">
+                        <hi rend="bold" xml:id="tg2.4.9.1">1627</hi>
+                     </p>
+                     <p xml:id="tg2.4.10">Schottelius besucht das Gymnasium in Hildesheim.</p>
+                     <lb xml:id="tg2.4.11"/>
+                     <p xml:id="tg2.4.12">
+                        <hi rend="bold" xml:id="tg2.4.12.1">1628</hi>
+                     </p>
+                     <p xml:id="tg2.4.13">Besuch der Universität in Helmstedt.</p>
+                     <lb xml:id="tg2.4.14"/>
+                     <p xml:id="tg2.4.15">
+                        <hi rend="bold" xml:id="tg2.4.15.1">1630</hi>
+                     </p>
+                     <p xml:id="tg2.4.16">Wechsel an das akademische Gymnasium in Hamburg, wo er unter anderem von Joachim Jungius unterrichtet wird.</p>
+                     <lb xml:id="tg2.4.17"/>
+                     <p xml:id="tg2.4.18">
+                        <hi rend="bold" xml:id="tg2.4.18.1">1633</hi>
+                     </p>
+                     <p xml:id="tg2.4.19">In Leiden nimmt Schottelius ein Jurastudium auf. Zu seinen Dozenten gehört auch der niederländische Schriftsteller Daniel Heinsius.</p>
+                     <lb xml:id="tg2.4.20"/>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="bold" xml:id="tg2.4.21.1">1636</hi>
+                     </p>
+                     <p xml:id="tg2.4.22">Er besucht seine Mutter im heimischen Einbeck, wo ihm die Stelle des Konrektors angeboten wird. Schottelius schlägt diese jedoch aus und setzt sein Studium in Wittenberg fort.</p>
+                     <lb xml:id="tg2.4.23"/>
+                     <p xml:id="tg2.4.24">
+                        <hi rend="bold" xml:id="tg2.4.24.1">1638</hi>
+                     </p>
+                     <p xml:id="tg2.4.25">Auf der Flucht vor der schwedischen Armee verlässt Schottelius Wittenberg.</p>
+                     <p xml:id="tg2.4.26">In Braunschweig nimmt er daraufhin eine Stelle als Hauslehrer an.</p>
+                     <p xml:id="tg2.4.27">Hier erreicht ihn der Ruf des Herzogs August von Braunschweig, der einen Lehrer und Erzieher für seine Kinder, vor allem seinen Sohn Anton Ulrich, sucht.</p>
+                     <p xml:id="tg2.4.28">Diese Stelle verbessert Schottelius' Lebensumstände nachhaltig und die enge Verbindung mit dem Hof Braunschweig/Wolfenbüttel bleibt sein Leben lang bestehen.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1641</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">Schottelius veröffentlicht seine »Teutsche Sprachkunst«.</p>
+                     <lb xml:id="tg2.4.32"/>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="bold" xml:id="tg2.4.33.1">1642</hi>
+                     </p>
+                     <p xml:id="tg2.4.34">Beförderung zum Hofgerichtsassessor.</p>
+                     <p xml:id="tg2.4.35">Schottelius wird unter dem Namen »Der Suchende« Mitglied der Fruchtbringenden Gesellschaft.</p>
+                     <lb xml:id="tg2.4.36"/>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="bold" xml:id="tg2.4.37.1">1643</hi>
+                     </p>
+                     <p xml:id="tg2.4.38">Das Lehrgedicht »Der Teutschen Sprache Einleitung« entsteht.</p>
+                     <lb xml:id="tg2.4.39"/>
+                     <p xml:id="tg2.4.40">
+                        <hi rend="bold" xml:id="tg2.4.40.1">1645</hi>
+                     </p>
+                     <p xml:id="tg2.4.41">Der Herzog ernennt Schottelius zum Konsistorialrat.</p>
+                     <p xml:id="tg2.4.42">Veröffentlichung der »Teutschen Vers- oder Reimkunst«.</p>
+                     <lb xml:id="tg2.4.43"/>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="bold" xml:id="tg2.4.44.1">1646</hi>
+                     </p>
+                     <p xml:id="tg2.4.45">Feierlich wird das Abschlussexamen der herzoglichen Kinder begangen. Da seine Schüler seine Dienste nun nicht mehr benötigen, wird Schottelius aus seiner Hofmeister-Stelle entlassen.</p>
+                     <p xml:id="tg2.4.46">Er heiratet Margaret Cleve und promoviert in Helmstedt zum Dr. juris utriusque.</p>
+                     <p xml:id="tg2.4.47">Außerdem wird er als »Fontano« in den Pegnesischen Blumenorden aufgenommen.</p>
+                     <lb xml:id="tg2.4.48"/>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="bold" xml:id="tg2.4.49.1">1647</hi>
+                     </p>
+                     <p xml:id="tg2.4.50">Seine Frau Margaret stirbt auf dem Kindbett.</p>
+                     <p xml:id="tg2.4.51">Veröffentlichung der Dichtung »Fruchtbringender Lustgarte«.</p>
+                     <lb xml:id="tg2.4.52"/>
+                     <p xml:id="tg2.4.53">
+                        <hi rend="bold" xml:id="tg2.4.53.1">1648</hi>
+                     </p>
+                     <p xml:id="tg2.4.54">Sein 1642 erfolgreich aufgeführtes Freudenspiel »Friedens Sieg« wird veröffentlicht.</p>
+                     <lb xml:id="tg2.4.55"/>
+
+                     <p xml:id="tg2.4.56">
+                        <hi rend="bold" xml:id="tg2.4.56.1">1649</hi>
+                     </p>
+                     <p xml:id="tg2.4.57">Schottelius heiratet die Advokatentochter Anna Maria Sobbe.</p>
+                     <lb xml:id="tg2.4.58"/>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="bold" xml:id="tg2.4.59.1">1653</hi>
+                     </p>
+                     <p xml:id="tg2.4.60">Ernennung zum Hof- und Kammerrat.</p>
+                     <lb xml:id="tg2.4.61"/>
+                     <p xml:id="tg2.4.62">
+                        <hi rend="bold" xml:id="tg2.4.62.1">1663</hi>
+                     </p>
+                     <p xml:id="tg2.4.63">Die Abhandlung »Ausführliche Arbeit Von der Teutschen HaubtSprache« erscheint.</p>
+                     <lb xml:id="tg2.4.64"/>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="bold" xml:id="tg2.4.65.1">1673</hi>
+                     </p>
+                     <p xml:id="tg2.4.66">»Horrendum Bellum Grammaticale«, der »Deutsche Sprachkrieg«, wird veröffentlicht.</p>
+                     <lb xml:id="tg2.4.67"/>
+                     <p xml:id="tg2.4.68">
+                        <hi rend="bold" xml:id="tg2.4.68.1">1676</hi>
+                     </p>
+                     <p xml:id="tg2.4.69">»Grausamen Beschreibung und Vorstellung Der Hölle Und der Höllischen Qwal«.</p>
+                     <p xml:id="tg2.4.70">
+                        <hi rend="italic" xml:id="tg2.4.70.1">25. Oktober:</hi> Schottelius stirbt in Wolfenbüttel.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

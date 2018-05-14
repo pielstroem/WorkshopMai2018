@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Rist, Johann/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Rist, Johann</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0004-9AFF-6</idno><idno type="TextGridUri">textgrid:tfvv.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+
+
+                  <head type="h1" xml:id="tg1.2.2">Johann Rist</head>
+
+                  <head type="h4" xml:id="tg1.2.3">(1607–1667)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+
+                     <p xml:id="tg2.4.2">
+                        <hi rend="bold" xml:id="tg2.4.2.1">1607</hi>
+                     </p>
+                     <p xml:id="tg2.4.3">
+                        <hi rend="italic" xml:id="tg2.4.3.1">8. März:</hi> Johann Rist wird als Sohn des evangelischen Pfarrers Caspar Rist und dessen Frau Margarete bei Ottensen in Holstein geboren. Johann erhält zunächst häuslichen Unterricht, besucht dann das Johanneum in Hamburg und darauf das Gymnasium illustre in Bremen. Er entschließt sich, Geistlicher zu werden, und studiert an der Universität Rinteln Theologie.</p>
+                     <lb xml:id="tg2.4.4"/>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="bold" xml:id="tg2.4.5.1">um 1626</hi>
+                     </p>
+                     <p xml:id="tg2.4.6">Rist geht an die Universität Rostock, wo er Hebräisch, Mathematik, Chemie, Pharmazie und Medizin studiert, da er der Überzeugung ist, daß Kenntnisse in diesen Fächern für einen Landpfarrer unabdingbar seien. Daß er in den folgenden Jahren auch in Leiden, Utrecht und Leipzig studiert habe, läßt sich nicht beweisen. Wahrscheinlich kommt er nach Hamburg, wo er mit seinem Rostocker Studienfreund Ernst Stapel Theaterstücke dichtet und aufführt.</p>
+                     <lb xml:id="tg2.4.7"/>
+                     <p xml:id="tg2.4.8">
+                        <hi rend="bold" xml:id="tg2.4.8.1">1630</hi>
+                     </p>
+                     <p xml:id="tg2.4.9">Rist tritt selbst als Darsteller in dem unter seiner Beteiligung verfaßten, aber unter Ernst Stapels Namen veröffentlichten Stück: »Irenomachia oder Friede und Krieg« auf.</p>
+                     <lb xml:id="tg2.4.10"/>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="bold" xml:id="tg2.4.11.1">1633</hi>
+                     </p>
+                     <p xml:id="tg2.4.12">Johann tritt eine Stelle als Hauslehrer bei dem Landschreiber Heinrich Sager in Heide an.</p>
+                     <lb xml:id="tg2.4.13"/>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="bold" xml:id="tg2.4.14.1">1634</hi>
+                     </p>
+                     <p xml:id="tg2.4.15">Er führt dort sein historisches Stück »Perseus« auf und verlobt sich mit Elisabeth Stapel, einer nahen Verwandten des Pinneberger Amtmanns Franz Stapel, und heiratet sie im folgenden Frühjahr.</p>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="italic" xml:id="tg2.4.16.1">8. Oktober:</hi> Johann erlebt die furchtbare Sturmflut.</p>
+                     <lb xml:id="tg2.4.17"/>
+                     <p xml:id="tg2.4.18">
+                        <hi rend="bold" xml:id="tg2.4.18.1">1635</hi>
+                     </p>
+                     <p xml:id="tg2.4.19">Rist wird mit Stapels Unterstützung zum Pfarrer des nahe bei Hamburg gelegenen Wedel berufen, und bleibt dort bis zu seinem Tod.</p>
+                     <lb xml:id="tg2.4.20"/>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="bold" xml:id="tg2.4.21.1">1640</hi>
+                     </p>
+                     <p xml:id="tg2.4.22">Der Dichter veröffentlicht ein Trauergedicht auf den von ihm verehrten Martin Opitz.</p>
+                     <lb xml:id="tg2.4.23"/>
+                     <p xml:id="tg2.4.24">
+                        <hi rend="bold" xml:id="tg2.4.24.1">1643</hi>
+                     </p>
+                     <p xml:id="tg2.4.25">Rists Wohnung fällt der schwedischen Plünderung zum Opfer; dabei verschwinden seine Bibliothek und die von ihm angelegten Sammlungen von Steinen, Erzen, Medaillen, alten Münzen, ausgegrabenen Urnen sowie chemischen, optischen und astronomischen Instrumenten.</p>
+                     <lb xml:id="tg2.4.26"/>
+                     <p xml:id="tg2.4.27">
+                        <hi rend="bold" xml:id="tg2.4.27.1">1645</hi>
+                     </p>
+                     <p xml:id="tg2.4.28">Rist wird unter dem Namen »Daphnis aus Cimbrien« Teilnehmer des Pegnesischen Blumenordens zu Nürnberg.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1647</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">Die Fruchtbringende Gesellschaft zu Köthenals nimmt ihn als »den Rüstigen« auf. Sein Drama »Das Friedewünschende Teutschland«, aus welchem das früher vielgesungene Lied »Sichres Deutschland, schläfst du noch?« stammt, erscheint.</p>
+                     <lb xml:id="tg2.4.32"/>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="bold" xml:id="tg2.4.33.1">1651</hi>
+                     </p>
+                     <p xml:id="tg2.4.34">Die Sammlung »Neuer Himmlischer Lieder Sonderbahres« enthält 659 erbauliche Lieder, das beliebteste davon ist »Daphnis ging vor wenig Tagen«. Seine in verschiedenen Sammlungen herausgebrachten Lieder bewirken in der schlimmen Zeit des Dreißigjährigen Krieges und den schweren Jahren danach viel Trost und Erhebung. Diese frommen Lieder sind nicht für den offiziellen Gottesdienst, sondern für häusliche Andachten bestimmt. Rist läßt in seiner Kirche zu Wedel nie eines von ihnen singen; gleichwohl gehen viele von ihnen später in kirchliche Gesangsbücher ein.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1653</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">Kaiser Ferdinand III. als kaiserlicher Hofpfalzgraf (Comes Palatinus Caesareus) erhebt ihn in den Adelsstand und zugleich (nach anderer, wohl unrichtiger Überlieferung schon 1644) zum Poeta laureatus. Im selben Jahr erhält er von Herzog Christian von Mecklenburg, der in Wedel und Hamburg viel mit ihm verkehrt, den Titel eines Mecklenburgischen Kirchenrats.</p>
+                     <p xml:id="tg2.4.38">Es erscheint das Drama »Das Friedejauchtzende Teutschland«, in welchem es sich um ein teils in Versen, teils in Prosa abgefaßtes allegorisches Spiel handelt.</p>
+                     <lb xml:id="tg2.4.39"/>
+                     <p xml:id="tg2.4.40">
+                        <hi rend="bold" xml:id="tg2.4.40.1">1654</hi>
+                     </p>
+                     <p xml:id="tg2.4.41">Seine »Depositio Cornuti Typographici« erscheint.</p>
+                     <lb xml:id="tg2.4.42"/>
+                     <p xml:id="tg2.4.43">
+                        <hi rend="bold" xml:id="tg2.4.43.1">1658</hi>
+                     </p>
+                     <p xml:id="tg2.4.44">Im schwedisch-dänischen Krieg wird Rists Pfarrhof noch einmal geplündert.</p>
+                     <lb xml:id="tg2.4.45"/>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="bold" xml:id="tg2.4.46.1">1660</hi>
+                     </p>
+                     <p xml:id="tg2.4.47">Rist gründet in Hamburg eine Sprach- und Dichtergesellschaft, den Elbschwanenorden, und nennt sich als deren Haupt »Palatin«. In diese Gesellschaft nimmt er zahlreiche Dichter auf.</p>
+                     <lb xml:id="tg2.4.48"/>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="bold" xml:id="tg2.4.49.1">1662</hi>
+                     </p>
+                     <p xml:id="tg2.4.50">Die erste Ehefrau stirbt (nach anderer Überlieferung erst 1664) und Johann heiratet im selben Jahr die Witwe seines Freundes, des Weinhändlers Joh. Philipp Hagedorn, Anna geb. Badenhoop, die ihn überlebt. Aus der ersten Ehe entstammen drei Kinder.</p>
+                     <lb xml:id="tg2.4.51"/>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="bold" xml:id="tg2.4.52.1">1663</hi>
+                     </p>
+                     <p xml:id="tg2.4.53">Schließlich läßt Rist insgesamt sechs »Monatsgespräche« erscheinen, welche die Form von auf die Monate Januar bis Juni verteilten Unterredungen zwischen Palatin und den ihn auf seinem Wedeler Pfarrhof besuchenden literarischen Freunden haben und die Frage erörtern, was jeweils der edelste von allen unter einen bestimmten Begriff fallenden Gegenständen ist.</p>
+                     <lb xml:id="tg2.4.54"/>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="bold" xml:id="tg2.4.55.1">1667</hi>
+                     </p>
+                     <p xml:id="tg2.4.56">
+                        <hi rend="italic" xml:id="tg2.4.56.1">31. August:</hi> Johann Rist stirbt in Wedel.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

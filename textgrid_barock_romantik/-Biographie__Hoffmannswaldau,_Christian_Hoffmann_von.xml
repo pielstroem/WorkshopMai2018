@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Hoffmannswaldau, Christian Hoffmann von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Hoffmannswaldau, Christian Hoffmann von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0003-6CA9-2</idno><idno type="TextGridUri">textgrid:q6dx.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+
+                  <figure>
+                     <graphic url="textgrid:q6k1.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Christian Hoffmann von Hoffmannswaldau (Kupferstich von Philipp Kilian, nach einem Gemälde von Georg Schulzes)</ab>
+                  </figure>
+ 
+                  <head type="h1" xml:id="tg1.2.3">Christian Hoffmann von Hoffmannswaldau</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1616–1679)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1616</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">25. Dezember:</hi> Christian Hoffmann von Hoffmannswaldau wird in Breslau als Sohn eines angesehenen Kammersekretärs geboren.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1638</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Hoffmannswaldau immatrikuliert sich in Leiden, besucht aber auch in Amsterdam Kollegs. Offenbar zeigt er dabei mehr Interesse für Philologie u. Poesie als für die Rechts- u. Staatswissenschaften, die er in Danzig zu studieren beginnt.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1639</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Nach Studien in Leiden, Danzig und Amsterdam (Philologie, Poesie, Rechts- und Staatswissenschaften), pflegt er Kontakte mit Gelehrten und verkehrt im Kreis der Dichter der Pariser Salons.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1647</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Er wird Ratsschöffe.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1657</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">Er wird zum Senator ernannt.</p>
+                     <lb xml:id="tg2.4.18"/>
+                     <p xml:id="tg2.4.19">
+                        <hi rend="bold" xml:id="tg2.4.19.1">1677</hi>
+                     </p>
+                     <p xml:id="tg2.4.20">Bis zu seinem Tod sind außer zwei unberechtigten Drucken nur drei unbedeutende Werke erschienen. Die Veröffentlichung der Sammlung »Deutsche Vbersetzungen und Getichte« erlebt er nicht mehr; Zahlreiche Liebesgedichte werden erst durch die beiden ersten Bände von Benjamin Neukirchs Anthologie »Herrn von Hoffmannswaldau und andrer Deutschen auserlesene und bißher ungedruckte Gedichte« der Öffentlichkeit bekannt.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1679</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="italic" xml:id="tg2.4.23.1">18. April:</hi> Hoffmannswaldau stirbt in Breslau, wo sich auch seine Grabstätte befindet.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

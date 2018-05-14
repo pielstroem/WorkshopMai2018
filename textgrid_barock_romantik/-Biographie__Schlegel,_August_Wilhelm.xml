@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Schlegel, August Wilhelm/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Schlegel, August Wilhelm</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0004-D409-3</idno><idno type="TextGridUri">textgrid:v249.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+
+                  <figure>
+                     <graphic url="textgrid:v2dk.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.1"/>
+                     <ab type="caption" xml:id="tg1.2.1.1">August Wilhelm Schlegel (Nach dem Kupferstich von Zumpe)</ab>
+                  </figure>
+
+                  <head type="h1" xml:id="tg1.2.2">August Wilhelm Schlegel</head>
+
+                  <head type="h4" xml:id="tg1.2.3">(seit 1815: von Schlegel)</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1767–1845)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1767</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">8. September:</hi> August Wilhelm Schlegel wird als Sohn des lutherischen Pastors Johann Adolf Schlegel in Hannover geboren. Einer seiner Brüder ist der Schriftsteller und Philosoph Friedrich Schlegel.</p>
+                     <p xml:id="tg2.4.6">Er studiert in Göttingen Theologie, wechselt dann aber zur Philologie. Schon als Student veröffentlicht er Rezensionen, Übersetzungen und literaturwissenschaftliche Abhandlungen.</p>
+                     <lb xml:id="tg2.4.7"/>
+                     <p xml:id="tg2.4.8">
+                        <hi rend="bold" xml:id="tg2.4.8.1">1791–1795</hi>
+                     </p>
+                     <p xml:id="tg2.4.9">Wilhelm arbeitet als Hauslehrer in Amsterdam, eine Tätigkeit, die ihm genug Zeit für seine literarischen Arbeiten läßt.</p>
+                     <lb xml:id="tg2.4.10"/>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="bold" xml:id="tg2.4.11.1">1795</hi>
+                     </p>
+                     <p xml:id="tg2.4.12">Er kommt nach Jena, wo er als Kritiker sein Brot verdient.</p>
+                     <lb xml:id="tg2.4.13"/>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="bold" xml:id="tg2.4.14.1">1796</hi>
+                     </p>
+                     <p xml:id="tg2.4.15">Er lernt Caroline Schlegel, verwitwete Böhme, kennen und heiratet sie.</p>
+                     <lb xml:id="tg2.4.16"/>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="bold" xml:id="tg2.4.17.1">1797</hi>
+                     </p>
+                     <p xml:id="tg2.4.18">Wilhelm beginnt seine neunteiligen »Shakespeare-Übersetzungen«.</p>
+                     <lb xml:id="tg2.4.19"/>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="bold" xml:id="tg2.4.20.1">1798</hi>
+                     </p>
+                     <p xml:id="tg2.4.21">Schlegel wird zum außerordentlichen Professor in Jena berufen. Er rezensiert Werke von Schiller und Goethe, mit denen er in dieser Zeit persönlichen Umgang hat. Im selben Jahr entsteht in Jena die sogenannte »ältere romantische Schule«, zu der neben den Brüdern Schlegel u.a. Friedrich Schleiermacher, Novalis und Ludwig Tieck gehören.</p>
+                     <lb xml:id="tg2.4.22"/>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="bold" xml:id="tg2.4.23.1">1798–1800</hi>
+                     </p>
+                     <p xml:id="tg2.4.24">Wilhelm Schlegel gibt zusammen mit seinem Bruder Friedrich die Zeitschrift »Athenaeum« heraus, wirkt auch an Schillers »Horen« und »Musenalmanach« mit.</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">Er siedelt nach Berlin über. Hier verbindet er eine intensive Übersetzungstätigkeit mit öffentlichen »Vorlesungen über schöne Literatur und Kunst«. Diese liefern ihm die Gelegenheit zur Formulierung und Darlegung der Ideen der Romantiker in dem noch immer stark von der Aufklärung geprägten Berlin. Er rückt bald in den Mittelpunkt des geistigen Lebens.</p>
+                     <lb xml:id="tg2.4.28"/>
+                     <p xml:id="tg2.4.29">
+                        <hi rend="bold" xml:id="tg2.4.29.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.30">Seine Frau läßt sich scheiden, um Schelling zu heiraten. Schlegel macht die Bekanntschaft mit der verbannten Madame de Staël (»De L'Allemagne«), die ihm eine Stelle als Hauslehrer anbietet und begleitet sie fortan bis zu ihrem Tod 1817 auf ihren Reisen. Er verfaßt in dieser Zeit literatur- und kunsthistorische, übersetzerische, politische, philologische und belletristische Werke, die sich durch ihre außerordentliche thematische Vielseitigkeit auszeichnen, Beispiele dafür sind die Dramen »Ion« und »Spanisches Theater«.</p>
+                     <lb xml:id="tg2.4.31"/>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="bold" xml:id="tg2.4.32.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.33">In Wien hält er noch einmal seine inzwischen überarbeiteten Berliner Vorlesungen, die im gleichen Jahr veröffentlicht und die in mehrere europäische Sprachen übersetzt werden.</p>
+                     <lb xml:id="tg2.4.34"/>
+                     <p xml:id="tg2.4.35">
+                        <hi rend="bold" xml:id="tg2.4.35.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.36">August Wilhelm Schlegel wird geadelt.</p>
+                     <lb xml:id="tg2.4.37"/>
+                     <p xml:id="tg2.4.38">
+                        <hi rend="bold" xml:id="tg2.4.38.1">1816–1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.39">In Paris wendet er sich der altindischen Sprache und Religion zu.</p>
+                     <lb xml:id="tg2.4.40"/>
+                     <p xml:id="tg2.4.41">
+                        <hi rend="bold" xml:id="tg2.4.41.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.42">Schlegel wird Professor der Literatur und Kunstgeschichte in Bonn; gibt »Observations sur la langue et la littérature provençales« heraus.</p>
+                     <lb xml:id="tg2.4.43"/>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="bold" xml:id="tg2.4.44.1">1820–1830</hi>
+                     </p>
+                     <p xml:id="tg2.4.45">Schlegel veröffentlicht die »Indische Bibliothek«, eines der Werke, die ihn zu einem der Begründer der vergleichenden Linguistik machen.</p>
+                     <lb xml:id="tg2.4.46"/>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="bold" xml:id="tg2.4.47.1">1845</hi>
+                     </p>
+                     <p xml:id="tg2.4.48">
+                        <hi rend="italic" xml:id="tg2.4.48.1">12. Mai:</hi> August Wilhelm Schlegel stirbt in Bonn.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

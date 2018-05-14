@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Chamisso, Adelbert von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Chamisso, Adelbert von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-4DCD-4</idno><idno type="TextGridUri">textgrid:kvxj.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:kvzt.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Adelbert von Chamisso (Stahlstich, um 1890)</ab>
+                  </figure>
+ 
+
+                  <head type="h1" xml:id="tg1.2.3">Adelbert von Chamisso</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1781–1838)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1781</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">31. Januar:</hi> Taufe Chamissos, der in der vorangegangenen Woche als Louis Charles Adelaïde de Chamisso de Boncourt auf Schloß Boncourt in der Champagne als Sohn eines Offiziers in eine alte lothringische Adelsfamilie geboren wurde. Der genaue Geburtstag ist unbekannt.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1792</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Nach Konfiskation der Besitzungen Flucht mit den verarmten Eltern vor der Revolution nach Lüttich, später Umzüge nach Luxemburg, Süd- und Westdeutschland und schließlich nach Berlin (1796).</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Schloß Boncourt wird von den französischen Revolutionären zerstört.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1794</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Chamisso schreibt auf französisch seine ersten Gedichte.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1796</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">Juli: Umzug der Familie nach Berlin, wo Chamisso Page von Königin Luise wird.</p>
+                     <p xml:id="tg2.4.18">Besuch des Französischen Gymnasiums.</p>
+                     <lb xml:id="tg2.4.19"/>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="bold" xml:id="tg2.4.20.1">1798</hi>
+                     </p>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="italic" xml:id="tg2.4.21.1">März:</hi> Chamisso wird Fähnrich in der preußischen Armee.</p>
+                     <lb xml:id="tg2.4.22"/>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="bold" xml:id="tg2.4.23.1">1799</hi>
+                     </p>
+                     <p xml:id="tg2.4.24">Autodidaktische Studien und Lektüre in französischer und deutscher Sprache, vor allem Jean-Jacques Rousseau, Voltaire, Friedrich Gottlieb Klopstock und Friedrich Schiller.</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">Beförderung zum Leutnant.</p>
+                     <p xml:id="tg2.4.28">Eigene Dichtung auf Französisch.</p>
+                     <p xml:id="tg2.4.29">Die Eltern gehen zurück nach Frankreich.</p>
+                     <lb xml:id="tg2.4.30"/>
+                     <p xml:id="tg2.4.31">
+                        <hi rend="bold" xml:id="tg2.4.31.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.32">Chamisso wird Mitglied des »Nordsternbundes«, eines romantischen Dichterkreises, zu dem auch Julius Eduard Hitzig, Wilhelm Neumann, Karl August Varnhagen von Ense und Friedrich de la Motte Fouqué gehören.</p>
+                     <p xml:id="tg2.4.33">Chamisso besucht die Vorlesungen über Poesie von August Wilhelm Schlegel und beginnt, auf deutsch zu schreiben.</p>
+                     <p xml:id="tg2.4.34">Mitherausgeber des »Grünen Musenalmanachs« (1803–06).</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">Studium des Griechischen.</p>
+                     <p xml:id="tg2.4.38">Beschäftigung mit der Literatur der deutschen Romantik.</p>
+                     <p xml:id="tg2.4.39">Chamissos Regiment wird nach Hameln verlegt.</p>
+                     <lb xml:id="tg2.4.40"/>
+                     <p xml:id="tg2.4.41">
+                        <hi rend="bold" xml:id="tg2.4.41.1">1806</hi>
+                     </p>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="italic" xml:id="tg2.4.42.1">Oktober:</hi> Tod der Mutter.</p>
+                     <p xml:id="tg2.4.43">
+                        <hi rend="italic" xml:id="tg2.4.43.1">November:</hi> Tod des Vaters.</p>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="italic" xml:id="tg2.4.44.1">November:</hi> Nachdem Napoleon im Oktober die preußische Armee geschlagen hat und nach Berlin eingezogen ist, wird die Festung Hameln kampflos aufgegeben.</p>
+                     <p xml:id="tg2.4.45">Als Gefangener auf Ehrenwort reist Chamisso nach Frankreich.</p>
+                     <lb xml:id="tg2.4.46"/>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="bold" xml:id="tg2.4.47.1">1807</hi>
+                     </p>
+                     <p xml:id="tg2.4.48">Aufenthalt in der Champagne und in Paris.</p>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="italic" xml:id="tg2.4.49.1">September:</hi> Rückkehr nach Deutschland.</p>
+                     <lb xml:id="tg2.4.50"/>
+                     <p xml:id="tg2.4.51">
+                        <hi rend="bold" xml:id="tg2.4.51.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="italic" xml:id="tg2.4.52.1">Januar:</hi> Entlassung aus dem Militärdienst.</p>
+                     <lb xml:id="tg2.4.53"/>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="bold" xml:id="tg2.4.54.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.55">Arbeit als Privatlehrer.</p>
+                     <p xml:id="tg2.4.56">Chamisso begegnet Justinus Kerner.</p>
+                     <lb xml:id="tg2.4.57"/>
+                     <p xml:id="tg2.4.58">
+                        <hi rend="bold" xml:id="tg2.4.58.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.59">Reise nach Paris.</p>
+                     <p xml:id="tg2.4.60">Bekanntschaft mit Alexander von Humboldt, Ludwig Uhland und August Wilhelm Schlegel.</p>
+                     <p xml:id="tg2.4.61">Liaison mit der Schriftstellerin Helmina von Chézy.</p>
+                     <p xml:id="tg2.4.62">Chamisso übersetzt die »Wiener Vorlesungen über dramatische Kunst und Literatur« von August Wilhelm Schlegel ins Französische.</p>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="italic" xml:id="tg2.4.63.1">September:</hi> Aufenthalt bei Madame de Staël auf Schloß Chaumont.</p>
+                     <lb xml:id="tg2.4.64"/>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="bold" xml:id="tg2.4.65.1">1811</hi>
+                     </p>
+                     <p xml:id="tg2.4.66">
+                        <hi rend="italic" xml:id="tg2.4.66.1">Januar:</hi> Gründung der Christlich deutschen Tischgesellschaft mit Achim von Arnim, Heinrich von Kleist, Adam Müller, Clemens Brentano und Friedrich de la Motte Fouqué.</p>
+                     <p xml:id="tg2.4.67">
+                        <hi rend="italic" xml:id="tg2.4.67.1">April:</hi> Aufenthalt bei Madame de Staël auf Schloß Coppet bei Genf (bis August 1812).</p>
+                     <p xml:id="tg2.4.68">Erste Beschäftigung mit botanischer Forschung.</p>
+                     <lb xml:id="tg2.4.69"/>
+                     <p xml:id="tg2.4.70">
+                        <hi rend="bold" xml:id="tg2.4.70.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="italic" xml:id="tg2.4.71.1">August:</hi> Rückkehr nach Deutschland.</p>
+                     <p xml:id="tg2.4.72">
+                        <hi rend="italic" xml:id="tg2.4.72.1">Oktober:</hi> Beginn des Studiums der Medizin und der Botanik in Berlin (bis 1815).</p>
+                     <lb xml:id="tg2.4.73"/>
+                     <p xml:id="tg2.4.74">
+                        <hi rend="bold" xml:id="tg2.4.74.1">1813</hi>
+                     </p>
+                     <p xml:id="tg2.4.75">Während der Freiheitskriege Rückzug aufs Land, nach Kunersdorf im Oderbruch.</p>
+                     <p xml:id="tg2.4.76">
+                        <hi rend="italic" xml:id="tg2.4.76.1">Spätsommer:</hi> »Peter Schlemihl's wundersame Geschichte« entsteht (Publikation im nächsten Jahr, herausgegeben von Fouqué). Die stark autobiographisch Märchennovelle über Schlemihl, der seinen Schatten dem Bösen verkauft und deswegen von der Gesellschaft ausgeschlossen wird, wird Chamissos bekanntestes Werk und erzielt weltweite Wirkung.</p>
+                     <p xml:id="tg2.4.77">
+                        <hi rend="italic" xml:id="tg2.4.77.1">Ende des Jahres:</hi> Rückkehr nach Berlin.</p>
+                     <lb xml:id="tg2.4.78"/>
+                     <p xml:id="tg2.4.79">
+                        <hi rend="bold" xml:id="tg2.4.79.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.80">Wiederaufnahme des naturwissenschaftlichen Studiums in Berlin.</p>
+                     <p xml:id="tg2.4.81">Enger Kontakt zu E. T. A. Hoffmann, Hitzig und Fouqué.</p>
+                     <lb xml:id="tg2.4.82"/>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="bold" xml:id="tg2.4.83.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.84">Chamisso nimmt als Naturforscher auf dem Expeditionsschiff »Rurik« an der dreijährigen Weltumseglung einer russischen wissenschaftlichen Expedition teil.</p>
+                     <lb xml:id="tg2.4.85"/>
+                     <p xml:id="tg2.4.86">
+                        <hi rend="bold" xml:id="tg2.4.86.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.87">
+                        <hi rend="italic" xml:id="tg2.4.87.1">Oktober:</hi> Rückkehr nach Berlin.</p>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="italic" xml:id="tg2.4.88.1">Dezember:</hi> »Erster Bericht über eine Expedition«.</p>
+                     <lb xml:id="tg2.4.89"/>
+                     <p xml:id="tg2.4.90">
+                        <hi rend="bold" xml:id="tg2.4.90.1">1819</hi>
+                     </p>
+                     <p xml:id="tg2.4.91">Ehrendoktorwürde der philosophischen Fakultät der Universität Berlin.</p>
+                     <p xml:id="tg2.4.92">Chamisso wird zunächst Adjunkt, später Kustos im Botanischen Garten in Berlin.</p>
+                     <p xml:id="tg2.4.93">
+                        <hi rend="italic" xml:id="tg2.4.93.1">25. September:</hi> Heirat mit Antonie Piaste.</p>
+                     <p xml:id="tg2.4.94">Beginn der Publikation botanischer Untersuchungen.</p>
+                     <lb xml:id="tg2.4.95"/>
+                     <p xml:id="tg2.4.96">
+                        <hi rend="bold" xml:id="tg2.4.96.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.97">
+                        <hi rend="italic" xml:id="tg2.4.97.1">14. September:</hi> Geburt des Sohnes Ernst.</p>
+                     <p xml:id="tg2.4.98">Gelegenheitsgedichte.</p>
+                     <lb xml:id="tg2.4.99"/>
+                     <p xml:id="tg2.4.100">
+                        <hi rend="bold" xml:id="tg2.4.100.1">1822</hi>
+                     </p>
+                     <p xml:id="tg2.4.101">Geburt des Sohnes Max.</p>
+                     <lb xml:id="tg2.4.102"/>
+                     <p xml:id="tg2.4.103">
+                        <hi rend="bold" xml:id="tg2.4.103.1">1823</hi>
+                     </p>
+                     <p xml:id="tg2.4.104">Exkursion nach Greifswald und Rügen.</p>
+                     <lb xml:id="tg2.4.105"/>
+                     <p xml:id="tg2.4.106">
+                        <hi rend="bold" xml:id="tg2.4.106.1">1824</hi>
+                     </p>
+                     <p xml:id="tg2.4.107">
+                        <hi rend="italic" xml:id="tg2.4.107.1">Juli-August:</hi> Harzreise.</p>
+                     <p xml:id="tg2.4.108">Hitzig gründet die »Mittwochsgesellschaft«, deren Mitglieder zum Teil die ehemaligen Nordsternbündler sind, außerdem Achim von Arnim, Georg Wilhelm Friedrich Hegel, Joseph von Eichendorff, Karl Leberecht Immermann u.a.</p>
+                     <lb xml:id="tg2.4.109"/>
+                     <p xml:id="tg2.4.110">
+                        <hi rend="bold" xml:id="tg2.4.110.1">1825</hi>
+                     </p>
+                     <p xml:id="tg2.4.111">
+                        <hi rend="italic" xml:id="tg2.4.111.1">Oktober:</hi> Reise nach Paris.</p>
+                     <p xml:id="tg2.4.112">Rückreise über Belgien und das Rheinland.</p>
+                     <lb xml:id="tg2.4.113"/>
+                     <p xml:id="tg2.4.114">
+                        <hi rend="bold" xml:id="tg2.4.114.1">1827</hi>
+                     </p>
+                     <p xml:id="tg2.4.115">Geburt der Tochter Adélaïde.</p>
+                     <p xml:id="tg2.4.116">»Uebersicht der nutzbarsten und der schädlichsten Gewächse«.</p>
+                     <p xml:id="tg2.4.117">
+                        <hi rend="italic" xml:id="tg2.4.117.1">Mai:</hi> Die zweite Auflage von »Peter Schlemihl« erscheint. Im Anhang enthält sie eine Sammlung von »Liedern und Balladen« Chamissos.</p>
+                     <lb xml:id="tg2.4.118"/>
+                     <p xml:id="tg2.4.119">
+                        <hi rend="bold" xml:id="tg2.4.119.1">1829</hi>
+                     </p>
+                     <p xml:id="tg2.4.120">Geburt der Tochter Johanna.</p>
+                     <p xml:id="tg2.4.121">»Salas y Gomez« entsteht.</p>
+                     <lb xml:id="tg2.4.122"/>
+                     <p xml:id="tg2.4.123">
+                        <hi rend="bold" xml:id="tg2.4.123.1">1830</hi>
+                     </p>
+                     <p xml:id="tg2.4.124">Vortrag vor der Naturforscher- und Ärzteversammlung in Hamburg.</p>
+                     <p xml:id="tg2.4.125">Bekanntschaft mit Heinrich Heine.</p>
+                     <p xml:id="tg2.4.126">Geburt des Sohnes Adolph.</p>
+                     <p xml:id="tg2.4.127">Chamisso schreibt weitere Gedichte, u.a. »Frauen-Liebe und -Leben« und das erste deutschsprachige Eisenbahngedicht »Das Dampfroß«.</p>
+                     <lb xml:id="tg2.4.128"/>
+                     <p xml:id="tg2.4.129">
+                        <hi rend="bold" xml:id="tg2.4.129.1">1831</hi>
+                     </p>
+                     <p xml:id="tg2.4.130">Chamisso erkrankt an Cholera.</p>
+                     <p xml:id="tg2.4.131">»Gedichte«.</p>
+                     <lb xml:id="tg2.4.132"/>
+                     <p xml:id="tg2.4.133">
+                        <hi rend="bold" xml:id="tg2.4.133.1">1832</hi>
+                     </p>
+                     <p xml:id="tg2.4.134">Gemeinsam mit Gustav Schwab Herausgeber des »Deutschen Musenalmanachs« (bis 1838).</p>
+                     <p xml:id="tg2.4.135">
+                        <hi rend="italic" xml:id="tg2.4.135.1">August:</hi> Reise nach Rügen.</p>
+                     <p xml:id="tg2.4.136">
+                        <hi rend="italic" xml:id="tg2.4.136.1">Oktober:</hi> Geburt des Sohnes Hermann.</p>
+                     <lb xml:id="tg2.4.137"/>
+                     <p xml:id="tg2.4.138">
+                        <hi rend="bold" xml:id="tg2.4.138.1">1833</hi>
+                     </p>
+                     <p xml:id="tg2.4.139">Beginn der Nachdichtungen von Liedern Pierre-Jean de Bérangers.</p>
+                     <p xml:id="tg2.4.140">
+                        <hi rend="italic" xml:id="tg2.4.140.1">April:</hi> Chamisso wird erster Kustos am königlichen Herbarium.</p>
+                     <lb xml:id="tg2.4.141"/>
+                     <p xml:id="tg2.4.142">
+                        <hi rend="bold" xml:id="tg2.4.142.1">1834</hi>
+                     </p>
+                     <p xml:id="tg2.4.143">»Gedichte« (2. Auflage).</p>
+                     <lb xml:id="tg2.4.144"/>
+                     <p xml:id="tg2.4.145">
+                        <hi rend="bold" xml:id="tg2.4.145.1">1835</hi>
+                     </p>
+                     <p xml:id="tg2.4.146">
+                        <hi rend="italic" xml:id="tg2.4.146.1">Januar:</hi> Geburt des Sohnes Adelbert.</p>
+                     <p xml:id="tg2.4.147">
+                        <hi rend="italic" xml:id="tg2.4.147.1">Mai:</hi> Chamisso wird von der Berliner Akademie der Wissenschaften zum Mitglied gewählt.</p>
+                     <p xml:id="tg2.4.148">Schwere Lungenerkrankung.</p>
+                     <p xml:id="tg2.4.149">
+                        <hi rend="italic" xml:id="tg2.4.149.1">Juli-August:</hi> Zur Kur nach Bad Reinerz in Schlesien.</p>
+                     <lb xml:id="tg2.4.150"/>
+                     <p xml:id="tg2.4.151">
+                        <hi rend="bold" xml:id="tg2.4.151.1">1836</hi>
+                     </p>
+                     <p xml:id="tg2.4.152">
+                        <hi rend="italic" xml:id="tg2.4.152.1">Juli-August:</hi> Kuraufenthalt in Bad Charlottenbrunn in Schlesien.</p>
+                     <p xml:id="tg2.4.153">»Reise um die Welt«.</p>
+                     <p xml:id="tg2.4.154">»Gedichte« (3. vermehrte Auflage).</p>
+                     <p xml:id="tg2.4.155">»Werke« (6 Bände).</p>
+                     <p xml:id="tg2.4.156">Die Ehefrau Antonie erkrankt.</p>
+                     <lb xml:id="tg2.4.157"/>
+                     <p xml:id="tg2.4.158">
+                        <hi rend="bold" xml:id="tg2.4.158.1">1837</hi>
+                     </p>
+                     <p xml:id="tg2.4.159">
+                        <hi rend="italic" xml:id="tg2.4.159.1">21. Mai:</hi> Tod der Ehefrau.</p>
+                     <p xml:id="tg2.4.160">»Ueber die Hawaiische Sprache«.</p>
+                     <p xml:id="tg2.4.161">
+                        <hi rend="italic" xml:id="tg2.4.161.1">Herbst:</hi> Reise nach Leipzig.</p>
+                     <p xml:id="tg2.4.162">Besuch der Druckerei von F. A. Brockhaus.</p>
+                     <p xml:id="tg2.4.163">Fahrt auf einem neuen Teilstück der Eisenbahnstrecke Leipzig-Dresden.</p>
+                     <lb xml:id="tg2.4.164"/>
+                     <p xml:id="tg2.4.165">
+                        <hi rend="bold" xml:id="tg2.4.165.1">1838</hi>
+                     </p>
+                     <p xml:id="tg2.4.166">
+                        <hi rend="italic" xml:id="tg2.4.166.1">16. März:</hi> Gesuch um Pensionierung.</p>
+                     <p xml:id="tg2.4.167">»Béranger's Lieder«.</p>
+                     <p xml:id="tg2.4.168">
+                        <hi rend="italic" xml:id="tg2.4.168.1">20. August:</hi> Varnhagen besucht den schwerkranken Chamisso</p>
+                     <p xml:id="tg2.4.169">
+                        <hi rend="italic" xml:id="tg2.4.169.1">21. August:</hi> Chamisso stirbt in Berlin.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

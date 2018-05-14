@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Arnim, Ludwig Achim von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Arnim, Ludwig Achim von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-0F89-8</idno><idno type="TextGridUri">textgrid:k727.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+
+                  <figure>
+                     <graphic url="textgrid:k77k.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Achim von Arnim (Gemälde von Peter Eduard Ströhling, London 1804)</ab>
+                  </figure>
+ 
+                  <head type="h1" xml:id="tg1.2.3">Ludwig Achim von Arnim</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1781–1831)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     <p xml:id="tg2.4.3">
+                        <hi rend="bold" xml:id="tg2.4.3.1">1781</hi>
+                     </p>
+                     <p xml:id="tg2.4.4">
+                        <hi rend="italic" xml:id="tg2.4.4.1">26. Januar:</hi> Ludwig Achim von Arnim wird in Berlin geboren. Seine Eltern sind der Diplomat Joachim Erdmann von Arnim, später Intendant der Berliner königlichen Oper, und Amalie Karoline von Arnim, geb. von Labes.</p>
+                     <p xml:id="tg2.4.5">Die Mutter stirbt kurz nach der Geburt. Arnim wächst bei der Großmutter mütterlicherseits in Berlin auf.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Eintritt in das Joachimsthaler Gymnasium in Berlin.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1798</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Arnim geht zum Studium der Rechts- und Naturwissenschaften nach Halle.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1799</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Er publiziert erste naturwissenschaftliche Untersuchungen: den »Versuch einer Theorie der elektrischen Erscheinungen« und Aufsätze in den »Annalen der Physik«.</p>
+                     <p xml:id="tg2.4.15">Im Hause des Komponisten und Kapellmeisters Johann Friedrich Reichardt in Giebichenstein lernt er Ludwig Tieck kennen.</p>
+                     <lb xml:id="tg2.4.16"/>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="bold" xml:id="tg2.4.17.1">1800</hi>
+                     </p>
+                     <p xml:id="tg2.4.18">
+                        <hi rend="italic" xml:id="tg2.4.18.1">Mai:</hi> Arnim wechselt zum naturwissenschaftlichen Studium nach Göttingen (bis 1801).</p>
+                     <lb xml:id="tg2.4.19"/>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="bold" xml:id="tg2.4.20.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="italic" xml:id="tg2.4.21.1">Juni:</hi> Arnim begegnet Johann Wolfgang Goethe in Göttingen.</p>
+                     <p xml:id="tg2.4.22">Beginn der lebenslangen Freundschaft mit Clemens Brentano.</p>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="italic" xml:id="tg2.4.23.1">Juli:</hi> Rückkehr nach Berlin.</p>
+                     <p xml:id="tg2.4.24">
+                        <hi rend="italic" xml:id="tg2.4.24.1">November:</hi> Zusammen mit seinem Bruder Karl Otto begibt sich Arnim auf eine fast drei Jahre dauernde Bildungsreise quer durch Europa (bis August 1804).</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">»Hollin's Liebeleben« (Roman).</p>
+                     <p xml:id="tg2.4.28">Die Europareise führt ihn nach Wien, München und Frankfurt, wo die Brentanos leben. Dort begegnet er zum ersten Mal seiner späteren Frau Bettina Brentano.</p>
+                     <p xml:id="tg2.4.29">Mit Clemens Brentano unternimmt Arnim eine Rheinreise.</p>
+                     <p xml:id="tg2.4.30">Weiterreise nach Stuttgart, Zürich, Genf und über Oberitalien nach Frankreich.</p>
+                     <lb xml:id="tg2.4.31"/>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="bold" xml:id="tg2.4.32.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.33">Die ersten Monate des Jahres verbringt Arnim in Paris. Dort lernt er Friedrich und Dorothea Schlegel kennen.</p>
+                     <p xml:id="tg2.4.34">Die »Erzählungen von Schauspielen« erscheinen in Friedrich Schlegels Zeitschrift »Europa«.</p>
+                     <p xml:id="tg2.4.35">
+                        <hi rend="italic" xml:id="tg2.4.35.1">Juni:</hi> Reise nach London.</p>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="italic" xml:id="tg2.4.36.1">Juli:</hi> Aufenthalt in England und Schottland (bis Sommer 1804).</p>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="italic" xml:id="tg2.4.37.1">Dezember:</hi> Tod des Vaters.</p>
+                     <lb xml:id="tg2.4.38"/>
+                     <p xml:id="tg2.4.39">
+                        <hi rend="bold" xml:id="tg2.4.39.1">1804</hi>
+                     </p>
+                     <p xml:id="tg2.4.40">»Ariels Offenbarungen« (Roman).</p>
+                     <p xml:id="tg2.4.41">
+                        <hi rend="italic" xml:id="tg2.4.41.1">August:</hi> Rückreise nach Berlin.</p>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="italic" xml:id="tg2.4.42.1">Oktober:</hi> Brentano ist zu Besuch in Berlin (bis Dezember). Zusammen besuchen sie Tieck in Ziebingen nahe Frankfurt an der Oder. Erste Pläne zur Herausgabe des »Wunderhorns«.</p>
+                     <lb xml:id="tg2.4.43"/>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="bold" xml:id="tg2.4.44.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="italic" xml:id="tg2.4.45.1">Mai:</hi> Nach Heidelberg zu Brentano.</p>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="italic" xml:id="tg2.4.46.1">Herbst:</hi> Der erste Band von »Des Knaben Wunderhorn«, einer Sammlung deutscher lyrischer Volksdichtung, erscheint (vordatiert auf 1806). Er enthält neben den gesammelten Volksliedern den Aufsatz Arnims »Von Volksliedern«.</p>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="italic" xml:id="tg2.4.47.1">Dezember:</hi> Rückreise nach Berlin.</p>
+                     <p xml:id="tg2.4.48">Aufenthalt bei Goethe in Weimar.</p>
+                     <lb xml:id="tg2.4.49"/>
+                     <p xml:id="tg2.4.50">
+                        <hi rend="bold" xml:id="tg2.4.50.1">1806</hi>
+                     </p>
+                     <p xml:id="tg2.4.51">Arnims »Kriegslieder« erscheinen zur Zeit des Beginns der kriegerischen Auseinandersetzungen zwischen Frankreich und Preußen.</p>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="italic" xml:id="tg2.4.52.1">Juni:</hi> Wegen des Zusammenbruchs Preußens muss Arnim eine Reise zu Brentano unterbrechen und nach Berlin umkehren.</p>
+                     <p xml:id="tg2.4.53">
+                        <hi rend="italic" xml:id="tg2.4.53.1">November:</hi> Arnim geht nach Königsberg, wohin der preußische Hof geflüchtet ist.</p>
+                     <p xml:id="tg2.4.54">Bekanntschaft mit Heinrich von Kleist und Max von Schenkendorf.</p>
+                     <lb xml:id="tg2.4.55"/>
+                     <p xml:id="tg2.4.56">
+                        <hi rend="bold" xml:id="tg2.4.56.1">1807</hi>
+                     </p>
+                     <p xml:id="tg2.4.57">Arnim verlässt Königsberg.</p>
+                     <p xml:id="tg2.4.58">
+                        <hi rend="italic" xml:id="tg2.4.58.1">Oktober:</hi> Aufenthalt in Giebichenstein, wo er Brentano trifft.</p>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="italic" xml:id="tg2.4.59.1">November:</hi> Gemeinsame Reise nach Weimar, dort erneute Begegnung mit Goethe sowie mit Bettina Brentano.</p>
+                     <p xml:id="tg2.4.60">Zusammen mit Brentano nach Kassel zur Zusammenstellung des zweiten und dritten Bandes des »Wunderhorns«.</p>
+                     <p xml:id="tg2.4.61">Treffen mit Jakob und Wilhelm Grimm, Ludwig Tieck, Philipp Otto Runge sowie Justinus Kerner.</p>
+                     <lb xml:id="tg2.4.62"/>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="bold" xml:id="tg2.4.63.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.64">Aufenthalt in Heidelberg und Beginn der Freundschaft mit Johann Joseph von Görres.</p>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="italic" xml:id="tg2.4.65.1">April:</hi> Brentano kommt nach Heidelberg, gemeinsame Wohnung.</p>
+                     <p xml:id="tg2.4.66">Die zusammen mit Brentano gegründete »Zeitung für Einsiedler« beginnt zu erscheinen (bis August).</p>
+                     <p xml:id="tg2.4.67">Wiedersehen mit Bettina Brentano.</p>
+                     <p xml:id="tg2.4.68">
+                        <hi rend="italic" xml:id="tg2.4.68.1">September:</hi> Der zweite und dritte Band von »Des Knaben Wunderhorn« erscheinen.</p>
+                     <p xml:id="tg2.4.69">
+                        <hi rend="italic" xml:id="tg2.4.69.1">November:</hi> Rückreise nach Berlin über Kassel, wo er die Brüder Grimm besucht, und mit kurzem Aufenthalt in Weimar, um Goethe zu treffen.</p>
+                     <lb xml:id="tg2.4.70"/>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="bold" xml:id="tg2.4.71.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.72">Arnim bemüht sich um ein Amt im preußischen Staatsdienst, doch seine Bewerbung wird abschlägig beschieden.</p>
+                     <p xml:id="tg2.4.73">»Der Wintergarten« (Novellen).</p>
+                     <p xml:id="tg2.4.74">
+                        <hi rend="italic" xml:id="tg2.4.74.1">September:</hi> Brentano siedelt zu Arnim nach Berlin über.</p>
+                     <p xml:id="tg2.4.75">Begegnung mit Joseph Freiherr von Eichendorff.</p>
+                     <lb xml:id="tg2.4.76"/>
+                     <p xml:id="tg2.4.77">
+                        <hi rend="bold" xml:id="tg2.4.77.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.78">»Armuth, Reichtum, Schuld und Buße der Gräfin Dolores« (Roman).</p>
+                     <p xml:id="tg2.4.79">»Nachfeier nach der Einholung der hohen Leiche Ihrer Majestät der Königin« (Kantate).</p>
+                     <p xml:id="tg2.4.80">Beiträge für Heinrich von Kleists »Berliner Abendblätter«.</p>
+                     <p xml:id="tg2.4.81">Beginn des Briefwechsels mit den Gebrüdern Grimm.</p>
+                     <p xml:id="tg2.4.82">Friedrich Karl von Savigny und Bettina Brentano kommen nach Berlin.</p>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="italic" xml:id="tg2.4.83.1">Dezember:</hi> Verlobung mit Bettina Brentano.</p>
+                     <lb xml:id="tg2.4.84"/>
+                     <p xml:id="tg2.4.85">
+                        <hi rend="bold" xml:id="tg2.4.85.1">1811</hi>
+                     </p>
+                     <p xml:id="tg2.4.86">
+                        <hi rend="italic" xml:id="tg2.4.86.1">Januar:</hi> Gründung der Christlich deutschen Tischgesellschaft mit Brentano, Kleist, Adam Müller, Adelbert von Chamisso und Friedrich Baron de la Motte Fouqué.</p>
+                     <p xml:id="tg2.4.87">
+                        <hi rend="italic" xml:id="tg2.4.87.1">11. März:</hi> Arnim heiratet Bettina Brentano.</p>
+                     <p xml:id="tg2.4.88">»Halle und Jerusalem, Studentenspiel und Pilgerabenteuer« (Drama in zwei Teilen)</p>
+                     <p xml:id="tg2.4.89">
+                        <hi rend="italic" xml:id="tg2.4.89.1">Herbst:</hi> Reise nach Weimar mit Bettina (bis Februar 1812).</p>
+                     <lb xml:id="tg2.4.90"/>
+                     <p xml:id="tg2.4.91">
+                        <hi rend="bold" xml:id="tg2.4.91.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.92">»Isabella von Ägypten« (Novelle).</p>
+                     <p xml:id="tg2.4.93">Geburt des Sohnes Freimund.</p>
+                     <lb xml:id="tg2.4.94"/>
+                     <p xml:id="tg2.4.95">
+                        <hi rend="bold" xml:id="tg2.4.95.1">1813</hi>
+                     </p>
+                     <p xml:id="tg2.4.96">Im Freiheitskrieg gegen Napoleon Teilnahme am Feldzug als Hauptmann eines Berliner Landsturmbataillons.</p>
+                     <p xml:id="tg2.4.97">Geburt des Sohnes Siegmund.</p>
+                     <p xml:id="tg2.4.98">»Schaubühne« (Stücke, 1. Band).</p>
+                     <p xml:id="tg2.4.99">
+                        <hi rend="italic" xml:id="tg2.4.99.1">Oktober:</hi> Redakteur des »Preußischen Korrespondenten« (bis 1. Februar 1814).</p>
+                     <lb xml:id="tg2.4.100"/>
+                     <p xml:id="tg2.4.101">
+                        <hi rend="bold" xml:id="tg2.4.101.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.102">Arnim zieht sich auf sein Gut Wiepersdorf zurück, wo er – unterbrochen von gelegentlichen Reisen und längeren Berlinaufenthalten – bis zu seinem Tod als Landwirt und Schriftsteller lebt.</p>
+                     <p xml:id="tg2.4.103">
+                        <hi rend="italic" xml:id="tg2.4.103.1">September:</hi> Besuch von Brentano.</p>
+                     <p xml:id="tg2.4.104">
+                        <hi rend="italic" xml:id="tg2.4.104.1">November:</hi> Gemeinsame Reise nach Berlin.</p>
+                     <lb xml:id="tg2.4.105"/>
+                     <p xml:id="tg2.4.106">
+                        <hi rend="bold" xml:id="tg2.4.106.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.107">Der Sohn Friedmund wird geboren.</p>
+                     <lb xml:id="tg2.4.108"/>
+                     <p xml:id="tg2.4.109">
+                        <hi rend="bold" xml:id="tg2.4.109.1">1816</hi>
+                     </p>
+                     <p xml:id="tg2.4.110">
+                        <hi rend="italic" xml:id="tg2.4.110.1">Mai-Juni:</hi> Brentano und Wilhelm Grimm besuchen Arnim in Wiepersdorf.</p>
+                     <lb xml:id="tg2.4.111"/>
+                     <p xml:id="tg2.4.112">
+                        <hi rend="bold" xml:id="tg2.4.112.1">1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.113">
+                        <hi rend="italic" xml:id="tg2.4.113.1">Januar:</hi> Bettina von Arnim zieht zurück nach Berlin.</p>
+                     <p xml:id="tg2.4.114">Geburt des Sohnes Kühnemund.</p>
+                     <p xml:id="tg2.4.115">
+                        <hi rend="italic" xml:id="tg2.4.115.1">Juni:</hi> Arnim fährt zur Kur nach Karlsbad.</p>
+                     <p xml:id="tg2.4.116">»Die Kronenwächter. I. Berthold's erstes Leben« (Band 1 des historischen Romans) erscheint. Das Fragment von Band 2 wird erst postum 1854 veröffentlicht.</p>
+                     <lb xml:id="tg2.4.117"/>
+                     <p xml:id="tg2.4.118">
+                        <hi rend="bold" xml:id="tg2.4.118.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.119">
+                        <hi rend="italic" xml:id="tg2.4.119.1">Frühjahr:</hi> Arnim gibt die erste deutsche Übersetzung von Christopher Marlowes »Doktor Faustus« heraus und verfasst ein Vorwort dazu.</p>
+                     <p xml:id="tg2.4.120">Die Tochter Maximiliane wird geboren.</p>
+                     <p xml:id="tg2.4.121">»Der tolle Invalide auf dem Fort Ratonneau« (Novelle) erscheint in den von Friedrich Wilhelm Gubitz herausgegebenen »Gaben der Milde«.</p>
+                     <lb xml:id="tg2.4.122"/>
+                     <p xml:id="tg2.4.123">
+                        <hi rend="bold" xml:id="tg2.4.123.1">1819</hi>
+                     </p>
+                     <p xml:id="tg2.4.124">»Die Gleichen« (Schauspiel).</p>
+                     <lb xml:id="tg2.4.125"/>
+                     <p xml:id="tg2.4.126">
+                        <hi rend="bold" xml:id="tg2.4.126.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.127">Die Erzählung »Die Majoratsherren« wird im »Taschenbuch zum geselligen Vergnügen auf das Jahr 1820« veröffentlicht.</p>
+                     <p xml:id="tg2.4.128">Besuche in Stuttgart bei Uhland, in Weinsberg bei Justinus Kerner, in Kassel bei den Brüdern Grimm und in Weimar bei Goethe.</p>
+                     <p xml:id="tg2.4.129">
+                        <hi rend="italic" xml:id="tg2.4.129.1">November:</hi> Besuch in Dülmen bei Brentano.</p>
+                     <lb xml:id="tg2.4.130"/>
+                     <p xml:id="tg2.4.131">
+                        <hi rend="bold" xml:id="tg2.4.131.1">1821</hi>
+                     </p>
+                     <p xml:id="tg2.4.132">Geburt der Tochter Armgard.</p>
+                     <lb xml:id="tg2.4.133"/>
+                     <p xml:id="tg2.4.134">
+                        <hi rend="bold" xml:id="tg2.4.134.1">1826</hi>
+                     </p>
+                     <p xml:id="tg2.4.135">»Landhausleben« (Novellensammlung).</p>
+                     <p xml:id="tg2.4.136">Geburt der Tochter Gisela.</p>
+                     <lb xml:id="tg2.4.137"/>
+                     <p xml:id="tg2.4.138">
+                        <hi rend="bold" xml:id="tg2.4.138.1">1827</hi>
+                     </p>
+                     <p xml:id="tg2.4.139">Kuraufenthalt in Aachen.</p>
+                     <p xml:id="tg2.4.140">Reise nach Belgien, Luxemburg und an den Rhein.</p>
+                     <lb xml:id="tg2.4.141"/>
+                     <p xml:id="tg2.4.142">
+                        <hi rend="bold" xml:id="tg2.4.142.1">1829</hi>
+                     </p>
+                     <p xml:id="tg2.4.143">Reise nach Leipzig, München, Salzburg, Wien und Prag.</p>
+                     <lb xml:id="tg2.4.144"/>
+                     <p xml:id="tg2.4.145">
+                        <hi rend="bold" xml:id="tg2.4.145.1">1831</hi>
+                     </p>
+                     <p xml:id="tg2.4.146">
+                        <hi rend="italic" xml:id="tg2.4.146.1">21. Januar:</hi> Fünf Tage vor seinem 50. Geburtstag stirbt Arnim in Wiepersdorf an den Folgen eines Gehirnschlags.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Weise, Christian/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Weise, Christian</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-98D6-6</idno><idno type="TextGridUri">textgrid:x49q.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:x4dg.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Christian Weise (Kupferstich von J.C. Böcklin)</ab>
+                  </figure>
+
+                  <head type="h1" xml:id="tg1.2.3">Christian Weise</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1642–1708)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1642</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">30. April:</hi> Christian Weise wird in Zittau geboren. Der Sohn des Zittauer collega tertium Elias Weise, wird in der frühen Kindheit vom Vater unterrichtet.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1660–1663</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Weise studiert in Leipzig Theologie. Bereits zu dieser Zeit erwirbt er sich einen Ruf als Gelegenheitsdichter. Die Gedichte kommen später gesammelt heraus in »Der grünen Jugend uberflüssige Gedancken«, Amsterdam/ Nürnberg 1668.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1663</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Nach seiner Magisterpromotion beginnt Weise in Leipzig die Lehrtätigkeit in den Fächern Rhetorik, Politik, Geschichte und Poesie.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1668</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Im Leipziger Klima einer vorsichtig modernisierten Humanistengelehrsamkeit legt Weise erste Fundamente zu seiner Konzeption vom »Politischen«.</p>
+                     <p xml:id="tg2.4.15">»Die Triumphirende Keuschheit« erscheint in Amsterdam, recte Nürnberg.</p>
+                     <p xml:id="tg2.4.16">Da die akademische Karriere nicht gelingt, tritt Weise eine Stelle als Sekretär beim Minister des Herzogs August von Sachsen-Weimar, Simon Philipp von Leiningen-Westerburg, in Halle an.</p>
+                     <lb xml:id="tg2.4.17"/>
+                     <p xml:id="tg2.4.18">
+                        <hi rend="bold" xml:id="tg2.4.18.1">1670</hi>
+                     </p>
+                     <p xml:id="tg2.4.19">Weise wird Hofmeister beim Baron Gustav Adolf von der Schulenburg in Amfort/Magdeburg.</p>
+                     <p xml:id="tg2.4.20">Im gleichen Jahr wechselt er als Professor an das Weißenfelser Gymnasium, eine sog. Ritterakademie. In der Weißenfelser Zeit schreibt er einige Bücher und beginnt seinen spezifischen Ansatz herauszuarbeiten: die rhetorische Tradition seit der Antike mit zeitgenössischen Bedingungen, Themen und Interessenlagen zu verknüpfen.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1671</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">»Die drey Haupt-Verderber In Teutschland« (Leipzig?).</p>
+                     <p xml:id="tg2.4.24">Weise veröffentlicht im Laufe seines Lebens insgesamt mindestens 167 Einzeldrucke.</p>
+                     <lb xml:id="tg2.4.25"/>
+                     <p xml:id="tg2.4.26">
+                        <hi rend="bold" xml:id="tg2.4.26.1">1672</hi>
+                     </p>
+                     <p xml:id="tg2.4.27">»Die drey ärgsten Ertz-Narren« (Leipzig?).</p>
+                     <lb xml:id="tg2.4.28"/>
+                     <p xml:id="tg2.4.29">
+                        <hi rend="bold" xml:id="tg2.4.29.1">1675–1677</hi>
+                     </p>
+                     <p xml:id="tg2.4.30">»Der Grünen Jugend Nothwendige Gedancken« Weißenfels 1675, und »Der Politische Redner«, Leipzig 1677, erscheinen im Druck.</p>
+                     <lb xml:id="tg2.4.31"/>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="bold" xml:id="tg2.4.32.1">1678</hi>
+                     </p>
+                     <p xml:id="tg2.4.33">Weise erhält die Rektorenstelle am Gymnasium seiner Heimatstadt, einer protestantischen Gelehrtenschule. Neben den traditionellen gelehrten und rhetorischen Studien fördert er neue Fächer wie Geschichtsschreibung oder Geographie, wodurch die Zittauer Schule auch für Schüler höherer Stände attraktiv wird. In seinen 30 Rektoratsjahren konzentriert sich Weise vor allem auf eine Verhaltenslehre, die er in lateinischen und deutschen Lehrbüchern, und in etwa 60 Theaterstücken darlegt und vorführt.</p>
+                     <p xml:id="tg2.4.34">»Der Politische Näscher« (Leipzig).</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1679</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">»Baurischer Machiavellus«, (Dresden).</p>
+                     <lb xml:id="tg2.4.38"/>
+                     <p xml:id="tg2.4.39">
+                        <hi rend="bold" xml:id="tg2.4.39.1">1683</hi>
+                     </p>
+                     <p xml:id="tg2.4.40">Als Dramatiker gibt Weise in Stücken wie »Baurischer Machiavellus«, »Der Verfolgte Lateiner«, oder »Masaniello« (Zittau 1683) die zeitgenössische Gesellschaft (teilweise durch klischeehafte Bilder) wie der.</p>
+                     <lb xml:id="tg2.4.41"/>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="bold" xml:id="tg2.4.42.1">1685</hi>
+                     </p>
+                     <p xml:id="tg2.4.43">Jedes Jahr, zunächst zur Fastnacht und in diesem Jahr zum Martinsfest, werden von den Schülern für die Eltern und externen Gäste je drei Stücke gespielt: ein geistliches (Bibel-)Stück, ein politisches Geschichtsstück und ein Lustspiel. Die Stücke haben unter anderem das Ziel, soziales Wissen spielerisch einzuprägen. Weise erwirbt durch diese Tradition sich und seiner Schule einen bemerkenswerten Ruf.</p>
+                     <lb xml:id="tg2.4.44"/>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="bold" xml:id="tg2.4.45.1">1692</hi>
+                     </p>
+                     <p xml:id="tg2.4.46">Weises poetologische Schrift »Curiöse Gedancken Von Deutschen Versen« (Leipzig) erscheint. Sie repräsentiert exemplarisch die seit Opitz' Tagen fortschreitende Tendenz zur Reduktion der Poetologie auf eine praktisch- anleitende Verskunst.</p>
+                     <lb xml:id="tg2.4.47"/>
+                     <p xml:id="tg2.4.48">
+                        <hi rend="bold" xml:id="tg2.4.48.1">1696</hi>
+                     </p>
+                     <p xml:id="tg2.4.49">»Der Verfolgte Lateiner« (Leipzig).</p>
+                     <lb xml:id="tg2.4.50"/>
+                     <p xml:id="tg2.4.51">
+                        <hi rend="bold" xml:id="tg2.4.51.1">1708</hi>
+                     </p>
+                     <p xml:id="tg2.4.52">Wegen seiner altersschwachen Augen muß Weise das Rektorat aufgeben. Nachfolger wird sein Schüler, der Laubaner Rektor Gottfried Hoffmann.</p>
+                     <p xml:id="tg2.4.53">
+                        <hi rend="italic" xml:id="tg2.4.53.1">21. Oktober:</hi> Weise stirbt in Zittau.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

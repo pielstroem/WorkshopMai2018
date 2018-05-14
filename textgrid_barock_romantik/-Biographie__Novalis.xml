@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Novalis/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Novalis</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0004-6160-F</idno><idno type="TextGridUri">textgrid:sv84.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+
+                  <figure>
+                     <graphic url="textgrid:sv8m.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Novalis (Friedrich von Hardenberg) (Gemälde von Franz Gareis?, um 1799)</ab>
+                  </figure>
+                  <head type="h1" xml:id="tg1.2.3">Novalis</head>
+                  <head type="h2" xml:id="tg1.2.4">Friedrich von Hardenberg</head>
+
+                  <head type="h4" xml:id="tg1.2.5">(1772–1802)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1772</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">2. Mai:</hi> Georg Philipp Friedrich Freiherr von Hardenberg wird auf dem Familiengut Oberwiederstedt bei Hettstedt als Sohn des Gutsbesitzers und Bergfachmanns Heinrich Ulrich Erasmus Freiherr von Hardenberg und seiner Frau Auguste Bernhardine, geb. von Bölzig geboren.</p>
+                     <p xml:id="tg2.4.6">Bis zum Eintritt in das Gymnasium wird Novalis von Hauslehrern unterrichtet.</p>
+                     <lb xml:id="tg2.4.7"/>
+                     <p xml:id="tg2.4.8">
+                        <hi rend="bold" xml:id="tg2.4.8.1">1784</hi>
+                     </p>
+                     <p xml:id="tg2.4.9">
+                        <hi rend="italic" xml:id="tg2.4.9.1">Dezember:</hi> Der Vater wird zum Direktor der Salinen in Dürrenberg, Artern und Kösen ernannt.</p>
+                     <lb xml:id="tg2.4.10"/>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="bold" xml:id="tg2.4.11.1">1785</hi>
+                     </p>
+                     <p xml:id="tg2.4.12">Übersiedlung der Familie nach Weißenfels, wo sich das Salinenamt befindet.</p>
+                     <lb xml:id="tg2.4.13"/>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="bold" xml:id="tg2.4.14.1">1788</hi>
+                     </p>
+                     <p xml:id="tg2.4.15">Novalis tritt in das Gymnasium Eisleben ein.</p>
+                     <p xml:id="tg2.4.16">Erste literarische Versuche.</p>
+                     <lb xml:id="tg2.4.17"/>
+                     <p xml:id="tg2.4.18">
+                        <hi rend="bold" xml:id="tg2.4.18.1">1789</hi>
+                     </p>
+                     <p xml:id="tg2.4.19">
+                        <hi rend="italic" xml:id="tg2.4.19.1">Mai:</hi> Begegnung mit dem Schriftsteller, Ästhetikprofessor und Redakteur des »Deutschen Musenalmanachs« Gottfried August Bürger.</p>
+                     <p xml:id="tg2.4.20">Novalis verfaßt Gedichte und Übersetzungen.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1790</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="italic" xml:id="tg2.4.23.1">Oktober:</hi> Novalis schreibt sich an der Universität Jena zum Jurastudium ein. Er hört außerdem Vorlesungen u.a. bei Friedrich Schiller, der in Jena Geschichte lehrt, und bei dem Philosophen Karl Leonhard Reinhold.</p>
+                     <lb xml:id="tg2.4.24"/>
+                     <p xml:id="tg2.4.25">
+                        <hi rend="bold" xml:id="tg2.4.25.1">1791</hi>
+                     </p>
+                     <p xml:id="tg2.4.26">Engere Bekanntschaft mit Schiller.</p>
+                     <p xml:id="tg2.4.27">In Wielands »Neuem Teutschen Merkur« wird mit »Klagen eines Jünglings« zum ersten Mal ein Gedicht von Novalis veröffentlicht.</p>
+                     <p xml:id="tg2.4.28">
+                        <hi rend="italic" xml:id="tg2.4.28.1">Oktober:</hi> Novalis wechselt an die Universität Leipzig.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1792</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">
+                        <hi rend="italic" xml:id="tg2.4.31.1">Januar:</hi> Bekanntschaft mit Friedrich Schlegel, der in Leipzig Philosophie, Altphilologie und Kunstgeschichte studiert.</p>
+                     <lb xml:id="tg2.4.32"/>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="bold" xml:id="tg2.4.33.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.34">
+                        <hi rend="italic" xml:id="tg2.4.34.1">April:</hi> Novalis siedelt nach Wittenberg um, wo er die letzten Semester seines Studiums absolviert.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1794</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="italic" xml:id="tg2.4.37.1">Juni:</hi> In Wittenberg legt Novalis sein Juraexamen ab.</p>
+                     <p xml:id="tg2.4.38">
+                        <hi rend="italic" xml:id="tg2.4.38.1">Herbst:</hi> Novalis siedelt nach Tennstedt über und tritt dort eine Stelle als Amtsschreiber beim Kreisamt an.</p>
+                     <p xml:id="tg2.4.39">
+                        <hi rend="italic" xml:id="tg2.4.39.1">November:</hi> Begegnung mit der zwölfjährigen Sophie von Kühn aus Grüningen.</p>
+                     <lb xml:id="tg2.4.40"/>
+                     <p xml:id="tg2.4.41">
+                        <hi rend="bold" xml:id="tg2.4.41.1">1795</hi>
+                     </p>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="italic" xml:id="tg2.4.42.1">Frühjahr:</hi> Verlobung mit Sophie von Kühn.</p>
+                     <p xml:id="tg2.4.43">Besuch bei Sophie in Grüningen mit den Brüdern Erasmus und Karl.</p>
+                     <p xml:id="tg2.4.44">In Jena Begegnung mit Friedrich Hölderlin und dem Philosophen Johann Gottlieb Fichte.</p>
+                     <p xml:id="tg2.4.45">Beginn des Studiums der Schriften von Fichte (bis Sommer 1796).</p>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="italic" xml:id="tg2.4.46.1">November:</hi> Schwere Erkrankung Sophies.</p>
+                     <lb xml:id="tg2.4.47"/>
+                     <p xml:id="tg2.4.48">
+                        <hi rend="bold" xml:id="tg2.4.48.1">1796</hi>
+                     </p>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="italic" xml:id="tg2.4.49.1">Frühjahr:</hi> Novalis besucht in Langensalza einen zweiwöchigen Chemiekurs und tritt anschließend eine Stelle als Akzessist im Salinenamt Weißenfels an.</p>
+                     <p xml:id="tg2.4.50">
+                        <hi rend="italic" xml:id="tg2.4.50.1">Sommer:</hi> Sophie wird in Jena operiert.</p>
+                     <p xml:id="tg2.4.51">
+                        <hi rend="italic" xml:id="tg2.4.51.1">August:</hi> Friedrich Schlegel besucht Novalis in Weißenfels.</p>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="italic" xml:id="tg2.4.52.1">Dezember:</hi> Rückkehr Sophies ins Elternhaus nach Grüningen.</p>
+                     <lb xml:id="tg2.4.53"/>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="bold" xml:id="tg2.4.54.1">1797</hi>
+                     </p>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="italic" xml:id="tg2.4.55.1">März:</hi> Tod Sophies in Grüningen.</p>
+                     <p xml:id="tg2.4.56">
+                        <hi rend="italic" xml:id="tg2.4.56.1">April:</hi> Tod des Bruders Erasmus.</p>
+                     <p xml:id="tg2.4.57">
+                        <hi rend="italic" xml:id="tg2.4.57.1">18. April:</hi> Beginn der Tagebuchaufzeichnungen des »Journals« (bis 6. Juli).</p>
+                     <p xml:id="tg2.4.58">
+                        <hi rend="italic" xml:id="tg2.4.58.1">Sommer:</hi> In Jena trifft Novalis Caroline und August Wilhelm Schlegel.</p>
+                     <p xml:id="tg2.4.59">Bekanntschaft mit dem Philosophen Friedrich Wilhelm Joseph Schelling in Leipzig.</p>
+                     <p xml:id="tg2.4.60">
+                        <hi rend="italic" xml:id="tg2.4.60.1">Dezember:</hi> Novalis beginnt ein Studium des Bergbaus und der Naturwissenschaften an der Bergakademie Freiberg.</p>
+                     <lb xml:id="tg2.4.61"/>
+                     <p xml:id="tg2.4.62">
+                        <hi rend="bold" xml:id="tg2.4.62.1">1798</hi>
+                     </p>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="italic" xml:id="tg2.4.63.1">März:</hi> Mit A. W. Schlegel Besuche bei Goethe und Schiller in Jena.</p>
+                     <p xml:id="tg2.4.64">Das Fragment zu dem geplanten Werk »Die Lehrlinge zu Sais« entsteht (erscheint postum 1802 in den »Schriften«).</p>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="italic" xml:id="tg2.4.65.1">Mai:</hi> In der von den Brüdern Schlegel herausgegebenen Zeitschrift »Athenäum« erscheint als erste Publikation unter dem Pseudonym Novalis eine Sammlung von aphoristischen »vermischten Bemerkungen« mit dem Titel »Blütenstaub«.</p>
+                     <p xml:id="tg2.4.66">
+                        <hi rend="italic" xml:id="tg2.4.66.1">Juli:</hi> Der Aufsatz »Glauben und Liebe oder Der König und die Königin« erscheint in den »Jahrbüchern der preußischen Monarchie«.</p>
+                     <p xml:id="tg2.4.67">
+                        <hi rend="italic" xml:id="tg2.4.67.1">Sommer:</hi> Novalis fährt zur Kur nach Teplitz. Dort entstehen die »Teplitzer Fragmente«. Zusammen mit den Texten aus »Blütenstaub«, »Glauben und Liebe« und anderen Studien, Exzerpten und Entwürfen bilden sie die berühmte »Fragmente«-Sammlung Novalis', die als wichtiges Dokument des Weltbilds der Frühromantiker gilt und nahezu alle künstlerischen und wissenschaftlichen Disziplinen berührt. Die Schwerpunkte liegen dabei auf Religion, Philosophie, Geschichte und Poesie.</p>
+                     <p xml:id="tg2.4.68">
+                        <hi rend="italic" xml:id="tg2.4.68.1">August:</hi> Aufenthalt in Dresden mit Schelling und Friedrich und A. W. Schlegel.</p>
+                     <p xml:id="tg2.4.69">
+                        <hi rend="italic" xml:id="tg2.4.69.1">September:</hi> Beginn der Arbeit an einer geplanten Enzyklopädie, dem »Allgemeinen Brouillon« (bis Frühjahr 1799).</p>
+                     <p xml:id="tg2.4.70">
+                        <hi rend="italic" xml:id="tg2.4.70.1">Herbst:</hi> Zusammentreffen mit Jean Paul in Leipzig.</p>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="italic" xml:id="tg2.4.71.1">Dezember:</hi> Verlobung mit Julie von Charpentier, der Tochter des Bergrats von Charpentier.</p>
+                     <lb xml:id="tg2.4.72"/>
+                     <p xml:id="tg2.4.73">
+                        <hi rend="bold" xml:id="tg2.4.73.1">1799</hi>
+                     </p>
+                     <p xml:id="tg2.4.74">
+                        <hi rend="italic" xml:id="tg2.4.74.1">Mai:</hi> Rückkehr aus Freiberg nach Weißenfels.</p>
+                     <p xml:id="tg2.4.75">
+                        <hi rend="italic" xml:id="tg2.4.75.1">Sommer:</hi> Beginn der Freundschaft mit Ludwig Tieck.</p>
+                     <p xml:id="tg2.4.76">Mit Tieck Besuch bei Goethe in Weimar.</p>
+                     <p xml:id="tg2.4.77">
+                        <hi rend="italic" xml:id="tg2.4.77.1">Herbst:</hi> Novalis verfaßt für das »Athenäum« den Aufsatz »Die Christenheit oder Europa«, der jedoch wegen Goethes Widerspruch nicht erscheint (erst 1826 in der vierten Auflage der »Schriften« vollständig gedruckt). Mit dieser Schrift plädiert Novalis für eine neue Einheit der durch die Aufklärung zersplitterten Kultur nach dem Vorbild des im Christentum geeinten Mittelalters.</p>
+                     <p xml:id="tg2.4.78">Als Beitrag zu einem von ihm geplanten neuen Gesangbuch verfaßt Novalis die Tradition des pietistischen Kirchenlieds fortführenden »Geistlichen Lieder« (veröffentlicht postum 1801 im »Musenalmanach für das Jahr 1802«).</p>
+                     <p xml:id="tg2.4.79">
+                        <hi rend="italic" xml:id="tg2.4.79.1">November:</hi> In Jena findet ein »Romantikertreffen« statt, an dem neben Novalis die Brüder Schlegel, Tieck und Schelling teilnehmen.</p>
+                     <p xml:id="tg2.4.80">Beginn der Arbeit an dem Roman »Heinrich von Ofterdingen«.</p>
+                     <p xml:id="tg2.4.81">
+                        <hi rend="italic" xml:id="tg2.4.81.1">Dezember:</hi> Aufnahme der Tätigkeit als Salinenassessor an der Salinendirektion in Weißenfels.</p>
+                     <lb xml:id="tg2.4.82"/>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="bold" xml:id="tg2.4.83.1">1800</hi>
+                     </p>
+                     <p xml:id="tg2.4.84">
+                        <hi rend="italic" xml:id="tg2.4.84.1">April:</hi> Novalis stellt den ersten Teil des »Heinrich von Ofterdingen«, »Die Erwartung«, fertig.</p>
+                     <p xml:id="tg2.4.85">
+                        <hi rend="italic" xml:id="tg2.4.85.1">Juni:</hi> Tieck besucht Novalis in Weißenfels</p>
+                     <p xml:id="tg2.4.86">
+                        <hi rend="italic" xml:id="tg2.4.86.1">August:</hi> Im »Athenäum« erscheinen die seit 1797 entstandenen »Hymnen an die Nacht«.</p>
+                     <p xml:id="tg2.4.87">Novalis erkrankt an einem Lungenleiden.</p>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="italic" xml:id="tg2.4.88.1">Oktober:</hi> Reise nach Dresden (bis Januar 1801).</p>
+                     <p xml:id="tg2.4.89">Aufzeichnungen zum zweiten Teil des »Heinrich von Ofterdingen«, der »Die Erfüllung« heißen sollte. »Heinrich von Ofterdingen« ist das Fragment eines im christlichen Mittelalter spielenden Entwicklungsromans, der als romantisches Gegenstück zum bürgerlichen Bildungsroman, wie z.B. Goethes »Wilhelm Meister«, die Entwicklung der Hauptfigur in die mystische Gewißheit der Harmonie mit dem Göttlichen münden läßt (erscheint in 2 Bänden 1802 in Berlin).</p>
+                     <p xml:id="tg2.4.90">
+                        <hi rend="italic" xml:id="tg2.4.90.1">Dezember:</hi> Novalis wird zum kursächsischen Amtshauptmann im Thüringischen Bergkreis ernannt.</p>
+                     <lb xml:id="tg2.4.91"/>
+                     <p xml:id="tg2.4.92">
+                        <hi rend="bold" xml:id="tg2.4.92.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.93">
+                        <hi rend="italic" xml:id="tg2.4.93.1">Januar:</hi> Rückkehr aus Dresden.</p>
+                     <p xml:id="tg2.4.94">
+                        <hi rend="italic" xml:id="tg2.4.94.1">23. März:</hi> Ankunft des Freundes Friedrich Schlegel in Weißenfels.</p>
+                     <p xml:id="tg2.4.95">
+                        <hi rend="italic" xml:id="tg2.4.95.1">25. März:</hi> Novalis stirbt in Weißenfels.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

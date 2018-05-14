@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Uhland, Ludwig/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Uhland, Ludwig</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-70FB-D</idno><idno type="TextGridUri">textgrid:wpwp.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:wq50.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Ludwig Uhland (Gemälde von Christoph Friedrich Dörr)</ab>
+                  </figure>
+
+                  <head type="h1" xml:id="tg1.2.3">Ludwig Uhland</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1787–1862)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+                     
+                     <lb xml:id="tg2.4.3"/>
+
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1787</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">26. April:</hi> Ludwig Uhland wird in Tübingen als Sohn des Universitätssekretärs Johann Friedrich Uhland und seiner Frau, der Pfarrerstochter Elisabeth, geb. Hofer, geboren.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Besuch der Tübinger Lateinschule.</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1799</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">Erste lyrische Versuche.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">Uhland schreibt sich als Jurist an der Tübinger Universität ein, muß aber wegen seiner Jugend zunächst Kurse an der Artistenfakultät besuchen (bis 1805), wo er von Karl Philipp Conz Impulse empfing.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">Jurastudium und Studium der Philologie (bis 1810).</p>
+                     <p xml:id="tg2.4.18">Uhland verkehrt in einem Kreis von Studenten, der sich mit Poesie befaßt, darunter Julius Kerner und Karl Mayer. Mit Kerner verbindet ihn eine lebenslange Freundschaft.</p>
+                     <lb xml:id="tg2.4.19"/>
+                     <p xml:id="tg2.4.20">
+                        <hi rend="bold" xml:id="tg2.4.20.1">1807</hi>
+                     </p>
+                     <p xml:id="tg2.4.21">In Leo von Seckendorfs »Musenalmanach« erscheinen erste Gedichte von Uhland.</p>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="italic" xml:id="tg2.4.22.1">Januar-März:</hi> Die Tübinger Romantiker geben ein handschriftliches »Sonntagsblatt für gebildete Stände« heraus, in dem weitere Gedichte von Uhland erscheinen.</p>
+                     <lb xml:id="tg2.4.23"/>
+                     <p xml:id="tg2.4.24">
+                        <hi rend="bold" xml:id="tg2.4.24.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.25">Uhland legt das rechtswissenschaftliche Examen ab.</p>
+                     <p xml:id="tg2.4.26">»Klein-Roland« (Ballade).</p>
+                     <lb xml:id="tg2.4.27"/>
+                     <p xml:id="tg2.4.28">
+                        <hi rend="bold" xml:id="tg2.4.28.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.29">
+                        <hi rend="italic" xml:id="tg2.4.29.1">April:</hi> Uhland promoviert in Tübingen zum Doktor der Rechtswissenschaft.</p>
+                     <p xml:id="tg2.4.30">Anschließend absolviert er einen neunmonatigen Studienaufenthalt in Paris, wo er sich mit altfranzösischen und mittelhochdeutschen Handschriften beschäftigt und altfranzösische Lieder nachdichtet.</p>
+                     <p xml:id="tg2.4.31">In Paris begegnet er Varnhagen van Ense, Adelbert von Chamisso, David Ferdinand Koreff und Immanuel Bekker.</p>
+                     <lb xml:id="tg2.4.32"/>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="bold" xml:id="tg2.4.33.1">1811</hi>
+                     </p>
+                     <p xml:id="tg2.4.34">Rückkehr nach Tübingen.</p>
+                     <p xml:id="tg2.4.35">Bekanntschaft mit Gustav Schwab.</p>
+                     <p xml:id="tg2.4.36">Tätigkeit als Rechtsanwalt.</p>
+                     <lb xml:id="tg2.4.37"/>
+                     <p xml:id="tg2.4.38">
+                        <hi rend="bold" xml:id="tg2.4.38.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.39">Uhland erhält eine Stelle als unbesoldeter Beamter im Justizministerium und siedelt nach Stuttgart über (bis 1829).</p>
+                     <p xml:id="tg2.4.40">Uhlands erste Abhandlung »Über das altfranzösische Epos« erscheint in der von Friedrich de la Motte Fouqué herausgegebenen Zeitschrift »Musen«. Damit wird er zum Mitbegründer der Romanistik in Deutschland.</p>
+                     <p xml:id="tg2.4.41">Beteiligung an dem von den schwäbischen Romantikern herausgegebenen »Poetischen Almanach auf das Jahr 1812«.</p>
+                     <lb xml:id="tg2.4.42"/>
+                     <p xml:id="tg2.4.43">
+                        <hi rend="bold" xml:id="tg2.4.43.1">1813</hi>
+                     </p>
+                     <p xml:id="tg2.4.44">Gemeinsam mit Justinus Kerner und Friedrich de la Motte Fouqué veröffentlicht Uhland den Almanach »Deutscher Dichterwald«.</p>
+                     <lb xml:id="tg2.4.45"/>
+                     <p xml:id="tg2.4.46">
+                        <hi rend="bold" xml:id="tg2.4.46.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.47">Nachdem Uhlands Bitte um eine bezahlte Anstellung abgeschlagen wird, scheidet er aus dem Staatsdienst aus.</p>
+                     <p xml:id="tg2.4.48">Unbefriedigende Arbeit als Advokat.</p>
+                     <lb xml:id="tg2.4.49"/>
+                     <p xml:id="tg2.4.50">
+                        <hi rend="bold" xml:id="tg2.4.50.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.51">Die erste Sammlung seiner »Gedichte« erscheint bei Johann Friedrich Cotta in Stuttgart (substanziell vermehrte Auflagen 1820, 1831, 1834, 1835). Bis zu seinem Tod erlebt der Band mehr als 50 Auflagen.</p>
+                     <p xml:id="tg2.4.52">Mit oppositionellen Gedanken greift Uhland in den Kampf um die Württembergische Verfassung ein.</p>
+                     <lb xml:id="tg2.4.53"/>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="bold" xml:id="tg2.4.54.1">1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.55">»Vaterländische Gesänge« (Gedichte).</p>
+                     <p xml:id="tg2.4.56">»Keine Adelskammer« (Flugschrift).</p>
+                     <p xml:id="tg2.4.57">Ständigen Verfolgungen ausgesetzt, verstummt Uhland für längere Zeit als politischer Dichter.</p>
+                     <lb xml:id="tg2.4.58"/>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="bold" xml:id="tg2.4.59.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.60">»Ernst, Herzog von Schwaben« (Trauerspiel).</p>
+                     <lb xml:id="tg2.4.61"/>
+                     <p xml:id="tg2.4.62">
+                        <hi rend="bold" xml:id="tg2.4.62.1">1819</hi>
+                     </p>
+                     <p xml:id="tg2.4.63">Uhland wird als Vertreter Tübingens in die verfassunggebende württembergische Ständeversammlung gewählt und gehört dem Landtag an (bis 1826).</p>
+                     <p xml:id="tg2.4.64">»Ludwig der Baier« (Trauerspiel).</p>
+                     <lb xml:id="tg2.4.65"/>
+                     <p xml:id="tg2.4.66">
+                        <hi rend="bold" xml:id="tg2.4.66.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.67">Eheschließung mit Emilie Vischer, der Stieftochter eines reichen Stuttgarter Hofrats. Die Ehe bleibt kinderlos.</p>
+                     <lb xml:id="tg2.4.68"/>
+                     <p xml:id="tg2.4.69">
+                        <hi rend="bold" xml:id="tg2.4.69.1">1822</hi>
+                     </p>
+                     <p xml:id="tg2.4.70">Uhlands wissenschaftlich bedeutsame Monographie »Walther von der Vogelweide, ein deutscher Dichter« erscheint.</p>
+                     <lb xml:id="tg2.4.71"/>
+                     <p xml:id="tg2.4.72">
+                        <hi rend="bold" xml:id="tg2.4.72.1">1823</hi>
+                     </p>
+                     <p xml:id="tg2.4.73">Persönliche Begegnung mit Joseph von Laßberg, mit dem er bereits im Briefkontakt steht.</p>
+                     <lb xml:id="tg2.4.74"/>
+                     <p xml:id="tg2.4.75">
+                        <hi rend="bold" xml:id="tg2.4.75.1">1826</hi>
+                     </p>
+                     <p xml:id="tg2.4.76">Zusammen mit Schwab gibt Uhland eine erste Gesamtausgabe von Friedrich Hölderlins Gedichten heraus.</p>
+                     <p xml:id="tg2.4.77">Er scheidet auf eigenen Wunsch aus dem Landtag aus.</p>
+                     <lb xml:id="tg2.4.78"/>
+                     <p xml:id="tg2.4.79">
+                        <hi rend="bold" xml:id="tg2.4.79.1">1829</hi>
+                     </p>
+                     <p xml:id="tg2.4.80">Nach mehrjährigen erfolglosen Bemühungen um ein akademisches Amt erhält Uhland eine Professur für deutsche Sprache und Literatur in Tübingen.</p>
+                     <p xml:id="tg2.4.81">Übersiedlung nach Tübingen.</p>
+                     <lb xml:id="tg2.4.82"/>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="bold" xml:id="tg2.4.83.1">1830</hi>
+                     </p>
+                     <p xml:id="tg2.4.84">An der Universität hält Uhland Vorlesungen zur Geschichte der deutschen Poesie im Mittelalter, zum Nibelungenlied, zur Geschichte der deutschen Poesie im 15. und 16. Jahrhundert sowie zur Sagengeschichte der germanischen und romanischen Völker (bis 1832).</p>
+                     <lb xml:id="tg2.4.85"/>
+                     <p xml:id="tg2.4.86">
+                        <hi rend="bold" xml:id="tg2.4.86.1">1832</hi>
+                     </p>
+                     <p xml:id="tg2.4.87">Ermutigt durch die allgemeine Politisierung im Gefolge der französischen Julirevolution läßt sich Uhland erneut als Abgeordneter in den Landtag wählen (bis 1838).</p>
+                     <lb xml:id="tg2.4.88"/>
+                     <p xml:id="tg2.4.89">
+                        <hi rend="bold" xml:id="tg2.4.89.1">1833</hi>
+                     </p>
+                     <p xml:id="tg2.4.90">»Aufruf für die Preßfreiheit«.</p>
+                     <p xml:id="tg2.4.91">Der für die Ausübung des Landtagsmandats notwendige Urlaub wird Uhland vom König versagt. Daraufhin gibt er sein akademisches Amt auf.</p>
+                     <p xml:id="tg2.4.92">Zusammen mit Paul Pfizer steht er an der Spitze der Opposition im Landtag.</p>
+                     <lb xml:id="tg2.4.93"/>
+                     <p xml:id="tg2.4.94">
+                        <hi rend="bold" xml:id="tg2.4.94.1">1836</hi>
+                     </p>
+                     <p xml:id="tg2.4.95">Der erste Band seiner Sagenforschungen »Der Mythus von Thôr nach nordischen Quellen« erscheint, weitere sagenkundliche Arbeiten finden sich im Nachlaß.</p>
+                     <lb xml:id="tg2.4.96"/>
+                     <p xml:id="tg2.4.97">
+                        <hi rend="bold" xml:id="tg2.4.97.1">1838</hi>
+                     </p>
+                     <p xml:id="tg2.4.98">Die Regierung löst den Landtag auf und wählt ihn wieder neu. Nach sechsjähriger Oppositionsarbeit gibt Uhland sein Mandat auf.</p>
+                     <p xml:id="tg2.4.99">Studienreise nach Wien.</p>
+                     <lb xml:id="tg2.4.100"/>
+                     <p xml:id="tg2.4.101">
+                        <hi rend="bold" xml:id="tg2.4.101.1">1842</hi>
+                     </p>
+                     <p xml:id="tg2.4.102">Studienreise nach Norddeutschland und Dänemark.</p>
+                     <lb xml:id="tg2.4.103"/>
+                     <p xml:id="tg2.4.104">
+                        <hi rend="bold" xml:id="tg2.4.104.1">1844</hi>
+                     </p>
+                     <p xml:id="tg2.4.105">Studienreise nach Belgien.</p>
+                     <p xml:id="tg2.4.106">Die erste kommentierte volkskundliche Sammlung »Alte hoch- und niederdeutsche Volkslieder« erscheint (zweiter Band 1845).</p>
+                     <lb xml:id="tg2.4.107"/>
+                     <p xml:id="tg2.4.108">
+                        <hi rend="bold" xml:id="tg2.4.108.1">1845</hi>
+                     </p>
+                     <p xml:id="tg2.4.109">Die philosophische Fakultät der Universität Tübingen verleiht Uhland die Ehrendoktorwürde.</p>
+                     <lb xml:id="tg2.4.110"/>
+                     <p xml:id="tg2.4.111">
+                        <hi rend="bold" xml:id="tg2.4.111.1">1846</hi>
+                     </p>
+                     <p xml:id="tg2.4.112">Teilnahme an der ersten Germanistenversammlung in der Frankfurter Paulskirche, die unter der Leitung von Jacob Grimm stattfindet.</p>
+                     <lb xml:id="tg2.4.113"/>
+                     <p xml:id="tg2.4.114">
+                        <hi rend="bold" xml:id="tg2.4.114.1">1847</hi>
+                     </p>
+                     <p xml:id="tg2.4.115">Teilnahme an der zweiten Germanistenversammlung in Lübeck.</p>
+                     <lb xml:id="tg2.4.116"/>
+                     <p xml:id="tg2.4.117">
+                        <hi rend="bold" xml:id="tg2.4.117.1">1848</hi>
+                     </p>
+                     <p xml:id="tg2.4.118">
+                        <hi rend="italic" xml:id="tg2.4.118.1">März:</hi> Uhland verfaßt ein Sieben-Punkte-Programm »Adresse an den ständigen Ausschuß in Stuttgart«.</p>
+                     <p xml:id="tg2.4.119">Uhland wird als Vertreter Tübingens in die Deutsche Nationalversammlung in Frankfurt am Main gewählt. Er gehört dem links-liberalen Flügel an.</p>
+                     <p xml:id="tg2.4.120">Wahl in den Siebzehner-Ausschuß, der in der Frankfurter Paulskirche die Revision der Bundesverfassung beraten soll.</p>
+                     <p xml:id="tg2.4.121">»Neun Reden für den Anschluß Österreichs an Deutschland«.</p>
+                     <p xml:id="tg2.4.122">Der Senat der Universität Tübingen beantragt die Wiederanstellung Uhlands, der jedoch ablehnt.</p>
+                     <p xml:id="tg2.4.123">Die Wiener Akademie der Wissenschaften ernennt Uhland zum korrespondierenden Mitglied.</p>
+                     <lb xml:id="tg2.4.124"/>
+                     <p xml:id="tg2.4.125">
+                        <hi rend="bold" xml:id="tg2.4.125.1">1849</hi>
+                     </p>
+                     <p xml:id="tg2.4.126">Er folgt dem Rumpfparlament nach Stuttgart, das durch das Militär aufgelöst wird.</p>
+                     <lb xml:id="tg2.4.127"/>
+                     <p xml:id="tg2.4.128">
+                        <hi rend="bold" xml:id="tg2.4.128.1">1850</hi>
+                     </p>
+                     <p xml:id="tg2.4.129">Als Mitglied des württembergischen Staatsgerichtshofes ist Uhland am Urteil über die Handlungen des Ministers von Wächter beteiligt. Damit endet seine politische Tätigkeit.</p>
+                     <p xml:id="tg2.4.130">In den folgenden Jahren lebt er zurückgezogen und widmet sich seinen wissenschaftlichen Arbeiten, ins besondere volkskundlichen Studien, von denen ein Großteil jedoch Fragment bleibt und erst postum veröffentlicht wird.</p>
+                     <lb xml:id="tg2.4.131"/>
+                     <p xml:id="tg2.4.132">
+                        <hi rend="bold" xml:id="tg2.4.132.1">1862</hi>
+                     </p>
+                     <p xml:id="tg2.4.133">
+                        <hi rend="italic" xml:id="tg2.4.133.1">13. November:</hi> Ludwig Uhland stirbt in Tübingen. In ganz Deutschland finden Gedenkfeiern statt.</p>
+                     <lb xml:id="tg2.4.134"/>
+                  </div>
+               </body>
+         </text>
+      </TEI>

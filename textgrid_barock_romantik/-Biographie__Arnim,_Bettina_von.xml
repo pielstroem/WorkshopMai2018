@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Arnim, Bettina von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Arnim, Bettina von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-0718-C</idno><idno type="TextGridUri">textgrid:k2kx.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+
+                  <figure>
+                     <graphic url="textgrid:k2m1.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">Bettina von Arnim (Medaillon, um 1810)</ab>
+                  </figure>
+ 
+                  <head type="h1" xml:id="tg1.2.3">Bettina von Arnim</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1785–1859)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+
+                     
+
+
+                     <p xml:id="tg2.4.3">
+                        <hi rend="bold" xml:id="tg2.4.3.1">1785</hi>
+                     </p>
+                     <p xml:id="tg2.4.4">
+                        <hi rend="italic" xml:id="tg2.4.4.1">4. April:</hi> Catharina Elisabetha (Bettina) Ludovica Magdalena Brentano wird in Frankfurt am Main als siebtes Kind des Großkaufmanns Peter Anton Brentano und seiner zweiten Frau Maximiliane, der Tochter von Sophie von La Roche, geboren. Zu ihren Geschwistern gehört der sieben Jahre ältere Bruder Clemens Brentano.</p>
+                     <lb xml:id="tg2.4.5"/>
+                     <p xml:id="tg2.4.6">
+                        <hi rend="bold" xml:id="tg2.4.6.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="italic" xml:id="tg2.4.7.1">November:</hi> Tod der Mutter.</p>
+                     <p xml:id="tg2.4.8">Bettina Brentano wird im Pensionat des Ursulinenklosters in Fritzlar untergebracht (bis 1797).</p>
+                     <p xml:id="tg2.4.9">1797</p>
+                     <p xml:id="tg2.4.10">Tod des Vaters.</p>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="italic" xml:id="tg2.4.11.1">Mai:</hi> Aufenthalt bei dem Halbbruder Franz in Frankfurt am Main.</p>
+                     <p xml:id="tg2.4.12">
+                        <hi rend="italic" xml:id="tg2.4.12.1">Juli:</hi> Zusammen mit ihren beiden Schwestern siedelt Bettina Brentano zu ihrer Großmutter Sophie von La Roche nach Offenbach über.</p>
+                     <lb xml:id="tg2.4.13"/>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="bold" xml:id="tg2.4.14.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.15">Der Briefwechsel mit dem Bruder Clemens beginnt.</p>
+                     <p xml:id="tg2.4.16">Freundschaft mit Karoline von Günderode.</p>
+                     <lb xml:id="tg2.4.17"/>
+                     <p xml:id="tg2.4.18">
+                        <hi rend="bold" xml:id="tg2.4.18.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.19">Bettina Brentano erhält in Frankfurt am Main Privatunterricht im Zeichnen und in Kompositionslehre.</p>
+                     <p xml:id="tg2.4.20">Sie lernt den Freund ihres Bruders Clemens, Achim von Arnim, kennen.</p>
+                     <lb xml:id="tg2.4.21"/>
+                     <p xml:id="tg2.4.22">
+                        <hi rend="bold" xml:id="tg2.4.22.1">1803</hi>
+                     </p>
+                     <p xml:id="tg2.4.23">
+                        <hi rend="italic" xml:id="tg2.4.23.1">29. November:</hi> Der Bruder Clemens heiratet in Marburg Sophie Mereau.</p>
+                     <lb xml:id="tg2.4.24"/>
+                     <p xml:id="tg2.4.25">
+                        <hi rend="bold" xml:id="tg2.4.25.1">1804</hi>
+                     </p>
+                     <p xml:id="tg2.4.26">Die Schwester Gunda heiratet Karl Friedrich von Savigny.</p>
+                     <lb xml:id="tg2.4.27"/>
+                     <p xml:id="tg2.4.28">
+                        <hi rend="bold" xml:id="tg2.4.28.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.29">Bettina Brentano besucht Gunda und ihren Mann in Marburg.</p>
+                     <lb xml:id="tg2.4.30"/>
+                     <p xml:id="tg2.4.31">
+                        <hi rend="bold" xml:id="tg2.4.31.1">1806</hi>
+                     </p>
+                     <p xml:id="tg2.4.32">
+                        <hi rend="italic" xml:id="tg2.4.32.1">Sommer:</hi> Freitod der Freundin Günderode in Winkel/Rheingau.</p>
+                     <p xml:id="tg2.4.33">
+                        <hi rend="italic" xml:id="tg2.4.33.1">August:</hi> Ludwig Tieck besucht Bettina Brentano in Frankfurt am Main.</p>
+                     <p xml:id="tg2.4.34">
+                        <hi rend="italic" xml:id="tg2.4.34.1">November:</hi> Der Bruder Clemens besucht seine Schwester nach dem Tod Sophies.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1807</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="italic" xml:id="tg2.4.37.1">Februar:</hi> Bettina Brentanos Großmutter, Sophie von La Roche, stirbt in Offenbach.</p>
+                     <p xml:id="tg2.4.38">Bettina Brentano reist nach Kassel und Berlin und besucht Goethe in Weimar.</p>
+                     <p xml:id="tg2.4.39">Beginn des Briefwechsels mit Goethe.</p>
+                     <p xml:id="tg2.4.40">Begegnung mit Achim von Arnim in Weimar.</p>
+                     <p xml:id="tg2.4.41">Clemens heiratet Auguste Bußmann.</p>
+                     <p xml:id="tg2.4.42">
+                        <hi rend="italic" xml:id="tg2.4.42.1">November:</hi> Achim von Arnim hält sich in Frankfurt am Main auf.</p>
+                     <lb xml:id="tg2.4.43"/>
+                     <p xml:id="tg2.4.44">
+                        <hi rend="bold" xml:id="tg2.4.44.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.45">Wiedersehen mit Achim von Arnim.</p>
+                     <p xml:id="tg2.4.46">Bettina Brentano reist mit Clemens und Savigny nach München und Landshut.</p>
+                     <p xml:id="tg2.4.47">Bekanntschaft mit Friedrich Heinrich Jacobi.</p>
+                     <lb xml:id="tg2.4.48"/>
+                     <p xml:id="tg2.4.49">
+                        <hi rend="bold" xml:id="tg2.4.49.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.50">
+                        <hi rend="italic" xml:id="tg2.4.50.1">September:</hi> Reise nach München und Landshut.</p>
+                     <lb xml:id="tg2.4.51"/>
+                     <p xml:id="tg2.4.52">
+                        <hi rend="bold" xml:id="tg2.4.52.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.53">Bekanntschaft mit Ludwig van Beethoven.</p>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="italic" xml:id="tg2.4.54.1">Frühsommer:</hi> Reise auf das Familiengut Bukowan.</p>
+                     <p xml:id="tg2.4.55">
+                        <hi rend="italic" xml:id="tg2.4.55.1">August:</hi> Besuch in Teplitz bei Goethe.</p>
+                     <p xml:id="tg2.4.56">Reise nach Berlin mit den Savignys.</p>
+                     <p xml:id="tg2.4.57">
+                        <hi rend="italic" xml:id="tg2.4.57.1">Dezember:</hi> Verlobung mit Achim von Arnim.</p>
+                     <lb xml:id="tg2.4.58"/>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="bold" xml:id="tg2.4.59.1">1811</hi>
+                     </p>
+                     <p xml:id="tg2.4.60">
+                        <hi rend="italic" xml:id="tg2.4.60.1">11. März:</hi> Bettina Brentano heiratet Achim von Arnim, mit dem sie abwechselnd in Berlin und in Wiepersdorf lebt.</p>
+                     <p xml:id="tg2.4.61">
+                        <hi rend="italic" xml:id="tg2.4.61.1">Herbst:</hi> Reise nach Giebichenstein, Weimar und Frankfurt mit Achim (bis Februar 1812). In Weimar Bruch mit Goethe wegen einer öffentlichen Auseinandersetzung zwischen Bettina von Arnim und Goethes Ehefrau Christiane.</p>
+                     <lb xml:id="tg2.4.62"/>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="bold" xml:id="tg2.4.63.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.64">
+                        <hi rend="italic" xml:id="tg2.4.64.1">Mai:</hi> Geburt des Sohnes Johannes Freimund.</p>
+                     <lb xml:id="tg2.4.65"/>
+                     <p xml:id="tg2.4.66">
+                        <hi rend="bold" xml:id="tg2.4.66.1">1813</hi>
+                     </p>
+                     <p xml:id="tg2.4.67">
+                        <hi rend="italic" xml:id="tg2.4.67.1">Oktober:</hi> Geburt des Sohnes Siegmund.</p>
+                     <lb xml:id="tg2.4.68"/>
+                     <p xml:id="tg2.4.69">
+                        <hi rend="bold" xml:id="tg2.4.69.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.70">
+                        <hi rend="italic" xml:id="tg2.4.70.1">Frühjahr:</hi> Bettina und Achim von Arnim übersiedeln auf das Gut Wiepersdorf.</p>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="italic" xml:id="tg2.4.71.1">Herbst:</hi> Besuch von Clemens auf Wiepersdorf.</p>
+                     <p xml:id="tg2.4.72">
+                        <hi rend="italic" xml:id="tg2.4.72.1">Dezember:</hi> Aufenthalt in Berlin.</p>
+                     <lb xml:id="tg2.4.73"/>
+                     <p xml:id="tg2.4.74">
+                        <hi rend="bold" xml:id="tg2.4.74.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.75">
+                        <hi rend="italic" xml:id="tg2.4.75.1">Februar:</hi> Geburt des Sohnes Anton Friedmund.</p>
+                     <lb xml:id="tg2.4.76"/>
+                     <p xml:id="tg2.4.77">
+                        <hi rend="bold" xml:id="tg2.4.77.1">1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.78">
+                        <hi rend="italic" xml:id="tg2.4.78.1">Januar:</hi> Bettina von Arnim zieht zurück nach Berlin.</p>
+                     <p xml:id="tg2.4.79">
+                        <hi rend="italic" xml:id="tg2.4.79.1">März:</hi> Geburt des Sohnes Waldemar Kühnemund.</p>
+                     <lb xml:id="tg2.4.80"/>
+                     <p xml:id="tg2.4.81">
+                        <hi rend="bold" xml:id="tg2.4.81.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.82">
+                        <hi rend="italic" xml:id="tg2.4.82.1">Sommer:</hi> Geburt der Tochter Maximiliane.</p>
+                     <lb xml:id="tg2.4.83"/>
+                     <p xml:id="tg2.4.84">
+                        <hi rend="bold" xml:id="tg2.4.84.1">1821</hi>
+                     </p>
+                     <p xml:id="tg2.4.85">Geburt der Tochter Armgard.</p>
+                     <lb xml:id="tg2.4.86"/>
+                     <p xml:id="tg2.4.87">
+                        <hi rend="bold" xml:id="tg2.4.87.1">1823</hi>
+                     </p>
+                     <p xml:id="tg2.4.88">Beginn der Arbeit am Goethe-Denkmal.</p>
+                     <p xml:id="tg2.4.89">Korrespondenz mit Philipp Hößli.</p>
+                     <lb xml:id="tg2.4.90"/>
+                     <p xml:id="tg2.4.91">
+                        <hi rend="bold" xml:id="tg2.4.91.1">1824</hi>
+                     </p>
+                     <p xml:id="tg2.4.92">
+                        <hi rend="italic" xml:id="tg2.4.92.1">Sommer:</hi> Aufenthalt in Schlangenbad.</p>
+                     <p xml:id="tg2.4.93">Besuch bei Goethe in Weimar.</p>
+                     <p xml:id="tg2.4.94">Reise nach Kassel zu den Brüdern Jakob und Wilhelm Grimm.</p>
+                     <lb xml:id="tg2.4.95"/>
+                     <p xml:id="tg2.4.96">
+                        <hi rend="bold" xml:id="tg2.4.96.1">1827</hi>
+                     </p>
+                     <p xml:id="tg2.4.97">Geburt der Tochter Gisela.</p>
+                     <lb xml:id="tg2.4.98"/>
+                     <p xml:id="tg2.4.99">
+                        <hi rend="bold" xml:id="tg2.4.99.1">1829</hi>
+                     </p>
+                     <p xml:id="tg2.4.100">Besuch Bettina von Arnims bei Rahel Varnhagen und Beginn der Freundschaft.</p>
+                     <lb xml:id="tg2.4.101"/>
+                     <p xml:id="tg2.4.102">
+                        <hi rend="bold" xml:id="tg2.4.102.1">1830</hi>
+                     </p>
+                     <p xml:id="tg2.4.103">Die Tochter Maximiliane erkrankt an Typhus.</p>
+                     <lb xml:id="tg2.4.104"/>
+                     <p xml:id="tg2.4.105">
+                        <hi rend="bold" xml:id="tg2.4.105.1">1831</hi>
+                     </p>
+                     <p xml:id="tg2.4.106">
+                        <hi rend="italic" xml:id="tg2.4.106.1">21. Januar:</hi> Tod des Ehemannes Achim.</p>
+                     <p xml:id="tg2.4.107">Bei der Choleraepedemie in Berlin engagiert sich Bettina von Arnim für soziale Hilfsmaßnahmen in den Armenvierteln.</p>
+                     <p xml:id="tg2.4.108">Beginn der Freundschaft mit Friedrich Schleiermacher.</p>
+                     <lb xml:id="tg2.4.109"/>
+                     <p xml:id="tg2.4.110">
+                        <hi rend="bold" xml:id="tg2.4.110.1">1832</hi>
+                     </p>
+                     <p xml:id="tg2.4.111">Briefwechsel mit Fürst Pückler-Muskau.</p>
+                     <lb xml:id="tg2.4.112"/>
+                     <p xml:id="tg2.4.113">
+                        <hi rend="bold" xml:id="tg2.4.113.1">1833</hi>
+                     </p>
+                     <p xml:id="tg2.4.114">Tod Rahel Varnhagens.</p>
+                     <lb xml:id="tg2.4.115"/>
+                     <p xml:id="tg2.4.116">
+                        <hi rend="bold" xml:id="tg2.4.116.1">1835</hi>
+                     </p>
+                     <p xml:id="tg2.4.117">»Goethe's Briefwechsel mit einem Kinde« (3 Bände).</p>
+                     <p xml:id="tg2.4.118">
+                        <hi rend="italic" xml:id="tg2.4.118.1">Juni:</hi> Tödlicher Unfall des Sohnes Kühnemund.</p>
+                     <lb xml:id="tg2.4.119"/>
+                     <p xml:id="tg2.4.120">
+                        <hi rend="bold" xml:id="tg2.4.120.1">1839</hi>
+                     </p>
+                     <p xml:id="tg2.4.121">Bettina von Arnim beginnt mit der Herausgabe der »Gesammelten Werke« des Ehemanns Achim.</p>
+                     <lb xml:id="tg2.4.122"/>
+                     <p xml:id="tg2.4.123">
+                        <hi rend="bold" xml:id="tg2.4.123.1">1840</hi>
+                     </p>
+                     <p xml:id="tg2.4.124">Bettina von Arnim setzt sich beim Kronprinzen Friedrich Wilhelm für eine Berufung von Jacob und Wilhelm Grimm an die Königliche Akademie der Wissenschaften nach Berlin ein. Nach dem Tod des Königs Friedrich Wilhelm III. wird Friedrich Wilhelm IV. sein Nachfolger und beruft die Brüder Grimm nach Berlin.</p>
+                     <p xml:id="tg2.4.125">»Die Günderode« (2 Bände).</p>
+                     <p xml:id="tg2.4.126">»Reichsgräfin Gritta von Rattenzuhausbeiuns« (Märchen, gemeinsam mit ihrer Tochter Gisela).</p>
+                     <p xml:id="tg2.4.127">Beginn der Korrespondenz mit dem Kronprinzen Karl von Württemberg.</p>
+                     <lb xml:id="tg2.4.128"/>
+                     <p xml:id="tg2.4.129">
+                        <hi rend="bold" xml:id="tg2.4.129.1">1842</hi>
+                     </p>
+                     <p xml:id="tg2.4.130">
+                        <hi rend="italic" xml:id="tg2.4.130.1">28. Juli:</hi> Tod von Clemens Brentano in Aschaffenburg.</p>
+                     <p xml:id="tg2.4.131">»Dedié à Spontini«.</p>
+                     <lb xml:id="tg2.4.132"/>
+                     <p xml:id="tg2.4.133">
+                        <hi rend="bold" xml:id="tg2.4.133.1">1843</hi>
+                     </p>
+                     <p xml:id="tg2.4.134">Bettina von Arnim veröffentlicht das sozialkritische Werk »Dies Buch gehört dem König« (2 Bände) anonym in Berlin. Das aus fiktiven Dialogen zwischen der Mutter Goethes und der Mutter des preußischen Königs bestehende Werk wird in Bayern verboten.</p>
+                     <p xml:id="tg2.4.135">Briefwechsel mit dem Erbprinzen Carl-Alexander von Sachsen-Weimar.</p>
+                     <lb xml:id="tg2.4.136"/>
+                     <p xml:id="tg2.4.137">
+                        <hi rend="bold" xml:id="tg2.4.137.1">1844</hi>
+                     </p>
+                     <p xml:id="tg2.4.138">»Clemens Brentano's Frühlingskranz«.</p>
+                     <p xml:id="tg2.4.139">Plan zu dem »Armenbuch«, das eine Dokumentation zur Armenfrage werden und Material über die Situation der Weber enthalten soll. Als der Weberaufstand in Schlesien ausbricht, wird Bettina von Arnim verdächtigt, den Aufstand angestiftet zu haben. Sie verzichtet auf die Veröffentlichung des Buchs.</p>
+                     <lb xml:id="tg2.4.140"/>
+                     <p xml:id="tg2.4.141">
+                        <hi rend="bold" xml:id="tg2.4.141.1">1847</hi>
+                     </p>
+                     <p xml:id="tg2.4.142">»Ilius Pamphilius und die Ambrosia« (Briefroman, 2 Bände, 1847–48).</p>
+                     <lb xml:id="tg2.4.143"/>
+                     <p xml:id="tg2.4.144">
+                        <hi rend="bold" xml:id="tg2.4.144.1">1848</hi>
+                     </p>
+                     <p xml:id="tg2.4.145">Unter Pseudonym erscheint »An die aufgelöste Preussische National-Versammlung«.</p>
+                     <lb xml:id="tg2.4.146"/>
+                     <p xml:id="tg2.4.147">
+                        <hi rend="bold" xml:id="tg2.4.147.1">1852</hi>
+                     </p>
+                     <p xml:id="tg2.4.148">Die Fortsetzung des Königsbuchs, »Gespräche mit Dämonen«, erscheint.</p>
+                     <lb xml:id="tg2.4.149"/>
+                     <p xml:id="tg2.4.150">
+                        <hi rend="bold" xml:id="tg2.4.150.1">1853</hi>
+                     </p>
+                     <p xml:id="tg2.4.151">
+                        <hi rend="italic" xml:id="tg2.4.151.1">Juni:</hi> Die Tochter Maximiliane heiratet Graf Eduard von Oriola.</p>
+                     <p xml:id="tg2.4.152">»Sämmtliche Werke« (11 Bände).</p>
+                     <lb xml:id="tg2.4.153"/>
+                     <p xml:id="tg2.4.154">
+                        <hi rend="bold" xml:id="tg2.4.154.1">1854</hi>
+                     </p>
+                     <p xml:id="tg2.4.155">
+                        <hi rend="italic" xml:id="tg2.4.155.1">Oktober:</hi> Aufenthalt in Bonn bei Maximiliane.</p>
+                     <p xml:id="tg2.4.156">Bettina von Arnim erleidet in Bonn einen Schlaganfall.</p>
+                     <lb xml:id="tg2.4.157"/>
+                     <p xml:id="tg2.4.158">
+                        <hi rend="bold" xml:id="tg2.4.158.1">1859</hi>
+                     </p>
+                     <p xml:id="tg2.4.159">
+                        <hi rend="italic" xml:id="tg2.4.159.1">20. Januar:</hi> Bettina von Arnim stirbt nach langer Krankheit im Alter von 74 Jahren in Berlin.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>

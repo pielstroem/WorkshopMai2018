@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg2" n="/Literatur/M/Eichendorff, Joseph von/Biographie">
+         <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Biographie: Eichendorff, Joseph von</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0002-9ABC-7</idno><idno type="TextGridUri">textgrid:ms78.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1990" notAfter="2010"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>other</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+         <text>
+            <front>
+               <div type="front">
+                  
+
+                  <figure>
+                     <graphic url="textgrid:ms9b.0" width="300px" n="thumb" rend="right" xml:id="tg1.2.2"/>
+                     <ab type="caption" xml:id="tg1.2.2.1">&gt;Joseph von Eichendorff (Daguerrotypie, 1857) </ab>
+                  </figure>
+ 
+                  <head type="h1" xml:id="tg1.2.3">Joseph von Eichendorff</head>
+
+                  <head type="h4" xml:id="tg1.2.4">(1788–1857)</head>
+
+               </div>
+            </front>
+            <body>
+                  
+                     
+                  
+                  
+                  
+                  
+                  <div type="text" xml:id="tg2.4">
+
+                     <head type="h2" xml:id="tg2.4.1">Biographie</head>
+
+                     
+
+                     <lb xml:id="tg2.4.3"/>
+
+                     <p xml:id="tg2.4.4">
+                        <hi rend="bold" xml:id="tg2.4.4.1">1788</hi>
+                     </p>
+                     <p xml:id="tg2.4.5">
+                        <hi rend="italic" xml:id="tg2.4.5.1">10. März:</hi> Joseph Karl Benedikt Freiherr von Eichendorff wird auf Schloss Lubowitz bei Ratibor (Oberschlesien) als Sohn des preußischen Offiziers Adolf Theodor Rudolf von Eichendorff und seiner Frau Karoline, geb. Koch, geboren.</p>
+                     <lb xml:id="tg2.4.6"/>
+                     <p xml:id="tg2.4.7">
+                        <hi rend="bold" xml:id="tg2.4.7.1">1793</hi>
+                     </p>
+                     <p xml:id="tg2.4.8">Aristokratisch-katholische Erziehung durch den geistlichen Hauslehrer Bernhard Heinke (bis 1801).</p>
+                     <lb xml:id="tg2.4.9"/>
+                     <p xml:id="tg2.4.10">
+                        <hi rend="bold" xml:id="tg2.4.10.1">1794</hi>
+                     </p>
+                     <p xml:id="tg2.4.11">
+                        <hi rend="italic" xml:id="tg2.4.11.1">Oktober:</hi> Die Familie reist nach Prag.</p>
+                     <lb xml:id="tg2.4.12"/>
+                     <p xml:id="tg2.4.13">
+                        <hi rend="bold" xml:id="tg2.4.13.1">1800</hi>
+                     </p>
+                     <p xml:id="tg2.4.14">
+                        <hi rend="italic" xml:id="tg2.4.14.1">12. November:</hi> Beginn der Tagebuchaufzeichnungen. Umfassende Lektüre, unter anderem von Sagen, Abenteuer- und Ritterromanen sowie erste eigene literarische Versuche.</p>
+                     <lb xml:id="tg2.4.15"/>
+                     <p xml:id="tg2.4.16">
+                        <hi rend="bold" xml:id="tg2.4.16.1">1801</hi>
+                     </p>
+                     <p xml:id="tg2.4.17">
+                        <hi rend="italic" xml:id="tg2.4.17.1">Oktober:</hi> Zusammen mit dem zwei Jahre älteren Bruder Wilhelm besucht Eichendorff das katholische Gymnasium in Breslau, und lebt im St.-Josephs-Konvikt (bis 1804).</p>
+                     <p xml:id="tg2.4.18">Besonderes Interesse am Theater.</p>
+                     <p xml:id="tg2.4.19">Auf der Leseliste stehen nun Homer, Horaz, deutsche Volksbücher und Gedichte.</p>
+                     <lb xml:id="tg2.4.20"/>
+                     <p xml:id="tg2.4.21">
+                        <hi rend="bold" xml:id="tg2.4.21.1">1802</hi>
+                     </p>
+                     <p xml:id="tg2.4.22">Eichendorff spielt kleinere Rollen im Schülertheater.</p>
+                     <p xml:id="tg2.4.23">Er verfasst einige Gedichte und Prosastücke.</p>
+                     <lb xml:id="tg2.4.24"/>
+                     <p xml:id="tg2.4.25">
+                        <hi rend="bold" xml:id="tg2.4.25.1">1805</hi>
+                     </p>
+                     <p xml:id="tg2.4.26">Zusammen mit dem Bruder Wilhelm Immatrikulation zum Jurastudium in Halle.</p>
+                     <p xml:id="tg2.4.27">Nebenbei hören sie Literatur- und Philosophievorlesungen bei Friedrich August Wolf und Friedrich Schleiermacher.</p>
+                     <p xml:id="tg2.4.28">
+                        <hi rend="italic" xml:id="tg2.4.28.1">Herbst:</hi> Reise durch den Harz, nach Hamburg und an die Ostsee.</p>
+                     <lb xml:id="tg2.4.29"/>
+                     <p xml:id="tg2.4.30">
+                        <hi rend="bold" xml:id="tg2.4.30.1">1807</hi>
+                     </p>
+                     <p xml:id="tg2.4.31">
+                        <hi rend="italic" xml:id="tg2.4.31.1">Mai:</hi> Fortsetzung des Studiums in Heidelberg. Die Eichendorff-Brüder besuchen unter anderem die Ästhetikvorlesungen von Johann Joseph von Görres.</p>
+                     <p xml:id="tg2.4.32">Bekanntschaft mit Johann Diederich Gries, einem Dichter und Übersetzer romanischer Klassiker.</p>
+                     <p xml:id="tg2.4.33">Beginn der Freundschaft mit dem romantischen Lyriker und Dramatiker Otto Heinrich Graf von Loeben.</p>
+                     <p xml:id="tg2.4.34">Lektüre von Arnims und Brentanos im Vorjahr erschienener Volksliedsammlung »Des Knaben Wunderhorn«.</p>
+                     <lb xml:id="tg2.4.35"/>
+                     <p xml:id="tg2.4.36">
+                        <hi rend="bold" xml:id="tg2.4.36.1">1808</hi>
+                     </p>
+                     <p xml:id="tg2.4.37">
+                        <hi rend="italic" xml:id="tg2.4.37.1">April–Juli:</hi> Reise nach Paris und Wien.</p>
+                     <p xml:id="tg2.4.38">
+                        <hi rend="italic" xml:id="tg2.4.38.1">Juli:</hi> Ankunft in Lubowitz, wo die Brüder den Vater bei der Bewirtschaftung der Familiengüter unterstützen (bis 1810).</p>
+                     <lb xml:id="tg2.4.39"/>
+                     <p xml:id="tg2.4.40">
+                        <hi rend="bold" xml:id="tg2.4.40.1">1809</hi>
+                     </p>
+                     <p xml:id="tg2.4.41">
+                        <hi rend="italic" xml:id="tg2.4.41.1">Winter:</hi> Gemeinsame Reise von Wilhelm und Joseph nach Berlin (Aufenthalt dort bis 1810) und Zusammentreffen mit Clemens Brentano, Achim von Arnim, Heinrich von Kleist und Adam Müller.</p>
+                     <lb xml:id="tg2.4.42"/>
+                     <p xml:id="tg2.4.43">
+                        <hi rend="bold" xml:id="tg2.4.43.1">1810</hi>
+                     </p>
+                     <p xml:id="tg2.4.44">Eichendorff beginnt mit der Arbeit an »Ahnung und Gegenwart«, einige später darin aufgenommene Gedichte entstehen.</p>
+                     <p xml:id="tg2.4.45">
+                        <hi rend="italic" xml:id="tg2.4.45.1">Oktober:</hi> Zum Abschluss des Studiums reisen die Brüder nach Wien.</p>
+                     <lb xml:id="tg2.4.46"/>
+                     <p xml:id="tg2.4.47">
+                        <hi rend="bold" xml:id="tg2.4.47.1">1811</hi>
+                     </p>
+                     <p xml:id="tg2.4.48">Bekanntschaft mit der Familie Schlegel und Freundschaft mit dem Sohn Dorothea Schlegels, Philipp Veit.</p>
+                     <lb xml:id="tg2.4.49"/>
+                     <p xml:id="tg2.4.50">
+                        <hi rend="bold" xml:id="tg2.4.50.1">1812</hi>
+                     </p>
+                     <p xml:id="tg2.4.51">Besuch literaturwissenschaftlicher Vorlesungen bei Friedrich Schlegel und Adam Müller.</p>
+                     <p xml:id="tg2.4.52">Die Eichendorff-Brüder legen die juristischen Referendarsprüfungen ab.</p>
+                     <lb xml:id="tg2.4.53"/>
+                     <p xml:id="tg2.4.54">
+                        <hi rend="bold" xml:id="tg2.4.54.1">1813</hi>
+                     </p>
+                     <p xml:id="tg2.4.55">Die Brüder gehen nun getrennte Wege. Wilhelm bleibt in Wien und wird dort österreichischer Beamter.</p>
+                     <p xml:id="tg2.4.56">
+                        <hi rend="italic" xml:id="tg2.4.56.1">April:</hi> Joseph reist nach Breslau, um als Leutnant im Lützowschen Freikorps am Befreiungskrieg teilzunehmen (bis Dezember 1814).</p>
+                     <lb xml:id="tg2.4.57"/>
+                     <p xml:id="tg2.4.58">
+                        <hi rend="bold" xml:id="tg2.4.58.1">1814</hi>
+                     </p>
+                     <p xml:id="tg2.4.59">
+                        <hi rend="italic" xml:id="tg2.4.59.1">Januar:</hi> Militärdienst in Torgau (bis Mai).</p>
+                     <p xml:id="tg2.4.60">
+                        <hi rend="italic" xml:id="tg2.4.60.1">Sommer und Herbst:</hi> Urlaubsaufenthalt in Lubowitz.</p>
+                     <p xml:id="tg2.4.61">
+                        <hi rend="italic" xml:id="tg2.4.61.1">Dezember:</hi> Nach der Entlassung aus der Armee reist Eichendorff nach Berlin.</p>
+                     <lb xml:id="tg2.4.62"/>
+                     <p xml:id="tg2.4.63">
+                        <hi rend="bold" xml:id="tg2.4.63.1">1815</hi>
+                     </p>
+                     <p xml:id="tg2.4.64">
+                        <hi rend="italic" xml:id="tg2.4.64.1">7. April:</hi> Heirat mit Luise von Larisch.</p>
+                     <p xml:id="tg2.4.65">
+                        <hi rend="italic" xml:id="tg2.4.65.1">April:</hi> Teilnahme am Befreiungskrieg in Lüttich und Paris (bis Januar 1816).</p>
+                     <p xml:id="tg2.4.66">Eichendorffs erstes Prosawerk, der gesellschaftskritische Roman »Ahnung und Gegenwart« (6 Bände) wird von Fouqué herausgegeben. In dem Buch sind mehr als 50 Gedichte enthalten, darunter »In einem kühlen Grunde« und »O Täler weit, o Höhen«.</p>
+                     <p xml:id="tg2.4.67">
+                        <hi rend="italic" xml:id="tg2.4.67.1">30. August:</hi> Geburt des Sohnes Hermann Joseph.</p>
+                     <lb xml:id="tg2.4.68"/>
+                     <p xml:id="tg2.4.69">
+                        <hi rend="bold" xml:id="tg2.4.69.1">1816</hi>
+                     </p>
+                     <p xml:id="tg2.4.70">Rückkehr aus Frankreich.</p>
+                     <p xml:id="tg2.4.71">
+                        <hi rend="italic" xml:id="tg2.4.71.1">Juni:</hi> Umzug nach Breslau.</p>
+                     <p xml:id="tg2.4.72">Referendariat bei der Königlichen Regierung (bis 1819).</p>
+                     <lb xml:id="tg2.4.73"/>
+                     <p xml:id="tg2.4.74">
+                        <hi rend="bold" xml:id="tg2.4.74.1">1817</hi>
+                     </p>
+                     <p xml:id="tg2.4.75">
+                        <hi rend="italic" xml:id="tg2.4.75.1">Spätsommer:</hi> Aufenthalt in Lubowitz.</p>
+                     <p xml:id="tg2.4.76">Beginn der Arbeit am »Taugenichts«.</p>
+                     <p xml:id="tg2.4.77">Geburt der Tochter Marie Therese Alexandrine.</p>
+                     <lb xml:id="tg2.4.78"/>
+                     <p xml:id="tg2.4.79">
+                        <hi rend="bold" xml:id="tg2.4.79.1">1818</hi>
+                     </p>
+                     <p xml:id="tg2.4.80">
+                        <hi rend="italic" xml:id="tg2.4.80.1">27. April:</hi> Der Vater stirbt.</p>
+                     <p xml:id="tg2.4.81">Die Lorelei-Novelle »Das Marmorbild«, die Eichendorff 1817 in Breslau fertig gestellt hatte, erscheint in Fouqués »Frauentaschenbuch für das Jahr 1819«.</p>
+                     <lb xml:id="tg2.4.82"/>
+                     <p xml:id="tg2.4.83">
+                        <hi rend="bold" xml:id="tg2.4.83.1">1819</hi>
+                     </p>
+                     <p xml:id="tg2.4.84">
+                        <hi rend="italic" xml:id="tg2.4.84.1">Oktober:</hi> Eichendorff legt in Berlin die Assessorprüfung ab.</p>
+                     <p xml:id="tg2.4.85">
+                        <hi rend="italic" xml:id="tg2.4.85.1">November:</hi> Anstellung in Breslau als Assessor bei der Königlichen Regierung.</p>
+                     <p xml:id="tg2.4.86">Geburt des Sohnes Rudolf Joseph Julius.</p>
+                     <lb xml:id="tg2.4.87"/>
+                     <p xml:id="tg2.4.88">
+                        <hi rend="bold" xml:id="tg2.4.88.1">1820</hi>
+                     </p>
+                     <p xml:id="tg2.4.89">
+                        <hi rend="italic" xml:id="tg2.4.89.1">Mai:</hi> In Wien Treffen mit dem Bruder und mit Adam Müller.</p>
+                     <lb xml:id="tg2.4.90"/>
+                     <p xml:id="tg2.4.91">
+                        <hi rend="bold" xml:id="tg2.4.91.1">1821</hi>
+                     </p>
+                     <p xml:id="tg2.4.92">
+                        <hi rend="italic" xml:id="tg2.4.92.1">Januar:</hi> Eichendorff wird Konsistorial- und Schulrat in Danzig.</p>
+                     <p xml:id="tg2.4.93">
+                        <hi rend="italic" xml:id="tg2.4.93.1">September:</hi> Anstellung als Regierungsrat.</p>
+                     <p xml:id="tg2.4.94">Geburt der Tochter Agnes Clara.</p>
+                     <lb xml:id="tg2.4.95"/>
+                     <p xml:id="tg2.4.96">
+                        <hi rend="bold" xml:id="tg2.4.96.1">1822</hi>
+                     </p>
+                     <p xml:id="tg2.4.97">
+                        <hi rend="italic" xml:id="tg2.4.97.1">April:</hi> Tod der Mutter.</p>
+                     <lb xml:id="tg2.4.98"/>
+                     <p xml:id="tg2.4.99">
+                        <hi rend="bold" xml:id="tg2.4.99.1">1823</hi>
+                     </p>
+                     <p xml:id="tg2.4.100">Das erste Kapitel des »Taugenichts« wird in den »Deutschen Blättern« veröffentlicht.</p>
+                     <p xml:id="tg2.4.101">
+                        <hi rend="italic" xml:id="tg2.4.101.1">Herbst:</hi> Vertretungstätigkeit am Berliner Ministerium für geistliche, Unterrichts- und Medizinal-Angelegenheiten.</p>
+                     <p xml:id="tg2.4.102">Umgang mit Adelbert von Chamisso, Willibald Alexis und Julius Eduard Hitzig.</p>
+                     <p xml:id="tg2.4.103">»Krieg den Philistern. Dramatisches Märchen in fünf Abenteuern« (vordatiert auf 1824).</p>
+                     <lb xml:id="tg2.4.104"/>
+                     <p xml:id="tg2.4.105">
+                        <hi rend="bold" xml:id="tg2.4.105.1">1824</hi>
+                     </p>
+                     <p xml:id="tg2.4.106">Eichendorff wird Oberpräsidialrat in Königsberg.</p>
+                     <lb xml:id="tg2.4.107"/>
+                     <p xml:id="tg2.4.108">
+                        <hi rend="bold" xml:id="tg2.4.108.1">1826</hi>
+                     </p>
+                     <p xml:id="tg2.4.109">Eine der bekanntesten romantischen Novellen, »Aus dem Leben eines Taugenichts«, erscheint. Auch in diesem Prosawerk Eichendorffs finden sich viele, zum Teil sehr bekannte Gedichte, z.B. »Wem Gott will rechte Gunst erweisen« und »Wohin ich geh und schaue«.</p>
+                     <lb xml:id="tg2.4.110"/>
+                     <p xml:id="tg2.4.111">
+                        <hi rend="bold" xml:id="tg2.4.111.1">1827</hi>
+                     </p>
+                     <p xml:id="tg2.4.112">Da sich wegen Uneinigkeit mit seinem Vorgesetzten die Arbeitsbedingungen in Königsberg zunehmend verschlechtern, beginnt Eichendorff, sich um eine neue Anstellung in West- oder Süddeutschland zu bemühen.</p>
+                     <lb xml:id="tg2.4.113"/>
+                     <p xml:id="tg2.4.114">
+                        <hi rend="bold" xml:id="tg2.4.114.1">1828</hi>
+                     </p>
+                     <p xml:id="tg2.4.115">»Meierbeths Glück und Ende. Tragödie mit Gesang und Tanz«.</p>
+                     <p xml:id="tg2.4.116">»Ezzelin von Romano« (Trauerspiel).</p>
+                     <lb xml:id="tg2.4.117"/>
+                     <p xml:id="tg2.4.118">
+                        <hi rend="bold" xml:id="tg2.4.118.1">1830</hi>
+                     </p>
+                     <p xml:id="tg2.4.119">»Der letzte Held von Marienburg« (Trauerspiel).</p>
+                     <p xml:id="tg2.4.120">Geburt der Tochter Anna Hedwig Josephine.</p>
+                     <lb xml:id="tg2.4.121"/>
+                     <p xml:id="tg2.4.122">
+                        <hi rend="bold" xml:id="tg2.4.122.1">1831</hi>
+                     </p>
+                     <p xml:id="tg2.4.123">
+                        <hi rend="italic" xml:id="tg2.4.123.1">Sommer:</hi> Eichendorff arbeitet in Berlin in mehreren Ministerien, ab Herbst im Außenministerium (bis Juni 1832).</p>
+                     <lb xml:id="tg2.4.124"/>
+                     <p xml:id="tg2.4.125">
+                        <hi rend="bold" xml:id="tg2.4.125.1">1832</hi>
+                     </p>
+                     <p xml:id="tg2.4.126">Tod der Tochter Anna Hedwig Josephine.</p>
+                     <p xml:id="tg2.4.127">Eichendorff schreibt den Gedichtzyklus »Auf meines Kindes Tod«.</p>
+                     <p xml:id="tg2.4.128">»Viel Lärmen um Nichts«, eine satirische Erzählung mit autobiographischen Elementen, erscheint (vordatiert auf 1833).</p>
+                     <lb xml:id="tg2.4.129"/>
+                     <p xml:id="tg2.4.130">
+                        <hi rend="bold" xml:id="tg2.4.130.1">1833</hi>
+                     </p>
+                     <p xml:id="tg2.4.131">»Die Freier« (Lustspiel in Prosa und Versen).</p>
+                     <p xml:id="tg2.4.132">Beginn der Veröffentlichung von Gedichten im von Chamisso und Gustav Schwab herausgegebenen »Deutschen Musenalmanach«.</p>
+                     <lb xml:id="tg2.4.133"/>
+                     <p xml:id="tg2.4.134">
+                        <hi rend="bold" xml:id="tg2.4.134.1">1834</hi>
+                     </p>
+                     <p xml:id="tg2.4.135">»Dichter und ihre Gesellen« (Erzählung).</p>
+                     <lb xml:id="tg2.4.136"/>
+                     <p xml:id="tg2.4.137">
+                        <hi rend="bold" xml:id="tg2.4.137.1">1836</hi>
+                     </p>
+                     <p xml:id="tg2.4.138">Die Novelle »Das Schloß Dürande« erscheint in »Urania. Taschenbuch auf das Jahr 1837«.</p>
+                     <lb xml:id="tg2.4.139"/>
+                     <p xml:id="tg2.4.140">
+                        <hi rend="bold" xml:id="tg2.4.140.1">1837</hi>
+                     </p>
+                     <p xml:id="tg2.4.141">Die erste Sammlung von Eichendorffs »Gedichten«, zum Teil aus den erzählenden Werken, wird veröffentlicht.</p>
+                     <p xml:id="tg2.4.142">Viele der Gedichte sind, vertont von Robert Schumann und anderen, zu bekannten Volksliedern geworden.</p>
+                     <lb xml:id="tg2.4.143"/>
+                     <p xml:id="tg2.4.144">
+                        <hi rend="bold" xml:id="tg2.4.144.1">1838</hi>
+                     </p>
+                     <p xml:id="tg2.4.145">Aufenthalt in München und Treffen mit Görres und Brentano.</p>
+                     <p xml:id="tg2.4.146">Weiterreise nach Wien.</p>
+                     <lb xml:id="tg2.4.147"/>
+                     <p xml:id="tg2.4.148">
+                        <hi rend="bold" xml:id="tg2.4.148.1">1840</hi>
+                     </p>
+                     <p xml:id="tg2.4.149">Eichendorffs Übersetzung der im 14. Jahrhundert entstandenen Erzählung »Der Graf Lucanor« von Don Juan Manuel erscheint.</p>
+                     <lb xml:id="tg2.4.150"/>
+                     <p xml:id="tg2.4.151">
+                        <hi rend="bold" xml:id="tg2.4.151.1">1841</hi>
+                     </p>
+                     <p xml:id="tg2.4.152">
+                        <hi rend="italic" xml:id="tg2.4.152.1">Januar:</hi> Eichendorff wird zum Geheimen Regierungsrat ernannt und in den Vorstand des Berliner Vereins für den Kölner Dombau berufen.</p>
+                     <p xml:id="tg2.4.153">»Werke« (4 Bände).</p>
+                     <lb xml:id="tg2.4.154"/>
+                     <p xml:id="tg2.4.155">
+                        <hi rend="bold" xml:id="tg2.4.155.1">1843</hi>
+                     </p>
+                     <p xml:id="tg2.4.156">
+                        <hi rend="italic" xml:id="tg2.4.156.1">Februar:</hi> Eichendorff erkrankt an einer Lungenentzündung.</p>
+                     <p xml:id="tg2.4.157">
+                        <hi rend="italic" xml:id="tg2.4.157.1">Mai–September:</hi> Arbeitsaufenthalt in Danzig und Marienburg.</p>
+                     <lb xml:id="tg2.4.158"/>
+                     <p xml:id="tg2.4.159">
+                        <hi rend="bold" xml:id="tg2.4.159.1">1844</hi>
+                     </p>
+                     <p xml:id="tg2.4.160">»Die Wiederherstellung des Schlosses zu Marienburg«.</p>
+                     <p xml:id="tg2.4.161">
+                        <hi rend="italic" xml:id="tg2.4.161.1">Juni/Juli:</hi> Eichendorff wird aus gesundheitlichen Gründen pensioniert.</p>
+                     <lb xml:id="tg2.4.162"/>
+                     <p xml:id="tg2.4.163">
+                        <hi rend="bold" xml:id="tg2.4.163.1">1845</hi>
+                     </p>
+                     <p xml:id="tg2.4.164">
+                        <hi rend="italic" xml:id="tg2.4.164.1">Sommer:</hi> Aufenthalt in Sedlnitz und Wien, wo er den Bruder Wilhelm trifft.</p>
+                     <lb xml:id="tg2.4.165"/>
+                     <p xml:id="tg2.4.166">
+                        <hi rend="bold" xml:id="tg2.4.166.1">1846</hi>
+                     </p>
+                     <p xml:id="tg2.4.167">»Geistliche Schauspiele von Calderon« (Übersetzungen).</p>
+                     <p xml:id="tg2.4.168">
+                        <hi rend="italic" xml:id="tg2.4.168.1">September:</hi> Reise nach Wien (bis Mai 1847).</p>
+                     <p xml:id="tg2.4.169">Zusammentreffen mit Adalbert Stifter und Franz Grillparzer.</p>
+                     <lb xml:id="tg2.4.170"/>
+                     <p xml:id="tg2.4.171">
+                        <hi rend="bold" xml:id="tg2.4.171.1">1847</hi>
+                     </p>
+                     <p xml:id="tg2.4.172">Bekanntschaft mit dem Komponisten Robert Schumann.</p>
+                     <p xml:id="tg2.4.173">»Über die ethische und religiöse Bedeutung der neueren romantischen Poesie in Deutschland«.</p>
+                     <p xml:id="tg2.4.174">
+                        <hi rend="italic" xml:id="tg2.4.174.1">Dezember:</hi> Umzug nach Berlin.</p>
+                     <lb xml:id="tg2.4.175"/>
+                     <p xml:id="tg2.4.176">
+                        <hi rend="bold" xml:id="tg2.4.176.1">1848</hi>
+                     </p>
+                     <p xml:id="tg2.4.177">
+                        <hi rend="italic" xml:id="tg2.4.177.1">Mai:</hi> Wegen der Berliner Revolution Wohnungswechsel nach Köthen und Dresden.</p>
+                     <p xml:id="tg2.4.178">Entstehung politischer Gedichte.</p>
+                     <p xml:id="tg2.4.179">Der Aufsatz »Die deutschen Volksschriftsteller« erscheint in den »Historisch-politischen Blättern«.</p>
+                     <lb xml:id="tg2.4.180"/>
+                     <p xml:id="tg2.4.181">
+                        <hi rend="bold" xml:id="tg2.4.181.1">1849</hi>
+                     </p>
+                     <p xml:id="tg2.4.182">
+                        <hi rend="italic" xml:id="tg2.4.182.1">Januar:</hi> Tod des Bruders Wilhelm.</p>
+                     <p xml:id="tg2.4.183">
+                        <hi rend="italic" xml:id="tg2.4.183.1">Mai:</hi> Wegen des Dresdener Aufstandes vorübergehende Übersiedlung nach Köthen.</p>
+                     <p xml:id="tg2.4.184">
+                        <hi rend="italic" xml:id="tg2.4.184.1">Herbst:</hi> Rückkehr nach Berlin.</p>
+                     <lb xml:id="tg2.4.185"/>
+                     <p xml:id="tg2.4.186">
+                        <hi rend="bold" xml:id="tg2.4.186.1">1851</hi>
+                     </p>
+                     <p xml:id="tg2.4.187">
+                        <hi rend="italic" xml:id="tg2.4.187.1">Sommer:</hi> Besuch in Sedlnitz.</p>
+                     <p xml:id="tg2.4.188">»Der deutsche Roman des achtzehnten Jahrhunderts in seinem Verhältnis zum Christentum«.</p>
+                     <lb xml:id="tg2.4.189"/>
+                     <p xml:id="tg2.4.190">
+                        <hi rend="bold" xml:id="tg2.4.190.1">1853</hi>
+                     </p>
+                     <p xml:id="tg2.4.191">»Julian« (Epos).</p>
+                     <p xml:id="tg2.4.192">»Geistliche Schauspiele von Calderon« (Übersetzungen, 2. Band).</p>
+                     <p xml:id="tg2.4.193">
+                        <hi rend="italic" xml:id="tg2.4.193.1">November:</hi> Eichendorff erhält in München den Maximiliansorden für Wissenschaft und Kunst.</p>
+                     <lb xml:id="tg2.4.194"/>
+                     <p xml:id="tg2.4.195">
+                        <hi rend="bold" xml:id="tg2.4.195.1">1854</hi>
+                     </p>
+                     <p xml:id="tg2.4.196">In Berlin Zusammentreffen mit Theodor Fontane, Paul Heyse und Theodor Storm.</p>
+                     <p xml:id="tg2.4.197">»Zur Geschichte des Dramas«.</p>
+                     <lb xml:id="tg2.4.198"/>
+                     <p xml:id="tg2.4.199">
+                        <hi rend="bold" xml:id="tg2.4.199.1">1855</hi>
+                     </p>
+                     <p xml:id="tg2.4.200">
+                        <hi rend="italic" xml:id="tg2.4.200.1">Januar:</hi> Die Ehefrau Luise erkrankt schwer.</p>
+                     <p xml:id="tg2.4.201">
+                        <hi rend="italic" xml:id="tg2.4.201.1">Mai:</hi> Gemeinsame Übersiedlung nach Köthen.</p>
+                     <p xml:id="tg2.4.202">»Robert und Guiscard« (Epos).</p>
+                     <p xml:id="tg2.4.203">
+                        <hi rend="italic" xml:id="tg2.4.203.1">Sommer:</hi> Kur in Karlsbad.</p>
+                     <p xml:id="tg2.4.204">
+                        <hi rend="italic" xml:id="tg2.4.204.1">November:</hi> Umzug nach Neiße.</p>
+                     <p xml:id="tg2.4.205">
+                        <hi rend="italic" xml:id="tg2.4.205.1">3. Dezember:</hi> Tod Luises.</p>
+                     <lb xml:id="tg2.4.206"/>
+                     <p xml:id="tg2.4.207">
+                        <hi rend="bold" xml:id="tg2.4.207.1">1856</hi>
+                     </p>
+                     <p xml:id="tg2.4.208">
+                        <hi rend="italic" xml:id="tg2.4.208.1">Sommer:</hi> Auf Einladung des Breslauer Fürstbischofs Heinrich Förster Aufenthalt auf Schloss Johannesberg.</p>
+                     <p xml:id="tg2.4.209">
+                        <hi rend="italic" xml:id="tg2.4.209.1">Dezember:</hi> »Geschichte der poetischen Literatur Deutschlands« (2 Teile, vordatiert auf 1857).</p>
+                     <lb xml:id="tg2.4.210"/>
+                     <p xml:id="tg2.4.211">
+                        <hi rend="bold" xml:id="tg2.4.211.1">1857</hi>
+                     </p>
+                     <p xml:id="tg2.4.212">
+                        <hi rend="italic" xml:id="tg2.4.212.1">Sommer:</hi> Aufenthalt in Sedlnitz und auf Schloss Johannesburg.</p>
+                     <p xml:id="tg2.4.213">»Lucius« (Epos).</p>
+                     <p xml:id="tg2.4.214">
+                        <hi rend="italic" xml:id="tg2.4.214.1">26. November:</hi> Eichendorff stirbt in Neiße.</p>
+                  </div>
+               </body>
+         </text>
+      </TEI>
